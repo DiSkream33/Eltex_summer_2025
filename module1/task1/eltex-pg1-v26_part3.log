@@ -1,0 +1,22 @@
+mkdir -p D1/D2/D3
+cd D1
+cd D2
+echo "text" >> file.txt
+cd D3
+ln ../file.txt hardlink_file.txt
+ln -s ../file.txt symlink_file.txt
+ls -li
+cat hardlink_file.txt
+cat symlink_file.txt
+../file.txt hardlink_file.txt symlink_file.txt
+mv ~/D1/D2/file.txt ~/D1
+cat hardlink_file.txt
+cat symlink_file.txt
+/*Рабочей осталась жесткая ссылка так как жесткая ссылка и оригинальный файл это одно и то же место на диске - одинаковый инод*/ 
+rm -rf ~/D1/D2
+find ~/ -type f -mtime -1 -exec ls -lh {} \;
+which find
+
+file /usr/bin/find
+file /boot/initrd.img*
+Практика 1 - всё

@@ -1,0 +1,3295 @@
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ eh[Kcho @[K"tezt[K[Kzt[K[Kxt"
+[?2004ltext
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ сфе[K[K[Kecho "text"rm eltex-pg1-v26_part.log2.logls[Kess -r eltex-pg1-v26_part2.log
+[?2004l"eltex-pg1-v26_part2.log" may be a binary file.  See it anyway? 
+[?1049h[?1h=[?2004heltex-pg1-v26@eltex-2025-summer:~$ e[Kcho [K"tez[[Kz[[Kxt"
+[?2004ltext
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ 
+[3meltex-pg1-v26_part2.log (END)[23m[K[K[3m(END)[23m[K[K[3m(END)[23m[K[K[?1l>[?1049l[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls --colo[K[K[K[K[K[K[K[K[Kls
+[?2004l1.txt  1.txt.pub  eltex-pg1-v26_part2.log  eltex-pg1-v26_part.log  report_part1.txt
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls [K[K[Kem [K[K[Krm eltex-pg1-b[Kv25[K6I[K_part.log
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ rm eltex-pg1-v26_part.logls[K[Keltex-pg1-v26@eltex-2025-summer:~$ ls[K[Kless -r eltex-pg1-v26_part2.log[20Pecho "text"rm eltex-pg1-v26_part.log
+[?2004lrm: cannot remove 'eltex-pg1-v26_part.log': No such file or directory
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ rm eltex-pg1-v26_part.log[Kless -r eltex-pg1-v26_part2.log
+[?2004l"eltex-pg1-v26_part2.log" may be a binary file.  See it anyway? 
+[?1049h[?1h=[?2004heltex-pg1-v26@eltex-2025-summer:~$ e[Kcho [K"tez[[Kz[[Kxt"
+[?2004ltext
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ сф[[[Kls[ess -r eltex-pg1-v26_part2.log
+[?2004l"eltex-pg1-v26_part2.log" may be a binary file.  See it anyway? 
+[?1049h[?1h=[?2004heltex-pg1-v26@eltex-2025-summer:~$ e[Kcho [K"tez[[Kz[[Kxt"
+[?2004ltext
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ 
+[3meltex-pg1-v26_part2.log (END)[23m[K[K[3m(END)[23m[K[K[3m(END)[23m[K[K[?1l>[?1049l[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls --col[[[[[[[[[Kls
+[?2004l1.txt  1.txt.pub  eltex-pg1-v26_part2.log  eltex-pg1-v26_part.log  report_part1.txt
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls[[[Kem[[[Krm eltex-pg1-[Kv2[K6[K_part.log
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls[K[Keltex-pg1-v26@eltex-2025-summer:~$ l[[K[20Prm eltex-pg1-v26_part.log
+[3meltex-pg1-v26_part2.log (END)[23m[K[K [KESCESC[K[[[KAA[K[3m(END)[23m[K[K [KESCESC[K[[[KAA[K[3m(END)[23m[K[K [KESCESC[K[[[KAA[K[3m(END)[23m[K[K [KESCESC[K[[[KAA[K[3m(END)[23m[K[K[?1l>[?1049l[?2004heltex-pg1-v26@eltex-2025-summer:~$ q[K[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls
+[?2004l1.txt  1.txt.pub  eltex-pg1-v26_part2.log  report_part1.txt
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ echo
+[?2004l
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ mao[Kp
+[?2004lbash: map: command not found
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ man
+[?2004lWhat manual page do you want?
+For example, try 'man man'.
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ man man
+[?2004l[?1049h[?1h=MAN(1)                          Manual pager utils                          MAN(1)[m
+[m
+[1mNAME[0m[m
+       man - an interface to the system reference manuals[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mman[0m [[4mman[24m [4moptions[24m] [[[4msection[24m] [4mpage[24m ...] ...[m
+       [1mman[0m [1m-k[0m [[4mapropos[24m [4moptions[24m] [4mregexp[24m ...[m
+       [1mman[0m [1m-K[0m [[4mman[24m [4moptions[24m] [[4msection[24m] [4mterm[24m ...[m
+       [1mman[0m [1m-f[0m [[4mwhatis[24m [4moptions[24m] [4mpage[24m ...[m
+       [1mman[0m [1m-l[0m [[4mman[24m [4moptions[24m] [4mfile[24m ...[m
+       [1mman[0m [1m-w[0m|[1m-W[0m [[4mman[24m [4moptions[24m] [4mpage[24m ...[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mman[0m  is the system's manual pager.  Each [4mpage[24m argument given to [1mman[0m is nor‐[m
+       mally the name of a program, utility or function.  The [4mmanual[24m [4mpage[24m  associ‐[m
+       ated  with each of these arguments is then found and displayed.  A [4msection[24m,[m
+       if provided, will direct [1mman[0m to look only in that [4msection[24m  of  the  manual.[m
+       The  default action is to search in all of the available [4msections[24m following[m
+       a pre-defined order (see [1mDEFAULTS[0m), and to show only the first [4mpage[24m  found,[m
+       even if [4mpage[24m exists in several [4msections[24m.[m
+[m
+       The  table  below  shows  the [4msection[24m numbers of the manual followed by the[m
+       types of pages they contain.[m
+[m
+       1   Executable programs or shell commands[m
+       2   System calls (functions provided by the kernel)[m
+       3   Library calls (functions within program libraries)[m
+       4   Special files (usually found in [4m/dev[24m)[m
+       5   File formats and conventions, e.g. [4m/etc/passwd[24m[m
+       6   Games[m
+       7   Miscellaneous (including macro packages and conventions), e.g.  [1mman[0m(7),[m
+           [1mgroff[0m(7), [1mman-pages[0m(7)[m
+       8   System administration commands (usually only for root)[m
+       9   Kernel routines [Non standard][m
+[m
+       A manual [4mpage[24m consists of several sections.[m
+[m
+       Conventional  section names include [1mNAME[0m, [1mSYNOPSIS[0m, [1mCONFIGURATION[0m, [1mDESCRIP‐[0m[m
+       [1mTION[0m, [1mOPTIONS[0m, [1mEXIT[0m [1mSTATUS[0m, [1mRETURN[0m [1mVALUE[0m, [1mERRORS[0m, [1mENVIRONMENT[0m, [1mFILES[0m,  [1mVER‐[0m[m
+       [1mSIONS[0m, [1mCONFORMING[0m [1mTO[0m, [1mNOTES[0m, [1mBUGS[0m, [1mEXAMPLE[0m, [1mAUTHORS[0m, and [1mSEE[0m [1mALSO[0m.[m
+[m
+       The  following conventions apply to the [1mSYNOPSIS[0m section and can be used as[m
+       a guide in other sections.[m
+[m
+       [1mbold[0m [1mtext[0m          type exactly as shown.[m
+       [4mitalic[24m [4mtext[24m        replace with appropriate argument.[m
+       [[1m-abc[0m]             any or all arguments within [ ] are optional.[m
+       [1m-a[0m|[1m-b[0m              options delimited by | cannot be used together.[m
+       [4margument[24m ...       [4margument[24m is repeatable.[m
+       [[4mexpression[24m] ...   entire [4mexpression[24m within [ ] is repeatable.[m
+[m
+       Exact rendering may vary depending on the output device.  For instance, man[m
+       will  usually not be able to render italics when running in a terminal, and[m
+       will typically use underlined or coloured text instead.[m
+[m
+       The command or function illustration is a pattern  that  should  match  all[m
+       possible  invocations.  In some cases it is advisable to illustrate several[m
+       exclusive invocations as is shown in the [1mSYNOPSIS[0m section  of  this  manual[m
+       page.[m
+[m
+[1mEXAMPLES[0m[m
+       [1mman[0m [4mls[24m[m
+           Display the manual page for the [4mitem[24m (program) [4mls[24m.[m
+[m
+       [1mman[0m [4mman[24m.[4m7[24m[m
+[3m Manual page man(1) line 1 (press h for help or q to quit)[23m[K[K[?1l>[?1049l[?2004heltex-pg1-v26@eltex-2025-summer:~$ scr[K[K[Kscree[K[K[K[K[Kecho $HISTFILESIZW[Ke[KE
+[?2004l2000
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ echo $HISTFILESIZE[1PSIZE[1PSIZE[1PSIZE[1PSIZE
+[?2004l1000
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [Keltex-pg1-v26@eltex-2025-summer:~$ [Keltex-pg1-v26@eltex-2025-summer:~$ [Keltex-pg1-v26@eltex-2025-summer:~$ [Keltex-pg1-v26@eltex-2025-summer:~$ [Keltex-pg1-v26@eltex-2025-summer:~$ ды -в[K[K[K[K[Kls -d `[Kё[K~/.*
+[?2004l/home/eltex-pg1-v26/.bash_history  [0m[01;34m/home/eltex-pg1-v26/.config[0m   /home/eltex-pg1-v26/.screenrc
+/home/eltex-pg1-v26/.bash_logout   /home/eltex-pg1-v26/.lesshst  [01;34m/home/eltex-pg1-v26/.ssh[0m
+/home/eltex-pg1-v26/.bashrc        /home/eltex-pg1-v26/.profile  /home/eltex-pg1-v26/.viminfo
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls -d ~/.*echo $HISTSIZEFILESIZE[11Pman man[Kpecho[2Plsess -r eltex-pg1-v26_part2.log[6Prm eltex-pg1-v26_part.logless -r eltex-pg1-v26_part2.log[6Prm eltex-pg1-v26_part.logless -r eltex-pg1-v26_part2.log[20Pecho "text"screen -S "$`whoami`_part2" -L -Logfile "${USER}_part2.log"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "text"[Kless -r eltex-pg1-v26_part2.log[6Prm eltex-pg1-v26_part.logless -r eltex-pg1-v26_part2.logs[Kecho[1Pmapn manecho $HISTFILESIZE[4PSIZE[4Pls -d ~/.*[K[Keltex-pg1-v26@eltex-2025-summer:~$ у[Ke[Ke[Kexport HISTTIMEFOEMAN[K[K[K[KE[KRMAT="%d.%m.%Y %H:%M:%S"[K'[1P[1@'
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ e[Kvim ~/.bashrc
+[?2004l[?1000h[?1049h[?1h=[1;67r[23m[24m[0m[H[J[?25l[67;1H"~/.bashrc" 113L, 3526B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[1;1H[34m# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)[0m[2;75H[K[3;1H[34m# for examples[0m[3;15H[K[5;1H[34m# If not running interactively, don't do anything[0m
+[33mcase[0m [35m$-[0m [33min[0m
+    *i*[33m)[0m [33m;;[0m[8;7H*[33m)[0m [33mreturn;;
+esac[0m
+
+[34m# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options[0m
+[36mHISTCONTROL[0m=ignoreboth
+
+[34m# append to the history file, don't overwrite it[0m
+[33mshopt[0m [35m-s[0m histappend
+
+[34m# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)[0m
+[36mHISTSIZE[0m=[31m1000[0m
+[36mHISTFILESIZE[0m=[31m2000[0m
+
+[34m# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.[0m
+[33mshopt[0m [35m-s[0m checkwinsize
+
+[34m# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
+# make less more friendly for non-text input files, see lesspipe(1)
+#[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)[0m
+[33mif [[0m [33m-z[0m [33m"[0m[35m${debian_chroot[0m[33m:-[0m[35m}[0m[33m"[0m [33m][0m [33m&&[0m [33m[[0m [33m-r[0m /etc/debian_chroot [33m];[0m [33mthen[0m
+    [36mdebian_chroot[0m=[35m$([0m[35mcat /etc/debian_chroot[0m[35m)[0m
+[33mfi[0m
+
+[34m# set a fancy prompt (non-color, unless we know we "want" color)[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m
+    xterm-color|*-256color[33m)[0m [36mcolor_prompt[0m=yes[33m;;
+esac[0m
+
+[34m# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window
+# should be on the output of commands, not on the prompt
+#force_color_prompt=yes[0m
+
+[33mif [[0m [33m-n[0m [33m"[0m[35m$force_color_prompt[0m[33m"[0m [33m];[0m [33mthen
+[0m    [33mif [[0m [33m-x[0m /usr/bin/tput [33m][0m [33m&&[0m tput setaf [31m1[0m [33m>&[0m/dev/null[33m;[0m [33mthen[0m[50;9H[34m# We have color support; assume it's compliant with Ecma-48[51;9H# (ISO/IEC-6429). (Lack of such support is extremely rare, and such[52;9H# a case would tend to support setf rather than setaf.)[0m[53;9H[36mcolor_prompt[0m=yes
+    [33melse[0m[55;9H[36mcolor_prompt[0m=
+    [33mfi
+fi
+
+if [[0m [33m"[0m[35m$color_prompt[0m[33m"[0m [33m=[0m [31myes[0m [33m];[0m [33mthen[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[[[61;1H00m\]\$ [0m[33m'
+else[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\u@\h:\w\$ [0m[33m'
+fi
+unset[0m[36m color_prompt force_color_prompt[0m[67;83H1,1[11CTop[1;1H[34h[?25h[?25l[67;73H~@k[1;1H[67;73H   [2;1H[67;83H2[2;1H[34h[?25h[?25l[67;73H~@k[2;1H[67;73H   [3;1H[67;83H3[3;1H[34h[?25h[?25l[67;73H~@k[3;1H[67;73H   [4;1H[67;83H4,0-1[4;1H[34h[?25h[?25l[67;73H~@k[4;1H[67;73H   [5;1H[67;83H5,1  [5;1H[34h[?25h[?25l[67;73H~@k[5;1H[67;73H   [6;1H[67;83H6[6;1H[34h[?25h[?25l[67;73H~@k[6;1H[67;73H   [7;1H[67;83H7[7;1H[34h[?25h[?25l[67;73H~@k[7;1H[67;73H   [8;1H[67;83H8[8;1H[34h[?25h[?25l[67;73H~@k[8;1H[67;73H   [9;1H[67;83H9[9;1H[34h[?25h[?25l[67;73H~@k[9;1H[67;73H   [10;1H[67;83H10,0-1[10;1H[34h[?25h[?25l[67;73H~@k[10;1H[67;73H   [11;1H[67;84H1,1  [11;1H[34h[?25h[?25l[67;73H~@k[11;1H[67;73H   [12;1H[67;84H2[12;1H[34h[?25h[?25l[67;73H~@k[12;1H[67;73H   [13;1H[67;84H3[13;1H[34h[?25h[?25l[67;73H~@k[13;1H[67;73H   [14;1H[67;84H4,0-1[14;1H[34h[?25h[?25l[14;66r[14;1H[L[1;67r[14;1Hs[67;1H[1m-- INSERT --[0m[67;13H[K[67;83H14,2[10CTop[14;2H[34h[?25h[?25l[14;1H[K[67;86H1[14;1H[34h[?25h[?25l[67;84H5[15;1H[34h[?25h[?25l[67;84H6[16;1H[34h[?25h[?25l[67;84H7[17;1H[34h[?25h[?25l[67;84H8[18;1H[34h[?25h[?25l[67;84H9[19;1H[34h[?25h[?25l[67;83H20[20;1H[34h[?25h[?25l[67;84H1[21;1H[34h[?25h[?25l[67;84H2[22;1H[34h[?25h[?25l[67;84H3[23;1H[34h[?25h[?25l[67;84H4[24;1H[34h[?25h[?25l[67;84H5[25;1H[34h[?25h[?25l[67;84H6[26;1H[34h[?25h[?25l[67;84H7[27;1H[34h[?25h[?25l[67;84H8[28;1H[34h[?25h[?25l[67;84H9[29;1H[34h[?25h[?25l[67;83H30[30;1H[34h[?25h[?25l[67;84H1[31;1H[34h[?25h[?25l[67;84H2[32;1H[34h[?25h[?25l[67;84H3[33;1H[34h[?25h[?25l[67;84H4[34;1H[34h[?25h[?25l[67;84H5[35;1H[34h[?25h[?25l[67;84H6[36;1H[34h[?25h[?25l[67;84H7[37;1H[34h[?25h[?25l[67;84H8[38;1H[34h[?25h[?25l[67;84H9[39;1H[34h[?25h[?25l[67;83H40[40;1H[34h[?25h[?25l[67;84H1[41;1H[34h[?25h[?25l[67;84H2[42;1H[34h[?25h[?25l[67;84H3[43;1H[34h[?25h[?25l[67;84H4[44;1H[34h[?25h[?25l[67;84H5[45;1H[34h[?25h[?25l[67;84H6[46;1H[34h[?25h[?25l[67;84H7[47;1H[34h[?25h[?25l[67;84H8[48;1H[34h[?25h[?25l[67;84H9[49;1H[34h[?25h[?25l[67;83H50[50;1H[34h[?25h[?25l[67;84H1[51;1H[34h[?25h[?25l[67;84H2[52;1H[34h[?25h[?25l[67;84H3[53;1H[34h[?25h[?25l[67;84H4[54;1H[34h[?25h[?25l[67;84H5[55;1H[34h[?25h[?25l[67;84H6[56;1H[34h[?25h[?25l[67;84H7[57;1H[34h[?25h[?25l[67;84H8[58;1H[34h[?25h[?25l[67;84H9[59;1H[34h[?25h[?25l[67;83H60[60;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H61,1[11C2%[60;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# If this is an xterm set the title to user@host:dir[0m[67;83H[K[67;83H62,1[11C4%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m[67;83H[K[67;83H63,1[11C6%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1Hxterm*|rxvt*[33m)[0m[67;83H[K[67;83H64,1[11C8%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[35mPS1[0m[33m="[0m[35m\[\e[0m[31m]0;[0m[35m${debian_chroot[0m[33m:+[0m([35m$debian_chroot[0m)[35m}[0m[35m\u[0m[31m@[0m[35m\h[0m[31m: [0m[35m\w\a\][0m[35m$PS1[0m[33m"[0m[67;83H[K[67;83H65,1[10C10%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[33m;;[0m[67;83H[K[67;83H66,1[10C12%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H*[33m)[0m[67;83H[K[67;83H67,1[10C14%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[33m;;[0m[67;83H[K[67;83H68,1[10C16%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mesac[0m[67;83H[K[67;83H69,1[10C18%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H70,1[10C20%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# enable color support of ls and also add handy aliases[0m[67;83H[K[67;83H71,1[10C22%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mif [[0m [33m-x[0m /usr/bin/dircolors [33m];[0m [33mthen[0m[67;83H[K[67;83H72,1[10C24%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[33mtest[0m [33m-r[0m ~/.dircolors [33m&&[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b ~/.dircolors[0m[35m)[0m[33m"[0m [33m||[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b[0m[35m)[0m[33m"[0m[67;83H[K[67;83H73,1[10C26%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[33malias [0m[36mls[0m[33m='[0m[31mls --color=auto[0m[33m'[0m[67;83H[K[67;83H74,1[10C28%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[34m#alias dir='dir --color=auto'[0m[67;83H[K[67;83H75,1[10C30%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[34m#alias vdir='vdir --color=auto'[0m[67;83H[K[67;83H76,1[10C32%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H77,1[10C34%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[34m#alias grep='grep --color=auto'[0m[67;83H[K[67;83H78,1[10C36%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[34m#alias fgrep='fgrep --color=auto'[0m[67;83H[K[67;83H79,1[10C38%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;5H[34m#alias egrep='egrep --color=auto'[0m[67;83H[K[67;83H80,1[10C40%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mfi[0m[67;83H[K[67;83H81,1[10C42%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H82,1[10C44%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# colored GCC warnings and errors[0m[67;83H[K[67;83H83,1[10C46%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'[0m[67;83H[K[67;83H84,1[10C48%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H85,1[10C51%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# some more ls aliases[0m[67;83H[K[67;83H86,1[10C53%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m#alias ll='ls -l'[0m[67;83H[K[67;83H87,1[10C55%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m#alias la='ls -A'[0m[67;83H[K[67;83H88,1[10C57%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m#alias l='ls -CF'[0m[67;83H[K[67;83H89,1[10C59%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H90,1[10C61%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# Alias definitions.[0m[67;83H[K[67;83H91,1[10C63%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# You may want to put all your additions into a separate file like[0m[67;83H[K[67;83H92,1[10C65%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# ~/.bash_aliases, instead of adding them here directly.[0m[67;83H[K[67;83H93,1[10C67%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# See /usr/share/doc/bash-doc/examples in the bash-doc package.[0m[67;83H[K[67;83H94,1[10C69%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H95,1[10C71%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mif [[0m [33m-f[0m ~/.bash_aliases [33m];[0m [33mthen[0m[67;83H[K[67;83H96,1[10C73%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;4H[33m . [0m~/.bash_aliases[67;83H[K[67;83H97,1[10C75%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mfi[0m[67;83H[K[67;83H98,1[10C77%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H99,1[10C79%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# enable programmable completion features (you don't need to enable[0m[67;83H[K[67;83H100,1[9C81%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# this, if it's already enabled in /etc/bash.bashrc and /etc/profile[0m[67;83H[K[67;83H101,1[9C83%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[34m# sources /etc/bash.bashrc).[0m[67;83H[K[67;83H102,1[9C85%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mif ![0m [33mshopt[0m [35m-oq[0m posix[33m;[0m [33mthen[0m[67;83H[K[67;83H103,1[9C87%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;3H[33mif [[0m [33m-f[0m /usr/share/bash-completion/bash_completion [33m];[0m [33mthen[0m[67;83H[K[67;83H104,1[9C89%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;4H[33m . [0m/usr/share/bash-completion/bash_completion[67;83H[K[67;83H105,1[9C91%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;3H[33melif[0m [33m[[0m [33m-f[0m /etc/bash_completion [33m];[0m [33mthen[0m[67;83H[K[67;83H106,1[9C93%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;4H[33m . [0m/etc/bash_completion[67;83H[K[67;83H107,1[9C95%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;3H[33mfi[0m[67;83H[K[67;83H108,1[9C97%[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[66;1H[33mfi[0m[67;83H[K[67;83H109,1[9CBot[61;1H[34h[?25h[?25l[67;84H10[62;1H[34h[?25h[?25l[67;85H1[63;1H[34h[?25h[?25l[67;85H2[64;1H[34h[?25h[?25l[67;85H3[65;1H[34h[?25h[?25l[67;85H4[66;1H[34h[?25h[?25l[67;87H2[66;2H[34h[?25h[?25l[67;87H3[66;3H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[67;83H[K[67;83H115,1[9CBot[66;1H[34h[?25h[?25lу[67;87H3-2[66;2H[34h[?25h[?25lч[67;87H5-3[66;3H[34h[?25h[?25lз[67;87H7-4[66;4H[34h[?25h[?25lщ[67;87H9-5[66;5H[34h[?25h[?25lе[67;87H11-6[66;6H[34h[?25h[?25l[66;5H[K[67;87H9-5 [66;5H[34h[?25h[?25l[66;4H[K[67;87H7-4[66;4H[34h[?25h[?25l[66;3H[K[67;87H5-3[66;3H[34h[?25h[?25l[66;2H[K[67;87H3-2[66;2H[34h[?25h[?25l[66;1H[K[67;87H1  [66;1H[34h[?25h[?25le[67;87H2[66;2H[34h[?25h[?25lx[67;87H3[66;3H[34h[?25h[?25lp[67;87H4[66;4H[34h[?25h[?25lo[67;87H5[66;5H[34h[?25h[?25lr[67;87H6[66;6H[34h[?25h[?25l[33mexport[0m[67;87H7[66;7H[34h[?25h[?25l[67;87H8[66;8H[34h[?25h[?25l[67;85H4,3[65;3H[34h[?25h[?25l[67;85H5,8[66;8H[34h[?25h[?25l[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[67;87H49[66;49H[34h[?25h[?25l[67;88H8[66;48H[34h[?25h[?25l[67;88H7[66;47H[34h[?25h[?25l[67;88H6[66;46H[34h[?25h[?25l[67;88H5[66;45H[34h[?25h[?25l[67;88H4[66;44H[34h[?25h[?25l[67;88H3[66;43H[34h[?25h[?25l[67;88H2[66;42H[34h[?25h[?25l[67;88H1[66;41H[34h[?25h[?25l[67;88H0[66;40H[34h[?25h[?25l[67;87H39[66;39H[34h[?25h[?25l[67;88H8[66;38H[34h[?25h[?25l[67;88H7[66;37H[34h[?25h[?25l[67;88H6[66;36H[34h[?25h[?25l[67;88H5[66;35H[34h[?25h[?25l[67;88H4[66;34H[34h[?25h[?25l[67;88H3[66;33H[34h[?25h[?25l[67;88H2[66;32H[34h[?25h[?25l[67;88H1[66;31H[34h[?25h[?25l[67;88H0[66;30H[34h[?25h[?25l[67;87H29[66;29H[34h[?25h[?25l[67;88H8[66;28H[34h[?25h[?25l[67;88H7[66;27H[34h[?25h[?25l[67;88H6[66;26H[34h[?25h[?25l[67;88H5[66;25H[34h[?25h[?25l[67;88H4[66;24H[34h[?25h[?25l[67;88H3[66;23H[34h[?25h[?25l[67;88H1[66;21H[34h[?25h[?25l[67;88H0[66;20H[34h[?25h[?25l[67;87H18[66;18H[34h[?25h[?25l[67;88H7[66;17H[34h[?25h[?25l[67;88H6[66;16H[34h[?25h[?25l[67;88H5[66;15H[34h[?25h[?25l[67;88H4[66;14H[34h[?25h[?25l[67;88H3[66;13H[34h[?25h[?25l[67;88H2[66;12H[34h[?25h[?25l[67;88H1[66;11H[34h[?25h[?25l[67;88H0[66;10H[34h[?25h[?25l[67;87H9 [66;9H[34h[?25h[?25l[67;87H8[66;8H[34h[?25h[?25lexportexport [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;48H[K[67;87H7[66;7H[34h[?25h[?25lexport [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;47H[K[67;87H6[66;6H[34h[?25h[?25lexport [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;46H[K[67;87H5[66;5H[34h[?25h[?25lexport [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;45H[K[67;87H4[66;4H[34h[?25h[?25lexport [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;44H[K[67;87H3[66;3H[34h[?25h[?25lexport [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;43H[K[67;87H2[66;2H[34h[?25h[?25l[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;42H[K[67;87H1[66;1H[34h[?25h[?25l[65;1Hfiexport [35mHISTTIMEFORMAT[0m[33m='[0m[31m%d.%m.%Y %H:%M:%S [0m
+[1m[34m~                                                                                                   [0m[67;85H4,3[65;3H[34h[?25h[?25lexport [35mHISTTIMEFORMAT[0m[33m='[0m[31m%d.%m.%Y %H:%M:%S [0m[65;43H[K[67;87H2[65;2H[34h[?25h[?25liexport [35mHISTTIMEFORMAT[0m[33m='[0m[31m%d.%m.%Y %H:%M:%S [0m[67;87H3[65;3H[34h[?25h[?25l[33mfi[0m[65;3H[K[66;1H[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m[66;42H[K[67;85H5,1[66;1H[34h[?25h[67;1H[K[?25l[67;83H115,1[9CBot[66;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[65;1Hq[65;2H[K[66;1H[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S [0m
+[1m-- INSERT --[0m[67;83H[K[67;83H115,2[9CBot[65;2H[34h[?25h[?25l[65;1H[K[67;87H1[65;1H[34h[?25h[?25l[67;85H6[66;1H[34h[?25h[?25l[67;87H2[66;2H[34h[?25h[?25l[67;87H3[66;3H[34h[?25h[?25l[67;87H4[66;4H[34h[?25h[?25l[67;87H5[66;5H[34h[?25h[?25l[67;87H6[66;6H[34h[?25h[?25l[67;87H7[66;7H[34h[?25h[?25l[67;87H8[66;8H[34h[?25h[?25l[67;87H9[66;9H[34h[?25h[?25l[67;87H10[66;10H[34h[?25h[?25l[67;88H1[66;11H[34h[?25h[?25l[67;88H2[66;12H[34h[?25h[?25l[67;88H3[66;13H[34h[?25h[?25l[67;88H4[66;14H[34h[?25h[?25l[67;88H5[66;15H[34h[?25h[?25l[67;88H6[66;16H[34h[?25h[?25l[67;88H7[66;17H[34h[?25h[?25l[67;88H8[66;18H[34h[?25h[?25l[67;88H9[66;19H[34h[?25h[?25l[67;87H20[66;20H[34h[?25h[?25l[67;88H1[66;21H[34h[?25h[?25l[67;88H2[66;22H[34h[?25h[?25l[67;88H3[66;23H[34h[?25h[?25l[67;88H4[66;24H[34h[?25h[?25l[67;88H5[66;25H[34h[?25h[?25l[67;88H6[66;26H[34h[?25h[?25l[67;88H7[66;27H[34h[?25h[?25l[67;88H8[66;28H[34h[?25h[?25l[67;88H9[66;29H[34h[?25h[?25l[67;87H30[66;30H[34h[?25h[?25l[67;88H1[66;31H[34h[?25h[?25l[67;88H2[66;32H[34h[?25h[?25l[67;88H3[66;33H[34h[?25h[?25l[67;88H4[66;34H[34h[?25h[?25l[67;88H5[66;35H[34h[?25h[?25l[67;88H6[66;36H[34h[?25h[?25l[67;88H7[66;37H[34h[?25h[?25l[67;88H8[66;38H[34h[?25h[?25l[67;88H9[66;39H[34h[?25h[?25l[67;87H40[66;40H[34h[?25h[?25l[67;88H1[66;41H[34h[?25h[?25l[67;88H2[66;42H[34h[?25h[?25l[67;88H1[66;41H[34h[?25h[?25l[67;88H0[66;40H[34h[?25h[?25l[67;87H39[66;39H[34h[?25h[?25l[67;87H40[66;40H[34h[?25h[?25l[67;88H1[66;41H[34h[?25h[?25l[33m'[0m[67;88H2[66;42H[34h[?25h[67;1H[K[66;41H[?25l[67;73H^[[66;41H[67;73H  [66;42H[67;83H116,41[8CBot[66;41H[34h[?25h[?25l[67;73H^[[66;41H[67;73H  [66;41H[67;73H^[[66;41H[67;73H  [66;41H[34h[?25h[?25l[67;73H:[66;41H[67;73H[K[67;1H:[?1000l[34h[?25hwq[?1000h[?25l[?1000l".bashrc" 116L, 3571B written
+[?1l>[?1049l[34h[?25h[?2004heltex-pg1-v26@eltex-2025-summer:~$ history
+[?2004l    1  14.07.2025 19:43:51screen -ls
+    2  14.07.2025 19:43:51map screen
+    3  14.07.2025 19:43:51man -Lru man
+    4  14.07.2025 19:43:51man man
+    5  14.07.2025 19:43:51man -Lru screen
+    6  14.07.2025 19:43:51screen -S -d -m 
+    7  14.07.2025 19:43:51screen -S -d -m
+    8  14.07.2025 19:43:51ls
+    9  14.07.2025 19:43:51cd ..
+   10  14.07.2025 19:43:51ls
+   11  14.07.2025 19:43:51cd /user2
+   12  14.07.2025 19:43:51cd \user2
+   13  14.07.2025 19:43:51clear
+   14  14.07.2025 19:43:51ls
+   15  14.07.2025 19:43:51cd eltex-pg1-v26
+   16  14.07.2025 19:43:51map -Lru screen
+   17  14.07.2025 19:43:51man -Lru screen
+   18  14.07.2025 19:43:51man man
+   19  14.07.2025 19:43:51man -Lru screen
+   20  14.07.2025 19:43:51screen -S
+   21  14.07.2025 19:43:51screen
+   22  14.07.2025 19:43:51pswd
+   23  14.07.2025 19:43:51psd
+   24  14.07.2025 19:43:51passwd eltex-pg1-v26
+   25  14.07.2025 19:43:51log
+   26  14.07.2025 19:43:51history
+   27  14.07.2025 19:43:51q
+   28  14.07.2025 19:43:51history
+   29  14.07.2025 19:43:51top
+   30  14.07.2025 19:43:51screen -S 5717.-d
+   31  14.07.2025 19:43:51screen -S 40006.top
+   32  14.07.2025 19:43:51watch/usr/bin/vmstat
+   33  14.07.2025 19:43:51/watch/usr/bin/vmstat
+   34  14.07.2025 19:43:51cd /watch/usr/bin/vmstat
+   35  14.07.2025 19:43:51cd watch/usr/bin/vmstat
+   36  14.07.2025 19:43:51ls
+   37  14.07.2025 19:43:51ls -la
+   38  14.07.2025 19:43:51history
+   39  14.07.2025 19:43:51ls -la
+   40  14.07.2025 19:43:51ls
+   41  14.07.2025 19:43:51screen -ls
+   42  14.07.2025 19:43:51history
+   43  14.07.2025 19:43:51screen -la
+   44  14.07.2025 19:43:51history
+   45  14.07.2025 19:43:51watch/usr/bin/vmstart
+   46  14.07.2025 19:43:51screen -S report
+   47  14.07.2025 19:43:51screen -ls
+   48  14.07.2025 19:43:51screen -S 40006.top
+   49  14.07.2025 19:43:51watch/usr/bin/vmstart
+   50  14.07.2025 19:43:51watch/usr/bin/vmstat
+   51  14.07.2025 19:43:51watch /usr/bin/vmstat
+   52  14.07.2025 19:43:51history
+   53  14.07.2025 19:43:51screen -ls
+   54  14.07.2025 19:43:51screen -r 40006.top
+   55  14.07.2025 19:43:51screen 40006.top
+   56  14.07.2025 19:43:51screen -S 40006.top
+   57  14.07.2025 19:43:51screen -ls
+   58  14.07.2025 19:43:51ls -la
+   59  14.07.2025 19:43:51.bash_history
+   60  14.07.2025 19:43:51vim .bash_history
+   61  14.07.2025 19:43:51history
+   62  14.07.2025 19:43:51screen -la
+   63  14.07.2025 19:43:51history
+   64  14.07.2025 19:43:51screen -ls
+   65  14.07.2025 19:43:51screen -r 266210.-m
+   66  14.07.2025 19:43:51history
+   67  14.07.2025 19:43:51screen -S 40006.top
+   68  14.07.2025 19:43:51history
+   69  14.07.2025 19:43:51man -Lsr history
+   70  14.07.2025 19:43:51screen -S top -d -m
+   71  14.07.2025 19:43:51screen -ls
+   72  14.07.2025 19:43:51top
+   73  14.07.2025 19:43:51screen -ls
+   74  14.07.2025 19:43:51screen -r 40006.top
+   75  14.07.2025 19:43:51w
+   76  14.07.2025 19:43:51screen -r
+   77  14.07.2025 19:43:51w
+   78  14.07.2025 19:43:51w -la
+   79  14.07.2025 19:43:51w -o
+   80  14.07.2025 19:43:51screen -S
+   81  14.07.2025 19:43:51screen -d -m
+   82  14.07.2025 19:43:51top
+   83  14.07.2025 19:43:51screen -ls
+   84  14.07.2025 19:43:51screen -ls -h
+   85  14.07.2025 19:43:51screen -h - ls
+   86  14.07.2025 19:43:51screen -h -ls
+   87  14.07.2025 19:43:51screen -ls
+   88  14.07.2025 19:43:51screen -ls
+   89  14.07.2025 19:43:51map screen
+   90  14.07.2025 19:43:51man screen
+   91  14.07.2025 19:43:51screen -ls
+   92  14.07.2025 19:43:51screen
+   93  14.07.2025 19:43:51ls -ls
+   94  14.07.2025 19:43:51screen -S
+   95  14.07.2025 19:43:51screen -S -m
+   96  14.07.2025 19:43:51screen -ls
+   97  14.07.2025 19:43:51screen -r 52582.40006.top 
+   98  14.07.2025 19:43:51screen -r [screen is terminating]
+   99  14.07.2025 19:43:51screen -r 49826.40006.top 
+  100  14.07.2025 19:43:51screen -ls
+  101  14.07.2025 19:43:51screen -r 49826.40006.top
+  102  14.07.2025 19:43:51screen -r 40006.top
+  103  14.07.2025 19:43:51screen -ls
+  104  14.07.2025 19:43:51screen -r 48476.5717.-d
+  105  14.07.2025 19:43:51screen -r 48476.5717.-d 40006.top
+  106  14.07.2025 19:43:51screen -r 40006.top
+  107  14.07.2025 19:43:51screen -ls
+  108  14.07.2025 19:43:51screen -r 40006.top
+  109  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  110  14.07.2025 19:43:51screen -r 363.eltex-2025-summer
+  111  14.07.2025 19:43:51screen -ls
+  112  14.07.2025 19:43:51screen -r 40006.top
+  113  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  114  14.07.2025 19:43:51screen -r 6662.-d
+  115  14.07.2025 19:43:51screen -ls
+  116  14.07.2025 19:43:51screen -r 5717.-d
+  117  14.07.2025 19:43:51reset
+  118  14.07.2025 19:43:51screen -ls
+  119  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  120  14.07.2025 19:43:51screen -ls
+  121  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  122  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  123  14.07.2025 19:43:51screen -ls
+  124  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  125  14.07.2025 19:43:51screen -ls
+  126  14.07.2025 19:43:51w
+  127  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  128  14.07.2025 19:43:51screen -ls
+  129  14.07.2025 19:43:51w
+  130  14.07.2025 19:43:51screen
+  131  14.07.2025 19:43:51screen -S
+  132  14.07.2025 19:43:51screen
+  133  14.07.2025 19:43:51screen -ls
+  134  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  135  14.07.2025 19:43:51screen -ls
+  136  14.07.2025 19:43:51screen
+  137  14.07.2025 19:43:51screen -ls
+  138  14.07.2025 19:43:51screen -r 780.pts-3.eltex-2025-summer
+  139  14.07.2025 19:43:51screen -ls
+  140  14.07.2025 19:43:51screen
+  141  14.07.2025 19:43:51screen -r 800.pts-3.eltex-2025-summer
+  142  14.07.2025 19:43:51screen
+  143  14.07.2025 19:43:51screen -ls
+  144  14.07.2025 19:43:51screen
+  145  14.07.2025 19:43:51screen -lы
+  146  14.07.2025 19:43:51screen -ls
+  147  14.07.2025 19:43:51screen -ls
+  148  14.07.2025 19:43:51screen -r 879.pts-3.eltex-2025-summer
+  149  14.07.2025 19:43:51screen -S top -d
+  150  14.07.2025 19:43:51screen -ls
+  151  14.07.2025 19:43:51screen -S top -d -m
+  152  14.07.2025 19:43:51screen -S top -
+  153  14.07.2025 19:43:51screen -S top -d
+  154  14.07.2025 19:43:51screen -ls
+  155  14.07.2025 19:43:51screen -S top -d
+  156  14.07.2025 19:43:51screen -r 945.top
+  157  14.07.2025 19:43:51screen -ls
+  158  14.07.2025 19:43:51screen -S top -d -m top
+  159  14.07.2025 19:43:51screen -ls
+  160  14.07.2025 19:43:51screen -r 968.top
+  161  14.07.2025 19:43:51screen -ls
+  162  14.07.2025 19:43:51screen -S top -d -m top
+  163  14.07.2025 19:43:51screen -ls
+  164  14.07.2025 19:43:51screen -r 1613.top
+  165  14.07.2025 19:43:51screen -ls
+  166  14.07.2025 19:43:51screen -S top -d -m top
+  167  14.07.2025 19:43:51screen -ls
+  168  14.07.2025 19:43:51screen -r 1622.top
+  169  14.07.2025 19:43:51screen -ls
+  170  14.07.2025 19:43:51top
+  171  14.07.2025 19:43:51screen -ls
+  172  14.07.2025 19:43:51screen -S top -d -m top
+  173  14.07.2025 19:43:51screen -ls
+  174  14.07.2025 19:43:51screen -S top -d -m "bash; top"
+  175  14.07.2025 19:43:51screen -ls
+  176  14.07.2025 19:43:51screen -r 1768.top
+  177  14.07.2025 19:43:51screen -r top
+  178  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  179  14.07.2025 19:43:51screen -r top
+  180  14.07.2025 19:43:51screen -ls
+  181  14.07.2025 19:43:51man bash
+  182  14.07.2025 19:43:51man -Lru bash
+  183  14.07.2025 19:43:51screen -ls
+  184  14.07.2025 19:43:51screen -r top
+  185  14.07.2025 19:43:51bash
+  186  14.07.2025 19:43:51bash
+  187  14.07.2025 19:43:51screen -S watch
+  188  14.07.2025 19:43:51history
+  189  14.07.2025 19:43:51screen -ls
+  190  14.07.2025 19:43:51screen -S watch -dm
+  191  14.07.2025 19:43:51screen -ls
+  192  14.07.2025 19:43:51screen -r watch
+  193  14.07.2025 19:43:51scren -ls
+  194  14.07.2025 19:43:51screen -ls
+  195  14.07.2025 19:43:51screen -r top
+  196  14.07.2025 19:43:51screen -r watch
+  197  14.07.2025 19:43:51screen -S watch -dm watch /usr/bin/vmstat
+  198  14.07.2025 19:43:51screen -r watch
+  199  14.07.2025 19:43:51screen -ls
+  200  14.07.2025 19:43:51screen -r top
+  201  14.07.2025 19:43:51screen -S watch
+  202  14.07.2025 19:43:51screen -ls
+  203  14.07.2025 19:43:51screen -S top -d -m top
+  204  14.07.2025 19:43:51screen -ls
+  205  14.07.2025 19:43:51screen -r 1632.top
+  206  14.07.2025 19:43:51screen -ls
+  207  14.07.2025 19:43:51screen -r 1632.watch
+  208  14.07.2025 19:43:51screen -r 1607.watch
+  209  14.07.2025 19:43:51screen -ls
+  210  14.07.2025 19:43:51screen -S top -d -m top
+  211  14.07.2025 19:43:51screen -ls
+  212  14.07.2025 19:43:51screen -r 1649.top
+  213  14.07.2025 19:43:51screen -S top -d -m top
+  214  14.07.2025 19:43:51screen -ls
+  215  14.07.2025 19:43:51screen -r 1657.top
+  216  14.07.2025 19:43:51screen top -d -m top
+  217  14.07.2025 19:43:51screen -ls
+  218  14.07.2025 19:43:51screen -ls
+  219  14.07.2025 19:43:51screen -r 1677.top
+  220  14.07.2025 19:43:51screen -ls
+  221  14.07.2025 19:43:51screen -S top
+  222  14.07.2025 19:43:51screen -ls
+  223  14.07.2025 19:43:51screen -r 1695.top
+  224  14.07.2025 19:43:51screen -r 1688.top
+  225  14.07.2025 19:43:51screen -r 1695.top
+  226  14.07.2025 19:43:51screen -ls
+  227  14.07.2025 19:43:51screen -S test -dm bash -c "top; exec bash"
+  228  14.07.2025 19:43:51screen -S top -d -m bash; top
+  229  14.07.2025 19:43:51screen -ls
+  230  14.07.2025 19:43:51screen -r 1730.top
+  231  14.07.2025 19:43:51screen -r 1721.top
+  232  14.07.2025 19:43:51screen -r 1721.test
+  233  14.07.2025 19:43:51screen -S top -d -m bash -c top
+  234  14.07.2025 19:43:51screen -ls
+  235  14.07.2025 19:43:51screen -r 1744.test
+  236  14.07.2025 19:43:51screen -r 1744.top
+  237  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  238  14.07.2025 19:43:51screen -ls
+  239  14.07.2025 19:43:51screen -r 1753.top
+  240  14.07.2025 19:43:51screen -S top -d -m "top; exec bash"
+  241  14.07.2025 19:43:51screen -ls
+  242  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  243  14.07.2025 19:43:51screen -ls
+  244  14.07.2025 19:43:51screen -r top
+  245  14.07.2025 19:43:51screen -ls
+  246  14.07.2025 19:43:51screen -r top
+  247  14.07.2025 19:43:51screen -ls
+  248  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  249  14.07.2025 19:43:51screen -r top
+  250  14.07.2025 19:43:51screen -ls
+  251  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  252  14.07.2025 19:43:51screen -ls
+  253  14.07.2025 19:43:51screen -r top
+  254  14.07.2025 19:43:51screen -ls
+  255  14.07.2025 19:43:51screen -r watch
+  256  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  257  14.07.2025 19:43:51screen -ls
+  258  14.07.2025 19:43:51screen -r top
+  259  14.07.2025 19:43:51screen -ls
+  260  14.07.2025 19:43:51screen -r watch
+  261  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  262  14.07.2025 19:43:51screen -ls
+  263  14.07.2025 19:43:51screen -r top
+  264  14.07.2025 19:43:51screen -r watch
+  265  14.07.2025 19:43:51watch /usr/bin/vmstat
+  266  14.07.2025 19:43:51screen -r top
+  267  14.07.2025 19:43:51screen -ls
+  268  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  269  14.07.2025 19:43:51screen -r top
+  270  14.07.2025 19:43:51q
+  271  14.07.2025 19:43:51screen -S watch
+  272  14.07.2025 19:43:51screen -r watch
+  273  14.07.2025 19:43:51screen -r top
+  274  14.07.2025 19:43:51screen -r watch
+  275  14.07.2025 19:43:51screen -r top
+  276  14.07.2025 19:43:51screen -S watch
+  277  14.07.2025 19:43:51screen -ls
+  278  14.07.2025 19:43:51screen -r 5141.watch
+  279  14.07.2025 19:43:51screen -ls
+  280  14.07.2025 19:43:51screen -r top
+  281  14.07.2025 19:43:51screen -ls
+  282  14.07.2025 19:43:51screen -r watch
+  283  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  284  14.07.2025 19:43:51screen -ls
+  285  14.07.2025 19:43:51screen -r top
+  286  14.07.2025 19:43:51screen -ls
+  287  14.07.2025 19:43:51screen -S watch
+  288  14.07.2025 19:43:51screen -ls
+  289  14.07.2025 19:43:51screen -S watch
+  290  14.07.2025 19:43:51watch /usr/bin/vmstat
+  291  14.07.2025 19:43:51screen -ls
+  292  14.07.2025 19:43:51screen -r watch
+  293  14.07.2025 19:43:51screen -ls
+  294  14.07.2025 19:43:51screen -r watch
+  295  14.07.2025 19:43:51screen -ls
+  296  14.07.2025 19:43:51screen -r watch
+  297  14.07.2025 19:43:51screen -ls
+  298  14.07.2025 19:43:51screen -r watch
+  299  14.07.2025 19:43:51screen -r top
+  300  14.07.2025 19:43:51screen -ls
+  301  14.07.2025 19:43:51screen -r top
+  302  14.07.2025 19:43:51screen -r watch
+  303  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  304  14.07.2025 19:43:51screen -ls
+  305  14.07.2025 19:43:51screen -r top
+  306  14.07.2025 19:43:51screen -ls
+  307  14.07.2025 19:43:51screen -S vi
+  308  14.07.2025 19:43:51screen -ls
+  309  14.07.2025 19:43:51screen -r vi
+  310  14.07.2025 19:43:51screen -ls
+  311  14.07.2025 19:43:51logout
+  312  14.07.2025 19:43:51screen -ls
+  313  14.07.2025 19:43:51screen -r vi
+  314  14.07.2025 19:43:51screen -S Skripko_DI_part2
+  315  14.07.2025 19:43:51ls -la
+  316  14.07.2025 19:43:51screen -S `Skripko_DI`part2
+  317  14.07.2025 19:43:51screen ls
+  318  14.07.2025 19:43:51screen -ls
+  319  14.07.2025 19:43:51screen -r part2
+  320  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  321  14.07.2025 19:43:51screen -r p
+  322  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  323  14.07.2025 19:43:51screen -ls
+  324  14.07.2025 19:43:51screen -S SkripkoDI_part2
+  325  14.07.2025 19:43:51history
+  326  14.07.2025 19:43:51whoami
+  327  14.07.2025 19:43:51ssh-copy-id
+  328  14.07.2025 19:43:51ды
+  329  14.07.2025 19:43:51ls
+  330  14.07.2025 19:43:511.txt  1.txt.pub  report_part1.txt
+  331  14.07.2025 19:43:51clear
+  332  14.07.2025 19:43:51ssh-keygen
+  333  14.07.2025 19:43:51cd
+  334  14.07.2025 19:43:51pwd
+  335  14.07.2025 19:43:51ls -la
+  336  14.07.2025 19:43:51ssh-keygen
+  337  14.07.2025 19:43:51history
+  338  14.07.2025 19:43:51ssh-copy-id
+  339  14.07.2025 19:43:51cd
+  340  14.07.2025 19:43:51ls -la
+  341  14.07.2025 19:43:51cat 1.txt
+  342  14.07.2025 19:43:51cat 1.txt.pub
+  343  14.07.2025 19:43:51ssh root@172.16.9.200
+  344  14.07.2025 19:43:51ca
+  345  14.07.2025 19:43:51ls -la
+  346  14.07.2025 19:43:51cat 1307
+  347  14.07.2025 19:43:51cat 1307.txt
+  348  14.07.2025 19:43:51cat .bashrc
+  349  14.07.2025 19:43:51screen -ls
+  350  14.07.2025 19:43:51screen -r SkripkoDI_part2
+  351  14.07.2025 19:43:51script $USER_part2.log
+  352  14.07.2025 19:43:51ls -la
+  353  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  354  14.07.2025 19:43:51cat .eltex-pg1-v26_part2.log
+  355  14.07.2025 19:43:51screen -ls
+  356  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  357  14.07.2025 19:43:51screen-ls
+  358  14.07.2025 19:43:51screen -ls
+  359  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  360  14.07.2025 19:43:51screen -ls
+  361  14.07.2025 19:43:51screen -r 719564
+  362  14.07.2025 19:43:51screen -la
+  363  14.07.2025 19:43:51"
+  364  14.07.2025 19:43:51screen -ls
+  365  14.07.2025 19:43:51screen -r eltex-pg1-v26_part2
+  366  14.07.2025 19:43:51ls -la
+  367  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  368  14.07.2025 19:43:51rm .eltex-pg1-v26_part2.log
+  369  14.07.2025 19:43:51ls -la
+  370  14.07.2025 19:43:51screen -ls
+  371  14.07.2025 19:43:51script $USER_part2.log
+  372  14.07.2025 19:43:51ls -la
+  373  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  374  14.07.2025 19:43:51ls -la
+  375  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  376  14.07.2025 19:43:51screen -ls
+  377  14.07.2025 19:43:51screen -r 708649
+  378  14.07.2025 19:43:51ls -la
+  379  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  380  14.07.2025 19:43:51scre
+  381  14.07.2025 19:43:51screen -ls
+  382  14.07.2025 19:43:51screen screen -X -S 708649 quit
+  383  14.07.2025 19:43:51screen -ls
+  384  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  385  14.07.2025 19:43:51ls -la
+  386  14.07.2025 19:43:51screen -ls
+  387  14.07.2025 19:43:51screen -r 720605
+  388  14.07.2025 19:43:51screen -ls
+  389  14.07.2025 19:43:51ls -la
+  390  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  391  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  392  14.07.2025 19:43:51ls
+  393  14.07.2025 19:43:51cat 1.txt.pub
+  394  14.07.2025 19:43:51cat 1307
+  395  14.07.2025 19:43:51cat 1307.txt
+  396  14.07.2025 19:43:51rm 1307.txt
+  397  14.07.2025 19:43:51script ${USER}_part2.log
+  398  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  399  14.07.2025 19:43:51aa
+  400  14.07.2025 19:43:51b
+  401  14.07.2025 19:43:51cat
+  402  14.07.2025 19:43:51ls
+  403  14.07.2025 19:43:51ls -la
+  404  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  405  14.07.2025 19:43:51history
+  406  14.07.2025 19:43:51ls
+  407  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  408  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  409  14.07.2025 19:43:51less -a eltex-pg1-v26_part2.log
+  410  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  411  14.07.2025 19:43:51screen 0ls
+  412  14.07.2025 19:43:51screen -s
+  413  14.07.2025 19:43:51screen -ls
+  414  14.07.2025 19:43:51clear
+  415  14.07.2025 19:43:51screen -ls
+  416  14.07.2025 19:43:51ls 
+  417  14.07.2025 19:43:51cat eltex-pg1-v26
+  418  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  419  14.07.2025 19:43:51screen -r 720605
+  420  14.07.2025 19:43:51screen -ls
+  421  14.07.2025 19:43:51screen -S `whoami`_part2
+  422  14.07.2025 19:43:51ls
+  423  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  424  14.07.2025 19:43:51ls
+  425  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  426  14.07.2025 19:43:51ls
+  427  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  428  14.07.2025 19:43:51ls
+  429  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  430  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  431  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  432  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  433  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  434  14.07.2025 19:43:51echo "Текст"
+  435  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  436  14.07.2025 19:43:51ls
+  437  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  438  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  439  14.07.2025 19:43:51screen 0ls
+  440  14.07.2025 19:43:51screen -ls
+  441  14.07.2025 19:43:51screen -r 89705
+  442  14.07.2025 19:43:51screen -r 897095
+  443  14.07.2025 19:43:51screen -ls
+  444  14.07.2025 19:43:51ды
+  445  14.07.2025 19:43:51ls
+  446  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  447  14.07.2025 19:43:51ls
+  448  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part.log"
+  449  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part2.log"
+  450  14.07.2025 19:43:51echo "text"
+  451  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  452  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  453  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  454  14.07.2025 19:43:58ls
+  455  14.07.2025 19:44:03echo
+  456  14.07.2025 19:44:07map
+  457  14.07.2025 19:44:09man
+  458  14.07.2025 19:44:14man man
+  459  14.07.2025 19:54:38echo $HISTFILESIZE
+  460  14.07.2025 19:54:43echo $HISTSIZE
+  461  14.07.2025 20:30:27ls -d ~/.*
+  462  14.07.2025 20:34:00export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S'
+  463  14.07.2025 20:35:07vim ~/.bashrc
+  464  14.07.2025 20:36:26history
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ historyvim ~/.bashrc
+[?2004l[?1000h[?1049h[?1h=[1;67r[23m[24m[0m[H[J[?25l[67;1H"~/.bashrc" 116L, 3571B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[1;9H[34m# (ISO/IEC-6429). (Lack of such support is extremely rare, and such[0m
+        [34m# a case would tend to support setf rather than setaf.)[0m[2;64H[K[3;1H        [36mcolor_prompt[0m=yes[3;25H[K[4;5H[33melse[0m[5;9H[36mcolor_prompt[0m=
+    [33mfi
+fi
+
+if [[0m [33m"[0m[35m$color_prompt[0m[33m"[0m [33m=[0m [31myes[0m [33m];[0m [33mthen[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[[[11;1H00m\]\$ [0m[33m'
+else[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\u@\h:\w\$ [0m[33m'
+fi
+unset[0m[36m color_prompt force_color_prompt[0m
+
+[34m# If this is an xterm set the title to user@host:dir[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m
+xterm*|rxvt*[33m)[0m
+    [35mPS1[0m[33m="[0m[35m\[\e[0m[31m]0;[0m[35m${debian_chroot[0m[33m:+[0m([35m$debian_chroot[0m)[35m}[0m[35m\u[0m[31m@[0m[35m\h[0m[31m: [0m[35m\w\a\][0m[35m$PS1[0m[33m"
+[0m    [33m;;[0m
+*[33m)
+[0m    [33m;;
+esac[0m
+
+[34m# enable color support of ls and also add handy aliases[0m
+[33mif [[0m [33m-x[0m /usr/bin/dircolors [33m];[0m [33mthen
+[0m    [33mtest[0m [33m-r[0m ~/.dircolors [33m&&[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b ~/.dircolors[0m[35m)[0m[33m"[0m [33m||[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b[0m[35m)[0m[33m"
+[0m    [33malias [0m[36mls[0m[33m='[0m[31mls --color=auto[0m[33m'[0m
+    [34m#alias dir='dir --color=auto'
+[0m    [34m#alias vdir='vdir --color=auto'[33;5H#alias grep='grep --color=auto'
+[0m    [34m#alias fgrep='fgrep --color=auto'
+[0m    [34m#alias egrep='egrep --color=auto'[0m
+[33mfi[0m
+
+[34m# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+#alias ll='ls -l'
+#alias la='ls -A'
+#alias l='ls -CF'
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.[0m
+
+[33mif [[0m [33m-f[0m ~/.bash_aliases [33m];[0m [33mthen
+[0m   [33m . [0m~/.bash_aliases
+[33mfi[0m
+
+[34m# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).[0m
+[33mif ![0m [33mshopt[0m [35m-oq[0m posix[33m;[0m [33mthen
+[0m  [33mif [[0m [33m-f[0m /usr/share/bash-completion/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/usr/share/bash-completion/bash_completion
+  [33melif[0m [33m[[0m [33m-f[0m /etc/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/etc/bash_completion
+  [33mfi
+fi
+
+export[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S[0m[33m'[0m[67;83H116,41[8CBot[66;41H[34h[?25h[?25l[67;73H~@k[66;41H[67;73H   [66;41H[34h[?25h[?25l[67;73H~@k[66;41H[67;73H   [66;41H[34h[?25h[?25l[67;73H~@k[66;41H[67;73H   [66;41H[34h[?25h[?25l[67;73H<20>[66;41H[67;73H    [66;42H[67;88H2[66;42H[34h[?25h[?25l[67;73H<20>[66;42H[67;73H    [66;42H[34h[?25h[?25l[67;73H<20>[66;42H[67;73H    [66;42H[34h[?25h[?25l[67;73H~@k[66;42H[67;73H   [66;42H[34h[?25h[?25l[67;73H~@k[66;42H[67;73H   [66;42H[34h[?25h[?25l[67;73H~@k[66;42H[67;73H   [66;41H[67;88H1[66;41H[34h[?25h[?25l[67;73Hi[66;41H[67;73H [66;41H
+[1m-- INSERT --[0m[67;13H[K[67;83H116,41[8CBot[66;41H[34h[?25h[?25l[31m [0m[33m'[0m[67;88H2[66;42H[34h[?25h[?25l[31m [0m[33m'[0m[67;88H3[66;43H[34h[?25h[67;1H[K[66;42H[?25l[67;73H^[[66;42H[67;73H  [66;43H[67;83H116,42[8CBot[66;42H[34h[?25h[?25l[67;73H^[[66;42H[67;73H  [66;42H[67;73H^[[66;42H[67;73H  [66;42H[34h[?25h[?25l[67;73H:[66;42H[67;73H[K[67;1H:[?1000l[34h[?25hwq[?1000h[?25l[?1000l".bashrc" 116L, 3573B written
+[?1l>[?1049l[34h[?25h[?2004heltex-pg1-v26@eltex-2025-summer:~$ history [K
+[?2004l    1  14.07.2025 19:43:51screen -ls
+    2  14.07.2025 19:43:51map screen
+    3  14.07.2025 19:43:51man -Lru man
+    4  14.07.2025 19:43:51man man
+    5  14.07.2025 19:43:51man -Lru screen
+    6  14.07.2025 19:43:51screen -S -d -m 
+    7  14.07.2025 19:43:51screen -S -d -m
+    8  14.07.2025 19:43:51ls
+    9  14.07.2025 19:43:51cd ..
+   10  14.07.2025 19:43:51ls
+   11  14.07.2025 19:43:51cd /user2
+   12  14.07.2025 19:43:51cd \user2
+   13  14.07.2025 19:43:51clear
+   14  14.07.2025 19:43:51ls
+   15  14.07.2025 19:43:51cd eltex-pg1-v26
+   16  14.07.2025 19:43:51map -Lru screen
+   17  14.07.2025 19:43:51man -Lru screen
+   18  14.07.2025 19:43:51man man
+   19  14.07.2025 19:43:51man -Lru screen
+   20  14.07.2025 19:43:51screen -S
+   21  14.07.2025 19:43:51screen
+   22  14.07.2025 19:43:51pswd
+   23  14.07.2025 19:43:51psd
+   24  14.07.2025 19:43:51passwd eltex-pg1-v26
+   25  14.07.2025 19:43:51log
+   26  14.07.2025 19:43:51history
+   27  14.07.2025 19:43:51q
+   28  14.07.2025 19:43:51history
+   29  14.07.2025 19:43:51top
+   30  14.07.2025 19:43:51screen -S 5717.-d
+   31  14.07.2025 19:43:51screen -S 40006.top
+   32  14.07.2025 19:43:51watch/usr/bin/vmstat
+   33  14.07.2025 19:43:51/watch/usr/bin/vmstat
+   34  14.07.2025 19:43:51cd /watch/usr/bin/vmstat
+   35  14.07.2025 19:43:51cd watch/usr/bin/vmstat
+   36  14.07.2025 19:43:51ls
+   37  14.07.2025 19:43:51ls -la
+   38  14.07.2025 19:43:51history
+   39  14.07.2025 19:43:51ls -la
+   40  14.07.2025 19:43:51ls
+   41  14.07.2025 19:43:51screen -ls
+   42  14.07.2025 19:43:51history
+   43  14.07.2025 19:43:51screen -la
+   44  14.07.2025 19:43:51history
+   45  14.07.2025 19:43:51watch/usr/bin/vmstart
+   46  14.07.2025 19:43:51screen -S report
+   47  14.07.2025 19:43:51screen -ls
+   48  14.07.2025 19:43:51screen -S 40006.top
+   49  14.07.2025 19:43:51watch/usr/bin/vmstart
+   50  14.07.2025 19:43:51watch/usr/bin/vmstat
+   51  14.07.2025 19:43:51watch /usr/bin/vmstat
+   52  14.07.2025 19:43:51history
+   53  14.07.2025 19:43:51screen -ls
+   54  14.07.2025 19:43:51screen -r 40006.top
+   55  14.07.2025 19:43:51screen 40006.top
+   56  14.07.2025 19:43:51screen -S 40006.top
+   57  14.07.2025 19:43:51screen -ls
+   58  14.07.2025 19:43:51ls -la
+   59  14.07.2025 19:43:51.bash_history
+   60  14.07.2025 19:43:51vim .bash_history
+   61  14.07.2025 19:43:51history
+   62  14.07.2025 19:43:51screen -la
+   63  14.07.2025 19:43:51history
+   64  14.07.2025 19:43:51screen -ls
+   65  14.07.2025 19:43:51screen -r 266210.-m
+   66  14.07.2025 19:43:51history
+   67  14.07.2025 19:43:51screen -S 40006.top
+   68  14.07.2025 19:43:51history
+   69  14.07.2025 19:43:51man -Lsr history
+   70  14.07.2025 19:43:51screen -S top -d -m
+   71  14.07.2025 19:43:51screen -ls
+   72  14.07.2025 19:43:51top
+   73  14.07.2025 19:43:51screen -ls
+   74  14.07.2025 19:43:51screen -r 40006.top
+   75  14.07.2025 19:43:51w
+   76  14.07.2025 19:43:51screen -r
+   77  14.07.2025 19:43:51w
+   78  14.07.2025 19:43:51w -la
+   79  14.07.2025 19:43:51w -o
+   80  14.07.2025 19:43:51screen -S
+   81  14.07.2025 19:43:51screen -d -m
+   82  14.07.2025 19:43:51top
+   83  14.07.2025 19:43:51screen -ls
+   84  14.07.2025 19:43:51screen -ls -h
+   85  14.07.2025 19:43:51screen -h - ls
+   86  14.07.2025 19:43:51screen -h -ls
+   87  14.07.2025 19:43:51screen -ls
+   88  14.07.2025 19:43:51screen -ls
+   89  14.07.2025 19:43:51map screen
+   90  14.07.2025 19:43:51man screen
+   91  14.07.2025 19:43:51screen -ls
+   92  14.07.2025 19:43:51screen
+   93  14.07.2025 19:43:51ls -ls
+   94  14.07.2025 19:43:51screen -S
+   95  14.07.2025 19:43:51screen -S -m
+   96  14.07.2025 19:43:51screen -ls
+   97  14.07.2025 19:43:51screen -r 52582.40006.top 
+   98  14.07.2025 19:43:51screen -r [screen is terminating]
+   99  14.07.2025 19:43:51screen -r 49826.40006.top 
+  100  14.07.2025 19:43:51screen -ls
+  101  14.07.2025 19:43:51screen -r 49826.40006.top
+  102  14.07.2025 19:43:51screen -r 40006.top
+  103  14.07.2025 19:43:51screen -ls
+  104  14.07.2025 19:43:51screen -r 48476.5717.-d
+  105  14.07.2025 19:43:51screen -r 48476.5717.-d 40006.top
+  106  14.07.2025 19:43:51screen -r 40006.top
+  107  14.07.2025 19:43:51screen -ls
+  108  14.07.2025 19:43:51screen -r 40006.top
+  109  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  110  14.07.2025 19:43:51screen -r 363.eltex-2025-summer
+  111  14.07.2025 19:43:51screen -ls
+  112  14.07.2025 19:43:51screen -r 40006.top
+  113  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  114  14.07.2025 19:43:51screen -r 6662.-d
+  115  14.07.2025 19:43:51screen -ls
+  116  14.07.2025 19:43:51screen -r 5717.-d
+  117  14.07.2025 19:43:51reset
+  118  14.07.2025 19:43:51screen -ls
+  119  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  120  14.07.2025 19:43:51screen -ls
+  121  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  122  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  123  14.07.2025 19:43:51screen -ls
+  124  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  125  14.07.2025 19:43:51screen -ls
+  126  14.07.2025 19:43:51w
+  127  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  128  14.07.2025 19:43:51screen -ls
+  129  14.07.2025 19:43:51w
+  130  14.07.2025 19:43:51screen
+  131  14.07.2025 19:43:51screen -S
+  132  14.07.2025 19:43:51screen
+  133  14.07.2025 19:43:51screen -ls
+  134  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  135  14.07.2025 19:43:51screen -ls
+  136  14.07.2025 19:43:51screen
+  137  14.07.2025 19:43:51screen -ls
+  138  14.07.2025 19:43:51screen -r 780.pts-3.eltex-2025-summer
+  139  14.07.2025 19:43:51screen -ls
+  140  14.07.2025 19:43:51screen
+  141  14.07.2025 19:43:51screen -r 800.pts-3.eltex-2025-summer
+  142  14.07.2025 19:43:51screen
+  143  14.07.2025 19:43:51screen -ls
+  144  14.07.2025 19:43:51screen
+  145  14.07.2025 19:43:51screen -lы
+  146  14.07.2025 19:43:51screen -ls
+  147  14.07.2025 19:43:51screen -ls
+  148  14.07.2025 19:43:51screen -r 879.pts-3.eltex-2025-summer
+  149  14.07.2025 19:43:51screen -S top -d
+  150  14.07.2025 19:43:51screen -ls
+  151  14.07.2025 19:43:51screen -S top -d -m
+  152  14.07.2025 19:43:51screen -S top -
+  153  14.07.2025 19:43:51screen -S top -d
+  154  14.07.2025 19:43:51screen -ls
+  155  14.07.2025 19:43:51screen -S top -d
+  156  14.07.2025 19:43:51screen -r 945.top
+  157  14.07.2025 19:43:51screen -ls
+  158  14.07.2025 19:43:51screen -S top -d -m top
+  159  14.07.2025 19:43:51screen -ls
+  160  14.07.2025 19:43:51screen -r 968.top
+  161  14.07.2025 19:43:51screen -ls
+  162  14.07.2025 19:43:51screen -S top -d -m top
+  163  14.07.2025 19:43:51screen -ls
+  164  14.07.2025 19:43:51screen -r 1613.top
+  165  14.07.2025 19:43:51screen -ls
+  166  14.07.2025 19:43:51screen -S top -d -m top
+  167  14.07.2025 19:43:51screen -ls
+  168  14.07.2025 19:43:51screen -r 1622.top
+  169  14.07.2025 19:43:51screen -ls
+  170  14.07.2025 19:43:51top
+  171  14.07.2025 19:43:51screen -ls
+  172  14.07.2025 19:43:51screen -S top -d -m top
+  173  14.07.2025 19:43:51screen -ls
+  174  14.07.2025 19:43:51screen -S top -d -m "bash; top"
+  175  14.07.2025 19:43:51screen -ls
+  176  14.07.2025 19:43:51screen -r 1768.top
+  177  14.07.2025 19:43:51screen -r top
+  178  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  179  14.07.2025 19:43:51screen -r top
+  180  14.07.2025 19:43:51screen -ls
+  181  14.07.2025 19:43:51man bash
+  182  14.07.2025 19:43:51man -Lru bash
+  183  14.07.2025 19:43:51screen -ls
+  184  14.07.2025 19:43:51screen -r top
+  185  14.07.2025 19:43:51bash
+  186  14.07.2025 19:43:51bash
+  187  14.07.2025 19:43:51screen -S watch
+  188  14.07.2025 19:43:51history
+  189  14.07.2025 19:43:51screen -ls
+  190  14.07.2025 19:43:51screen -S watch -dm
+  191  14.07.2025 19:43:51screen -ls
+  192  14.07.2025 19:43:51screen -r watch
+  193  14.07.2025 19:43:51scren -ls
+  194  14.07.2025 19:43:51screen -ls
+  195  14.07.2025 19:43:51screen -r top
+  196  14.07.2025 19:43:51screen -r watch
+  197  14.07.2025 19:43:51screen -S watch -dm watch /usr/bin/vmstat
+  198  14.07.2025 19:43:51screen -r watch
+  199  14.07.2025 19:43:51screen -ls
+  200  14.07.2025 19:43:51screen -r top
+  201  14.07.2025 19:43:51screen -S watch
+  202  14.07.2025 19:43:51screen -ls
+  203  14.07.2025 19:43:51screen -S top -d -m top
+  204  14.07.2025 19:43:51screen -ls
+  205  14.07.2025 19:43:51screen -r 1632.top
+  206  14.07.2025 19:43:51screen -ls
+  207  14.07.2025 19:43:51screen -r 1632.watch
+  208  14.07.2025 19:43:51screen -r 1607.watch
+  209  14.07.2025 19:43:51screen -ls
+  210  14.07.2025 19:43:51screen -S top -d -m top
+  211  14.07.2025 19:43:51screen -ls
+  212  14.07.2025 19:43:51screen -r 1649.top
+  213  14.07.2025 19:43:51screen -S top -d -m top
+  214  14.07.2025 19:43:51screen -ls
+  215  14.07.2025 19:43:51screen -r 1657.top
+  216  14.07.2025 19:43:51screen top -d -m top
+  217  14.07.2025 19:43:51screen -ls
+  218  14.07.2025 19:43:51screen -ls
+  219  14.07.2025 19:43:51screen -r 1677.top
+  220  14.07.2025 19:43:51screen -ls
+  221  14.07.2025 19:43:51screen -S top
+  222  14.07.2025 19:43:51screen -ls
+  223  14.07.2025 19:43:51screen -r 1695.top
+  224  14.07.2025 19:43:51screen -r 1688.top
+  225  14.07.2025 19:43:51screen -r 1695.top
+  226  14.07.2025 19:43:51screen -ls
+  227  14.07.2025 19:43:51screen -S test -dm bash -c "top; exec bash"
+  228  14.07.2025 19:43:51screen -S top -d -m bash; top
+  229  14.07.2025 19:43:51screen -ls
+  230  14.07.2025 19:43:51screen -r 1730.top
+  231  14.07.2025 19:43:51screen -r 1721.top
+  232  14.07.2025 19:43:51screen -r 1721.test
+  233  14.07.2025 19:43:51screen -S top -d -m bash -c top
+  234  14.07.2025 19:43:51screen -ls
+  235  14.07.2025 19:43:51screen -r 1744.test
+  236  14.07.2025 19:43:51screen -r 1744.top
+  237  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  238  14.07.2025 19:43:51screen -ls
+  239  14.07.2025 19:43:51screen -r 1753.top
+  240  14.07.2025 19:43:51screen -S top -d -m "top; exec bash"
+  241  14.07.2025 19:43:51screen -ls
+  242  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  243  14.07.2025 19:43:51screen -ls
+  244  14.07.2025 19:43:51screen -r top
+  245  14.07.2025 19:43:51screen -ls
+  246  14.07.2025 19:43:51screen -r top
+  247  14.07.2025 19:43:51screen -ls
+  248  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  249  14.07.2025 19:43:51screen -r top
+  250  14.07.2025 19:43:51screen -ls
+  251  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  252  14.07.2025 19:43:51screen -ls
+  253  14.07.2025 19:43:51screen -r top
+  254  14.07.2025 19:43:51screen -ls
+  255  14.07.2025 19:43:51screen -r watch
+  256  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  257  14.07.2025 19:43:51screen -ls
+  258  14.07.2025 19:43:51screen -r top
+  259  14.07.2025 19:43:51screen -ls
+  260  14.07.2025 19:43:51screen -r watch
+  261  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  262  14.07.2025 19:43:51screen -ls
+  263  14.07.2025 19:43:51screen -r top
+  264  14.07.2025 19:43:51screen -r watch
+  265  14.07.2025 19:43:51watch /usr/bin/vmstat
+  266  14.07.2025 19:43:51screen -r top
+  267  14.07.2025 19:43:51screen -ls
+  268  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  269  14.07.2025 19:43:51screen -r top
+  270  14.07.2025 19:43:51q
+  271  14.07.2025 19:43:51screen -S watch
+  272  14.07.2025 19:43:51screen -r watch
+  273  14.07.2025 19:43:51screen -r top
+  274  14.07.2025 19:43:51screen -r watch
+  275  14.07.2025 19:43:51screen -r top
+  276  14.07.2025 19:43:51screen -S watch
+  277  14.07.2025 19:43:51screen -ls
+  278  14.07.2025 19:43:51screen -r 5141.watch
+  279  14.07.2025 19:43:51screen -ls
+  280  14.07.2025 19:43:51screen -r top
+  281  14.07.2025 19:43:51screen -ls
+  282  14.07.2025 19:43:51screen -r watch
+  283  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  284  14.07.2025 19:43:51screen -ls
+  285  14.07.2025 19:43:51screen -r top
+  286  14.07.2025 19:43:51screen -ls
+  287  14.07.2025 19:43:51screen -S watch
+  288  14.07.2025 19:43:51screen -ls
+  289  14.07.2025 19:43:51screen -S watch
+  290  14.07.2025 19:43:51watch /usr/bin/vmstat
+  291  14.07.2025 19:43:51screen -ls
+  292  14.07.2025 19:43:51screen -r watch
+  293  14.07.2025 19:43:51screen -ls
+  294  14.07.2025 19:43:51screen -r watch
+  295  14.07.2025 19:43:51screen -ls
+  296  14.07.2025 19:43:51screen -r watch
+  297  14.07.2025 19:43:51screen -ls
+  298  14.07.2025 19:43:51screen -r watch
+  299  14.07.2025 19:43:51screen -r top
+  300  14.07.2025 19:43:51screen -ls
+  301  14.07.2025 19:43:51screen -r top
+  302  14.07.2025 19:43:51screen -r watch
+  303  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  304  14.07.2025 19:43:51screen -ls
+  305  14.07.2025 19:43:51screen -r top
+  306  14.07.2025 19:43:51screen -ls
+  307  14.07.2025 19:43:51screen -S vi
+  308  14.07.2025 19:43:51screen -ls
+  309  14.07.2025 19:43:51screen -r vi
+  310  14.07.2025 19:43:51screen -ls
+  311  14.07.2025 19:43:51logout
+  312  14.07.2025 19:43:51screen -ls
+  313  14.07.2025 19:43:51screen -r vi
+  314  14.07.2025 19:43:51screen -S Skripko_DI_part2
+  315  14.07.2025 19:43:51ls -la
+  316  14.07.2025 19:43:51screen -S `Skripko_DI`part2
+  317  14.07.2025 19:43:51screen ls
+  318  14.07.2025 19:43:51screen -ls
+  319  14.07.2025 19:43:51screen -r part2
+  320  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  321  14.07.2025 19:43:51screen -r p
+  322  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  323  14.07.2025 19:43:51screen -ls
+  324  14.07.2025 19:43:51screen -S SkripkoDI_part2
+  325  14.07.2025 19:43:51history
+  326  14.07.2025 19:43:51whoami
+  327  14.07.2025 19:43:51ssh-copy-id
+  328  14.07.2025 19:43:51ды
+  329  14.07.2025 19:43:51ls
+  330  14.07.2025 19:43:511.txt  1.txt.pub  report_part1.txt
+  331  14.07.2025 19:43:51clear
+  332  14.07.2025 19:43:51ssh-keygen
+  333  14.07.2025 19:43:51cd
+  334  14.07.2025 19:43:51pwd
+  335  14.07.2025 19:43:51ls -la
+  336  14.07.2025 19:43:51ssh-keygen
+  337  14.07.2025 19:43:51history
+  338  14.07.2025 19:43:51ssh-copy-id
+  339  14.07.2025 19:43:51cd
+  340  14.07.2025 19:43:51ls -la
+  341  14.07.2025 19:43:51cat 1.txt
+  342  14.07.2025 19:43:51cat 1.txt.pub
+  343  14.07.2025 19:43:51ssh root@172.16.9.200
+  344  14.07.2025 19:43:51ca
+  345  14.07.2025 19:43:51ls -la
+  346  14.07.2025 19:43:51cat 1307
+  347  14.07.2025 19:43:51cat 1307.txt
+  348  14.07.2025 19:43:51cat .bashrc
+  349  14.07.2025 19:43:51screen -ls
+  350  14.07.2025 19:43:51screen -r SkripkoDI_part2
+  351  14.07.2025 19:43:51script $USER_part2.log
+  352  14.07.2025 19:43:51ls -la
+  353  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  354  14.07.2025 19:43:51cat .eltex-pg1-v26_part2.log
+  355  14.07.2025 19:43:51screen -ls
+  356  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  357  14.07.2025 19:43:51screen-ls
+  358  14.07.2025 19:43:51screen -ls
+  359  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  360  14.07.2025 19:43:51screen -ls
+  361  14.07.2025 19:43:51screen -r 719564
+  362  14.07.2025 19:43:51screen -la
+  363  14.07.2025 19:43:51"
+  364  14.07.2025 19:43:51screen -ls
+  365  14.07.2025 19:43:51screen -r eltex-pg1-v26_part2
+  366  14.07.2025 19:43:51ls -la
+  367  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  368  14.07.2025 19:43:51rm .eltex-pg1-v26_part2.log
+  369  14.07.2025 19:43:51ls -la
+  370  14.07.2025 19:43:51screen -ls
+  371  14.07.2025 19:43:51script $USER_part2.log
+  372  14.07.2025 19:43:51ls -la
+  373  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  374  14.07.2025 19:43:51ls -la
+  375  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  376  14.07.2025 19:43:51screen -ls
+  377  14.07.2025 19:43:51screen -r 708649
+  378  14.07.2025 19:43:51ls -la
+  379  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  380  14.07.2025 19:43:51scre
+  381  14.07.2025 19:43:51screen -ls
+  382  14.07.2025 19:43:51screen screen -X -S 708649 quit
+  383  14.07.2025 19:43:51screen -ls
+  384  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  385  14.07.2025 19:43:51ls -la
+  386  14.07.2025 19:43:51screen -ls
+  387  14.07.2025 19:43:51screen -r 720605
+  388  14.07.2025 19:43:51screen -ls
+  389  14.07.2025 19:43:51ls -la
+  390  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  391  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  392  14.07.2025 19:43:51ls
+  393  14.07.2025 19:43:51cat 1.txt.pub
+  394  14.07.2025 19:43:51cat 1307
+  395  14.07.2025 19:43:51cat 1307.txt
+  396  14.07.2025 19:43:51rm 1307.txt
+  397  14.07.2025 19:43:51script ${USER}_part2.log
+  398  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  399  14.07.2025 19:43:51aa
+  400  14.07.2025 19:43:51b
+  401  14.07.2025 19:43:51cat
+  402  14.07.2025 19:43:51ls
+  403  14.07.2025 19:43:51ls -la
+  404  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  405  14.07.2025 19:43:51history
+  406  14.07.2025 19:43:51ls
+  407  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  408  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  409  14.07.2025 19:43:51less -a eltex-pg1-v26_part2.log
+  410  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  411  14.07.2025 19:43:51screen 0ls
+  412  14.07.2025 19:43:51screen -s
+  413  14.07.2025 19:43:51screen -ls
+  414  14.07.2025 19:43:51clear
+  415  14.07.2025 19:43:51screen -ls
+  416  14.07.2025 19:43:51ls 
+  417  14.07.2025 19:43:51cat eltex-pg1-v26
+  418  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  419  14.07.2025 19:43:51screen -r 720605
+  420  14.07.2025 19:43:51screen -ls
+  421  14.07.2025 19:43:51screen -S `whoami`_part2
+  422  14.07.2025 19:43:51ls
+  423  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  424  14.07.2025 19:43:51ls
+  425  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  426  14.07.2025 19:43:51ls
+  427  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  428  14.07.2025 19:43:51ls
+  429  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  430  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  431  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  432  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  433  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  434  14.07.2025 19:43:51echo "Текст"
+  435  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  436  14.07.2025 19:43:51ls
+  437  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  438  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  439  14.07.2025 19:43:51screen 0ls
+  440  14.07.2025 19:43:51screen -ls
+  441  14.07.2025 19:43:51screen -r 89705
+  442  14.07.2025 19:43:51screen -r 897095
+  443  14.07.2025 19:43:51screen -ls
+  444  14.07.2025 19:43:51ды
+  445  14.07.2025 19:43:51ls
+  446  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  447  14.07.2025 19:43:51ls
+  448  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part.log"
+  449  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part2.log"
+  450  14.07.2025 19:43:51echo "text"
+  451  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  452  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  453  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  454  14.07.2025 19:43:58ls
+  455  14.07.2025 19:44:03echo
+  456  14.07.2025 19:44:07map
+  457  14.07.2025 19:44:09man
+  458  14.07.2025 19:44:14man man
+  459  14.07.2025 19:54:38echo $HISTFILESIZE
+  460  14.07.2025 19:54:43echo $HISTSIZE
+  461  14.07.2025 20:30:27ls -d ~/.*
+  462  14.07.2025 20:34:00export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S'
+  463  14.07.2025 20:35:07vim ~/.bashrc
+  464  14.07.2025 20:36:26history
+  465  14.07.2025 20:36:34vim ~/.bashrc
+  466  14.07.2025 20:37:00history
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ historyvim ~/.bashrc
+[?2004l[?1000h[?1049h[?1h=[1;67r[23m[24m[0m[H[J[?25l[67;1H"~/.bashrc" 116L, 3573B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[1;9H[34m# (ISO/IEC-6429). (Lack of such support is extremely rare, and such[0m
+        [34m# a case would tend to support setf rather than setaf.)[0m[2;64H[K[3;1H        [36mcolor_prompt[0m=yes[3;25H[K[4;5H[33melse[0m[5;9H[36mcolor_prompt[0m=
+    [33mfi
+fi
+
+if [[0m [33m"[0m[35m$color_prompt[0m[33m"[0m [33m=[0m [31myes[0m [33m];[0m [33mthen[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[[[11;1H00m\]\$ [0m[33m'
+else[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\u@\h:\w\$ [0m[33m'
+fi
+unset[0m[36m color_prompt force_color_prompt[0m
+
+[34m# If this is an xterm set the title to user@host:dir[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m
+xterm*|rxvt*[33m)[0m
+    [35mPS1[0m[33m="[0m[35m\[\e[0m[31m]0;[0m[35m${debian_chroot[0m[33m:+[0m([35m$debian_chroot[0m)[35m}[0m[35m\u[0m[31m@[0m[35m\h[0m[31m: [0m[35m\w\a\][0m[35m$PS1[0m[33m"
+[0m    [33m;;[0m
+*[33m)
+[0m    [33m;;
+esac[0m
+
+[34m# enable color support of ls and also add handy aliases[0m
+[33mif [[0m [33m-x[0m /usr/bin/dircolors [33m];[0m [33mthen
+[0m    [33mtest[0m [33m-r[0m ~/.dircolors [33m&&[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b ~/.dircolors[0m[35m)[0m[33m"[0m [33m||[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b[0m[35m)[0m[33m"
+[0m    [33malias [0m[36mls[0m[33m='[0m[31mls --color=auto[0m[33m'[0m
+    [34m#alias dir='dir --color=auto'
+[0m    [34m#alias vdir='vdir --color=auto'[33;5H#alias grep='grep --color=auto'
+[0m    [34m#alias fgrep='fgrep --color=auto'
+[0m    [34m#alias egrep='egrep --color=auto'[0m
+[33mfi[0m
+
+[34m# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+#alias ll='ls -l'
+#alias la='ls -A'
+#alias l='ls -CF'
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.[0m
+
+[33mif [[0m [33m-f[0m ~/.bash_aliases [33m];[0m [33mthen
+[0m   [33m . [0m~/.bash_aliases
+[33mfi[0m
+
+[34m# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).[0m
+[33mif ![0m [33mshopt[0m [35m-oq[0m posix[33m;[0m [33mthen
+[0m  [33mif [[0m [33m-f[0m /usr/share/bash-completion/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/usr/share/bash-completion/bash_completion
+  [33melif[0m [33m[[0m [33m-f[0m /etc/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/etc/bash_completion
+  [33mfi
+fi
+
+export[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'[0m[67;83H116,42[8CBot[66;42H[34h[?25h[?25l[67;73H<20>[66;42H[67;73H    [66;43H[67;88H3[66;43H[34h[?25h[?25l[67;83H87,0-1[37;1H[34h[?25h[?25l[67;73H:[37;1H[67;1H[K[67;1H:[?1000l[34h[?25hwq[?1000h[?25l[?1000l".bashrc" 116L, 3573B written
+[?1l>[?1049l[34h[?25h[?2004heltex-pg1-v26@eltex-2025-summer:~$ vim ~/.bashrc[6Phistory
+[?2004l    1  14.07.2025 19:43:51screen -ls
+    2  14.07.2025 19:43:51map screen
+    3  14.07.2025 19:43:51man -Lru man
+    4  14.07.2025 19:43:51man man
+    5  14.07.2025 19:43:51man -Lru screen
+    6  14.07.2025 19:43:51screen -S -d -m 
+    7  14.07.2025 19:43:51screen -S -d -m
+    8  14.07.2025 19:43:51ls
+    9  14.07.2025 19:43:51cd ..
+   10  14.07.2025 19:43:51ls
+   11  14.07.2025 19:43:51cd /user2
+   12  14.07.2025 19:43:51cd \user2
+   13  14.07.2025 19:43:51clear
+   14  14.07.2025 19:43:51ls
+   15  14.07.2025 19:43:51cd eltex-pg1-v26
+   16  14.07.2025 19:43:51map -Lru screen
+   17  14.07.2025 19:43:51man -Lru screen
+   18  14.07.2025 19:43:51man man
+   19  14.07.2025 19:43:51man -Lru screen
+   20  14.07.2025 19:43:51screen -S
+   21  14.07.2025 19:43:51screen
+   22  14.07.2025 19:43:51pswd
+   23  14.07.2025 19:43:51psd
+   24  14.07.2025 19:43:51passwd eltex-pg1-v26
+   25  14.07.2025 19:43:51log
+   26  14.07.2025 19:43:51history
+   27  14.07.2025 19:43:51q
+   28  14.07.2025 19:43:51history
+   29  14.07.2025 19:43:51top
+   30  14.07.2025 19:43:51screen -S 5717.-d
+   31  14.07.2025 19:43:51screen -S 40006.top
+   32  14.07.2025 19:43:51watch/usr/bin/vmstat
+   33  14.07.2025 19:43:51/watch/usr/bin/vmstat
+   34  14.07.2025 19:43:51cd /watch/usr/bin/vmstat
+   35  14.07.2025 19:43:51cd watch/usr/bin/vmstat
+   36  14.07.2025 19:43:51ls
+   37  14.07.2025 19:43:51ls -la
+   38  14.07.2025 19:43:51history
+   39  14.07.2025 19:43:51ls -la
+   40  14.07.2025 19:43:51ls
+   41  14.07.2025 19:43:51screen -ls
+   42  14.07.2025 19:43:51history
+   43  14.07.2025 19:43:51screen -la
+   44  14.07.2025 19:43:51history
+   45  14.07.2025 19:43:51watch/usr/bin/vmstart
+   46  14.07.2025 19:43:51screen -S report
+   47  14.07.2025 19:43:51screen -ls
+   48  14.07.2025 19:43:51screen -S 40006.top
+   49  14.07.2025 19:43:51watch/usr/bin/vmstart
+   50  14.07.2025 19:43:51watch/usr/bin/vmstat
+   51  14.07.2025 19:43:51watch /usr/bin/vmstat
+   52  14.07.2025 19:43:51history
+   53  14.07.2025 19:43:51screen -ls
+   54  14.07.2025 19:43:51screen -r 40006.top
+   55  14.07.2025 19:43:51screen 40006.top
+   56  14.07.2025 19:43:51screen -S 40006.top
+   57  14.07.2025 19:43:51screen -ls
+   58  14.07.2025 19:43:51ls -la
+   59  14.07.2025 19:43:51.bash_history
+   60  14.07.2025 19:43:51vim .bash_history
+   61  14.07.2025 19:43:51history
+   62  14.07.2025 19:43:51screen -la
+   63  14.07.2025 19:43:51history
+   64  14.07.2025 19:43:51screen -ls
+   65  14.07.2025 19:43:51screen -r 266210.-m
+   66  14.07.2025 19:43:51history
+   67  14.07.2025 19:43:51screen -S 40006.top
+   68  14.07.2025 19:43:51history
+   69  14.07.2025 19:43:51man -Lsr history
+   70  14.07.2025 19:43:51screen -S top -d -m
+   71  14.07.2025 19:43:51screen -ls
+   72  14.07.2025 19:43:51top
+   73  14.07.2025 19:43:51screen -ls
+   74  14.07.2025 19:43:51screen -r 40006.top
+   75  14.07.2025 19:43:51w
+   76  14.07.2025 19:43:51screen -r
+   77  14.07.2025 19:43:51w
+   78  14.07.2025 19:43:51w -la
+   79  14.07.2025 19:43:51w -o
+   80  14.07.2025 19:43:51screen -S
+   81  14.07.2025 19:43:51screen -d -m
+   82  14.07.2025 19:43:51top
+   83  14.07.2025 19:43:51screen -ls
+   84  14.07.2025 19:43:51screen -ls -h
+   85  14.07.2025 19:43:51screen -h - ls
+   86  14.07.2025 19:43:51screen -h -ls
+   87  14.07.2025 19:43:51screen -ls
+   88  14.07.2025 19:43:51screen -ls
+   89  14.07.2025 19:43:51map screen
+   90  14.07.2025 19:43:51man screen
+   91  14.07.2025 19:43:51screen -ls
+   92  14.07.2025 19:43:51screen
+   93  14.07.2025 19:43:51ls -ls
+   94  14.07.2025 19:43:51screen -S
+   95  14.07.2025 19:43:51screen -S -m
+   96  14.07.2025 19:43:51screen -ls
+   97  14.07.2025 19:43:51screen -r 52582.40006.top 
+   98  14.07.2025 19:43:51screen -r [screen is terminating]
+   99  14.07.2025 19:43:51screen -r 49826.40006.top 
+  100  14.07.2025 19:43:51screen -ls
+  101  14.07.2025 19:43:51screen -r 49826.40006.top
+  102  14.07.2025 19:43:51screen -r 40006.top
+  103  14.07.2025 19:43:51screen -ls
+  104  14.07.2025 19:43:51screen -r 48476.5717.-d
+  105  14.07.2025 19:43:51screen -r 48476.5717.-d 40006.top
+  106  14.07.2025 19:43:51screen -r 40006.top
+  107  14.07.2025 19:43:51screen -ls
+  108  14.07.2025 19:43:51screen -r 40006.top
+  109  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  110  14.07.2025 19:43:51screen -r 363.eltex-2025-summer
+  111  14.07.2025 19:43:51screen -ls
+  112  14.07.2025 19:43:51screen -r 40006.top
+  113  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  114  14.07.2025 19:43:51screen -r 6662.-d
+  115  14.07.2025 19:43:51screen -ls
+  116  14.07.2025 19:43:51screen -r 5717.-d
+  117  14.07.2025 19:43:51reset
+  118  14.07.2025 19:43:51screen -ls
+  119  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  120  14.07.2025 19:43:51screen -ls
+  121  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  122  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  123  14.07.2025 19:43:51screen -ls
+  124  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  125  14.07.2025 19:43:51screen -ls
+  126  14.07.2025 19:43:51w
+  127  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  128  14.07.2025 19:43:51screen -ls
+  129  14.07.2025 19:43:51w
+  130  14.07.2025 19:43:51screen
+  131  14.07.2025 19:43:51screen -S
+  132  14.07.2025 19:43:51screen
+  133  14.07.2025 19:43:51screen -ls
+  134  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  135  14.07.2025 19:43:51screen -ls
+  136  14.07.2025 19:43:51screen
+  137  14.07.2025 19:43:51screen -ls
+  138  14.07.2025 19:43:51screen -r 780.pts-3.eltex-2025-summer
+  139  14.07.2025 19:43:51screen -ls
+  140  14.07.2025 19:43:51screen
+  141  14.07.2025 19:43:51screen -r 800.pts-3.eltex-2025-summer
+  142  14.07.2025 19:43:51screen
+  143  14.07.2025 19:43:51screen -ls
+  144  14.07.2025 19:43:51screen
+  145  14.07.2025 19:43:51screen -lы
+  146  14.07.2025 19:43:51screen -ls
+  147  14.07.2025 19:43:51screen -ls
+  148  14.07.2025 19:43:51screen -r 879.pts-3.eltex-2025-summer
+  149  14.07.2025 19:43:51screen -S top -d
+  150  14.07.2025 19:43:51screen -ls
+  151  14.07.2025 19:43:51screen -S top -d -m
+  152  14.07.2025 19:43:51screen -S top -
+  153  14.07.2025 19:43:51screen -S top -d
+  154  14.07.2025 19:43:51screen -ls
+  155  14.07.2025 19:43:51screen -S top -d
+  156  14.07.2025 19:43:51screen -r 945.top
+  157  14.07.2025 19:43:51screen -ls
+  158  14.07.2025 19:43:51screen -S top -d -m top
+  159  14.07.2025 19:43:51screen -ls
+  160  14.07.2025 19:43:51screen -r 968.top
+  161  14.07.2025 19:43:51screen -ls
+  162  14.07.2025 19:43:51screen -S top -d -m top
+  163  14.07.2025 19:43:51screen -ls
+  164  14.07.2025 19:43:51screen -r 1613.top
+  165  14.07.2025 19:43:51screen -ls
+  166  14.07.2025 19:43:51screen -S top -d -m top
+  167  14.07.2025 19:43:51screen -ls
+  168  14.07.2025 19:43:51screen -r 1622.top
+  169  14.07.2025 19:43:51screen -ls
+  170  14.07.2025 19:43:51top
+  171  14.07.2025 19:43:51screen -ls
+  172  14.07.2025 19:43:51screen -S top -d -m top
+  173  14.07.2025 19:43:51screen -ls
+  174  14.07.2025 19:43:51screen -S top -d -m "bash; top"
+  175  14.07.2025 19:43:51screen -ls
+  176  14.07.2025 19:43:51screen -r 1768.top
+  177  14.07.2025 19:43:51screen -r top
+  178  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  179  14.07.2025 19:43:51screen -r top
+  180  14.07.2025 19:43:51screen -ls
+  181  14.07.2025 19:43:51man bash
+  182  14.07.2025 19:43:51man -Lru bash
+  183  14.07.2025 19:43:51screen -ls
+  184  14.07.2025 19:43:51screen -r top
+  185  14.07.2025 19:43:51bash
+  186  14.07.2025 19:43:51bash
+  187  14.07.2025 19:43:51screen -S watch
+  188  14.07.2025 19:43:51history
+  189  14.07.2025 19:43:51screen -ls
+  190  14.07.2025 19:43:51screen -S watch -dm
+  191  14.07.2025 19:43:51screen -ls
+  192  14.07.2025 19:43:51screen -r watch
+  193  14.07.2025 19:43:51scren -ls
+  194  14.07.2025 19:43:51screen -ls
+  195  14.07.2025 19:43:51screen -r top
+  196  14.07.2025 19:43:51screen -r watch
+  197  14.07.2025 19:43:51screen -S watch -dm watch /usr/bin/vmstat
+  198  14.07.2025 19:43:51screen -r watch
+  199  14.07.2025 19:43:51screen -ls
+  200  14.07.2025 19:43:51screen -r top
+  201  14.07.2025 19:43:51screen -S watch
+  202  14.07.2025 19:43:51screen -ls
+  203  14.07.2025 19:43:51screen -S top -d -m top
+  204  14.07.2025 19:43:51screen -ls
+  205  14.07.2025 19:43:51screen -r 1632.top
+  206  14.07.2025 19:43:51screen -ls
+  207  14.07.2025 19:43:51screen -r 1632.watch
+  208  14.07.2025 19:43:51screen -r 1607.watch
+  209  14.07.2025 19:43:51screen -ls
+  210  14.07.2025 19:43:51screen -S top -d -m top
+  211  14.07.2025 19:43:51screen -ls
+  212  14.07.2025 19:43:51screen -r 1649.top
+  213  14.07.2025 19:43:51screen -S top -d -m top
+  214  14.07.2025 19:43:51screen -ls
+  215  14.07.2025 19:43:51screen -r 1657.top
+  216  14.07.2025 19:43:51screen top -d -m top
+  217  14.07.2025 19:43:51screen -ls
+  218  14.07.2025 19:43:51screen -ls
+  219  14.07.2025 19:43:51screen -r 1677.top
+  220  14.07.2025 19:43:51screen -ls
+  221  14.07.2025 19:43:51screen -S top
+  222  14.07.2025 19:43:51screen -ls
+  223  14.07.2025 19:43:51screen -r 1695.top
+  224  14.07.2025 19:43:51screen -r 1688.top
+  225  14.07.2025 19:43:51screen -r 1695.top
+  226  14.07.2025 19:43:51screen -ls
+  227  14.07.2025 19:43:51screen -S test -dm bash -c "top; exec bash"
+  228  14.07.2025 19:43:51screen -S top -d -m bash; top
+  229  14.07.2025 19:43:51screen -ls
+  230  14.07.2025 19:43:51screen -r 1730.top
+  231  14.07.2025 19:43:51screen -r 1721.top
+  232  14.07.2025 19:43:51screen -r 1721.test
+  233  14.07.2025 19:43:51screen -S top -d -m bash -c top
+  234  14.07.2025 19:43:51screen -ls
+  235  14.07.2025 19:43:51screen -r 1744.test
+  236  14.07.2025 19:43:51screen -r 1744.top
+  237  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  238  14.07.2025 19:43:51screen -ls
+  239  14.07.2025 19:43:51screen -r 1753.top
+  240  14.07.2025 19:43:51screen -S top -d -m "top; exec bash"
+  241  14.07.2025 19:43:51screen -ls
+  242  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  243  14.07.2025 19:43:51screen -ls
+  244  14.07.2025 19:43:51screen -r top
+  245  14.07.2025 19:43:51screen -ls
+  246  14.07.2025 19:43:51screen -r top
+  247  14.07.2025 19:43:51screen -ls
+  248  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  249  14.07.2025 19:43:51screen -r top
+  250  14.07.2025 19:43:51screen -ls
+  251  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  252  14.07.2025 19:43:51screen -ls
+  253  14.07.2025 19:43:51screen -r top
+  254  14.07.2025 19:43:51screen -ls
+  255  14.07.2025 19:43:51screen -r watch
+  256  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  257  14.07.2025 19:43:51screen -ls
+  258  14.07.2025 19:43:51screen -r top
+  259  14.07.2025 19:43:51screen -ls
+  260  14.07.2025 19:43:51screen -r watch
+  261  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  262  14.07.2025 19:43:51screen -ls
+  263  14.07.2025 19:43:51screen -r top
+  264  14.07.2025 19:43:51screen -r watch
+  265  14.07.2025 19:43:51watch /usr/bin/vmstat
+  266  14.07.2025 19:43:51screen -r top
+  267  14.07.2025 19:43:51screen -ls
+  268  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  269  14.07.2025 19:43:51screen -r top
+  270  14.07.2025 19:43:51q
+  271  14.07.2025 19:43:51screen -S watch
+  272  14.07.2025 19:43:51screen -r watch
+  273  14.07.2025 19:43:51screen -r top
+  274  14.07.2025 19:43:51screen -r watch
+  275  14.07.2025 19:43:51screen -r top
+  276  14.07.2025 19:43:51screen -S watch
+  277  14.07.2025 19:43:51screen -ls
+  278  14.07.2025 19:43:51screen -r 5141.watch
+  279  14.07.2025 19:43:51screen -ls
+  280  14.07.2025 19:43:51screen -r top
+  281  14.07.2025 19:43:51screen -ls
+  282  14.07.2025 19:43:51screen -r watch
+  283  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  284  14.07.2025 19:43:51screen -ls
+  285  14.07.2025 19:43:51screen -r top
+  286  14.07.2025 19:43:51screen -ls
+  287  14.07.2025 19:43:51screen -S watch
+  288  14.07.2025 19:43:51screen -ls
+  289  14.07.2025 19:43:51screen -S watch
+  290  14.07.2025 19:43:51watch /usr/bin/vmstat
+  291  14.07.2025 19:43:51screen -ls
+  292  14.07.2025 19:43:51screen -r watch
+  293  14.07.2025 19:43:51screen -ls
+  294  14.07.2025 19:43:51screen -r watch
+  295  14.07.2025 19:43:51screen -ls
+  296  14.07.2025 19:43:51screen -r watch
+  297  14.07.2025 19:43:51screen -ls
+  298  14.07.2025 19:43:51screen -r watch
+  299  14.07.2025 19:43:51screen -r top
+  300  14.07.2025 19:43:51screen -ls
+  301  14.07.2025 19:43:51screen -r top
+  302  14.07.2025 19:43:51screen -r watch
+  303  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  304  14.07.2025 19:43:51screen -ls
+  305  14.07.2025 19:43:51screen -r top
+  306  14.07.2025 19:43:51screen -ls
+  307  14.07.2025 19:43:51screen -S vi
+  308  14.07.2025 19:43:51screen -ls
+  309  14.07.2025 19:43:51screen -r vi
+  310  14.07.2025 19:43:51screen -ls
+  311  14.07.2025 19:43:51logout
+  312  14.07.2025 19:43:51screen -ls
+  313  14.07.2025 19:43:51screen -r vi
+  314  14.07.2025 19:43:51screen -S Skripko_DI_part2
+  315  14.07.2025 19:43:51ls -la
+  316  14.07.2025 19:43:51screen -S `Skripko_DI`part2
+  317  14.07.2025 19:43:51screen ls
+  318  14.07.2025 19:43:51screen -ls
+  319  14.07.2025 19:43:51screen -r part2
+  320  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  321  14.07.2025 19:43:51screen -r p
+  322  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  323  14.07.2025 19:43:51screen -ls
+  324  14.07.2025 19:43:51screen -S SkripkoDI_part2
+  325  14.07.2025 19:43:51history
+  326  14.07.2025 19:43:51whoami
+  327  14.07.2025 19:43:51ssh-copy-id
+  328  14.07.2025 19:43:51ды
+  329  14.07.2025 19:43:51ls
+  330  14.07.2025 19:43:511.txt  1.txt.pub  report_part1.txt
+  331  14.07.2025 19:43:51clear
+  332  14.07.2025 19:43:51ssh-keygen
+  333  14.07.2025 19:43:51cd
+  334  14.07.2025 19:43:51pwd
+  335  14.07.2025 19:43:51ls -la
+  336  14.07.2025 19:43:51ssh-keygen
+  337  14.07.2025 19:43:51history
+  338  14.07.2025 19:43:51ssh-copy-id
+  339  14.07.2025 19:43:51cd
+  340  14.07.2025 19:43:51ls -la
+  341  14.07.2025 19:43:51cat 1.txt
+  342  14.07.2025 19:43:51cat 1.txt.pub
+  343  14.07.2025 19:43:51ssh root@172.16.9.200
+  344  14.07.2025 19:43:51ca
+  345  14.07.2025 19:43:51ls -la
+  346  14.07.2025 19:43:51cat 1307
+  347  14.07.2025 19:43:51cat 1307.txt
+  348  14.07.2025 19:43:51cat .bashrc
+  349  14.07.2025 19:43:51screen -ls
+  350  14.07.2025 19:43:51screen -r SkripkoDI_part2
+  351  14.07.2025 19:43:51script $USER_part2.log
+  352  14.07.2025 19:43:51ls -la
+  353  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  354  14.07.2025 19:43:51cat .eltex-pg1-v26_part2.log
+  355  14.07.2025 19:43:51screen -ls
+  356  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  357  14.07.2025 19:43:51screen-ls
+  358  14.07.2025 19:43:51screen -ls
+  359  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  360  14.07.2025 19:43:51screen -ls
+  361  14.07.2025 19:43:51screen -r 719564
+  362  14.07.2025 19:43:51screen -la
+  363  14.07.2025 19:43:51"
+  364  14.07.2025 19:43:51screen -ls
+  365  14.07.2025 19:43:51screen -r eltex-pg1-v26_part2
+  366  14.07.2025 19:43:51ls -la
+  367  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  368  14.07.2025 19:43:51rm .eltex-pg1-v26_part2.log
+  369  14.07.2025 19:43:51ls -la
+  370  14.07.2025 19:43:51screen -ls
+  371  14.07.2025 19:43:51script $USER_part2.log
+  372  14.07.2025 19:43:51ls -la
+  373  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  374  14.07.2025 19:43:51ls -la
+  375  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  376  14.07.2025 19:43:51screen -ls
+  377  14.07.2025 19:43:51screen -r 708649
+  378  14.07.2025 19:43:51ls -la
+  379  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  380  14.07.2025 19:43:51scre
+  381  14.07.2025 19:43:51screen -ls
+  382  14.07.2025 19:43:51screen screen -X -S 708649 quit
+  383  14.07.2025 19:43:51screen -ls
+  384  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  385  14.07.2025 19:43:51ls -la
+  386  14.07.2025 19:43:51screen -ls
+  387  14.07.2025 19:43:51screen -r 720605
+  388  14.07.2025 19:43:51screen -ls
+  389  14.07.2025 19:43:51ls -la
+  390  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  391  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  392  14.07.2025 19:43:51ls
+  393  14.07.2025 19:43:51cat 1.txt.pub
+  394  14.07.2025 19:43:51cat 1307
+  395  14.07.2025 19:43:51cat 1307.txt
+  396  14.07.2025 19:43:51rm 1307.txt
+  397  14.07.2025 19:43:51script ${USER}_part2.log
+  398  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  399  14.07.2025 19:43:51aa
+  400  14.07.2025 19:43:51b
+  401  14.07.2025 19:43:51cat
+  402  14.07.2025 19:43:51ls
+  403  14.07.2025 19:43:51ls -la
+  404  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  405  14.07.2025 19:43:51history
+  406  14.07.2025 19:43:51ls
+  407  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  408  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  409  14.07.2025 19:43:51less -a eltex-pg1-v26_part2.log
+  410  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  411  14.07.2025 19:43:51screen 0ls
+  412  14.07.2025 19:43:51screen -s
+  413  14.07.2025 19:43:51screen -ls
+  414  14.07.2025 19:43:51clear
+  415  14.07.2025 19:43:51screen -ls
+  416  14.07.2025 19:43:51ls 
+  417  14.07.2025 19:43:51cat eltex-pg1-v26
+  418  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  419  14.07.2025 19:43:51screen -r 720605
+  420  14.07.2025 19:43:51screen -ls
+  421  14.07.2025 19:43:51screen -S `whoami`_part2
+  422  14.07.2025 19:43:51ls
+  423  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  424  14.07.2025 19:43:51ls
+  425  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  426  14.07.2025 19:43:51ls
+  427  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  428  14.07.2025 19:43:51ls
+  429  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  430  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  431  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  432  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  433  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  434  14.07.2025 19:43:51echo "Текст"
+  435  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  436  14.07.2025 19:43:51ls
+  437  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  438  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  439  14.07.2025 19:43:51screen 0ls
+  440  14.07.2025 19:43:51screen -ls
+  441  14.07.2025 19:43:51screen -r 89705
+  442  14.07.2025 19:43:51screen -r 897095
+  443  14.07.2025 19:43:51screen -ls
+  444  14.07.2025 19:43:51ды
+  445  14.07.2025 19:43:51ls
+  446  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  447  14.07.2025 19:43:51ls
+  448  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part.log"
+  449  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part2.log"
+  450  14.07.2025 19:43:51echo "text"
+  451  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  452  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  453  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  454  14.07.2025 19:43:58ls
+  455  14.07.2025 19:44:03echo
+  456  14.07.2025 19:44:07map
+  457  14.07.2025 19:44:09man
+  458  14.07.2025 19:44:14man man
+  459  14.07.2025 19:54:38echo $HISTFILESIZE
+  460  14.07.2025 19:54:43echo $HISTSIZE
+  461  14.07.2025 20:30:27ls -d ~/.*
+  462  14.07.2025 20:34:00export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S'
+  463  14.07.2025 20:35:07vim ~/.bashrc
+  464  14.07.2025 20:36:26history
+  465  14.07.2025 20:36:34vim ~/.bashrc
+  466  14.07.2025 20:37:00history
+  467  14.07.2025 20:37:08vim ~/.bashrc
+  468  14.07.2025 20:37:40history
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ фвфеу[K[K[K[K[Kfa[K[Kdaet[Kte[K[K[Kte
+[?2004lMon Jul 14 08:43:42 PM +07 2025
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ g[Khistory
+[?2004l    1  14.07.2025 19:43:51screen -ls
+    2  14.07.2025 19:43:51map screen
+    3  14.07.2025 19:43:51man -Lru man
+    4  14.07.2025 19:43:51man man
+    5  14.07.2025 19:43:51man -Lru screen
+    6  14.07.2025 19:43:51screen -S -d -m 
+    7  14.07.2025 19:43:51screen -S -d -m
+    8  14.07.2025 19:43:51ls
+    9  14.07.2025 19:43:51cd ..
+   10  14.07.2025 19:43:51ls
+   11  14.07.2025 19:43:51cd /user2
+   12  14.07.2025 19:43:51cd \user2
+   13  14.07.2025 19:43:51clear
+   14  14.07.2025 19:43:51ls
+   15  14.07.2025 19:43:51cd eltex-pg1-v26
+   16  14.07.2025 19:43:51map -Lru screen
+   17  14.07.2025 19:43:51man -Lru screen
+   18  14.07.2025 19:43:51man man
+   19  14.07.2025 19:43:51man -Lru screen
+   20  14.07.2025 19:43:51screen -S
+   21  14.07.2025 19:43:51screen
+   22  14.07.2025 19:43:51pswd
+   23  14.07.2025 19:43:51psd
+   24  14.07.2025 19:43:51passwd eltex-pg1-v26
+   25  14.07.2025 19:43:51log
+   26  14.07.2025 19:43:51history
+   27  14.07.2025 19:43:51q
+   28  14.07.2025 19:43:51history
+   29  14.07.2025 19:43:51top
+   30  14.07.2025 19:43:51screen -S 5717.-d
+   31  14.07.2025 19:43:51screen -S 40006.top
+   32  14.07.2025 19:43:51watch/usr/bin/vmstat
+   33  14.07.2025 19:43:51/watch/usr/bin/vmstat
+   34  14.07.2025 19:43:51cd /watch/usr/bin/vmstat
+   35  14.07.2025 19:43:51cd watch/usr/bin/vmstat
+   36  14.07.2025 19:43:51ls
+   37  14.07.2025 19:43:51ls -la
+   38  14.07.2025 19:43:51history
+   39  14.07.2025 19:43:51ls -la
+   40  14.07.2025 19:43:51ls
+   41  14.07.2025 19:43:51screen -ls
+   42  14.07.2025 19:43:51history
+   43  14.07.2025 19:43:51screen -la
+   44  14.07.2025 19:43:51history
+   45  14.07.2025 19:43:51watch/usr/bin/vmstart
+   46  14.07.2025 19:43:51screen -S report
+   47  14.07.2025 19:43:51screen -ls
+   48  14.07.2025 19:43:51screen -S 40006.top
+   49  14.07.2025 19:43:51watch/usr/bin/vmstart
+   50  14.07.2025 19:43:51watch/usr/bin/vmstat
+   51  14.07.2025 19:43:51watch /usr/bin/vmstat
+   52  14.07.2025 19:43:51history
+   53  14.07.2025 19:43:51screen -ls
+   54  14.07.2025 19:43:51screen -r 40006.top
+   55  14.07.2025 19:43:51screen 40006.top
+   56  14.07.2025 19:43:51screen -S 40006.top
+   57  14.07.2025 19:43:51screen -ls
+   58  14.07.2025 19:43:51ls -la
+   59  14.07.2025 19:43:51.bash_history
+   60  14.07.2025 19:43:51vim .bash_history
+   61  14.07.2025 19:43:51history
+   62  14.07.2025 19:43:51screen -la
+   63  14.07.2025 19:43:51history
+   64  14.07.2025 19:43:51screen -ls
+   65  14.07.2025 19:43:51screen -r 266210.-m
+   66  14.07.2025 19:43:51history
+   67  14.07.2025 19:43:51screen -S 40006.top
+   68  14.07.2025 19:43:51history
+   69  14.07.2025 19:43:51man -Lsr history
+   70  14.07.2025 19:43:51screen -S top -d -m
+   71  14.07.2025 19:43:51screen -ls
+   72  14.07.2025 19:43:51top
+   73  14.07.2025 19:43:51screen -ls
+   74  14.07.2025 19:43:51screen -r 40006.top
+   75  14.07.2025 19:43:51w
+   76  14.07.2025 19:43:51screen -r
+   77  14.07.2025 19:43:51w
+   78  14.07.2025 19:43:51w -la
+   79  14.07.2025 19:43:51w -o
+   80  14.07.2025 19:43:51screen -S
+   81  14.07.2025 19:43:51screen -d -m
+   82  14.07.2025 19:43:51top
+   83  14.07.2025 19:43:51screen -ls
+   84  14.07.2025 19:43:51screen -ls -h
+   85  14.07.2025 19:43:51screen -h - ls
+   86  14.07.2025 19:43:51screen -h -ls
+   87  14.07.2025 19:43:51screen -ls
+   88  14.07.2025 19:43:51screen -ls
+   89  14.07.2025 19:43:51map screen
+   90  14.07.2025 19:43:51man screen
+   91  14.07.2025 19:43:51screen -ls
+   92  14.07.2025 19:43:51screen
+   93  14.07.2025 19:43:51ls -ls
+   94  14.07.2025 19:43:51screen -S
+   95  14.07.2025 19:43:51screen -S -m
+   96  14.07.2025 19:43:51screen -ls
+   97  14.07.2025 19:43:51screen -r 52582.40006.top 
+   98  14.07.2025 19:43:51screen -r [screen is terminating]
+   99  14.07.2025 19:43:51screen -r 49826.40006.top 
+  100  14.07.2025 19:43:51screen -ls
+  101  14.07.2025 19:43:51screen -r 49826.40006.top
+  102  14.07.2025 19:43:51screen -r 40006.top
+  103  14.07.2025 19:43:51screen -ls
+  104  14.07.2025 19:43:51screen -r 48476.5717.-d
+  105  14.07.2025 19:43:51screen -r 48476.5717.-d 40006.top
+  106  14.07.2025 19:43:51screen -r 40006.top
+  107  14.07.2025 19:43:51screen -ls
+  108  14.07.2025 19:43:51screen -r 40006.top
+  109  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  110  14.07.2025 19:43:51screen -r 363.eltex-2025-summer
+  111  14.07.2025 19:43:51screen -ls
+  112  14.07.2025 19:43:51screen -r 40006.top
+  113  14.07.2025 19:43:51screen -r 38384..eltex-2025-summer
+  114  14.07.2025 19:43:51screen -r 6662.-d
+  115  14.07.2025 19:43:51screen -ls
+  116  14.07.2025 19:43:51screen -r 5717.-d
+  117  14.07.2025 19:43:51reset
+  118  14.07.2025 19:43:51screen -ls
+  119  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  120  14.07.2025 19:43:51screen -ls
+  121  14.07.2025 19:43:51screen -r 36830.pts-93.eltex-2025-summer
+  122  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  123  14.07.2025 19:43:51screen -ls
+  124  14.07.2025 19:43:51screen -r 15837.pts-78.eltex-2025-summer
+  125  14.07.2025 19:43:51screen -ls
+  126  14.07.2025 19:43:51w
+  127  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  128  14.07.2025 19:43:51screen -ls
+  129  14.07.2025 19:43:51w
+  130  14.07.2025 19:43:51screen
+  131  14.07.2025 19:43:51screen -S
+  132  14.07.2025 19:43:51screen
+  133  14.07.2025 19:43:51screen -ls
+  134  14.07.2025 19:43:51screen -r 753.pts-3.eltex-2025-summer
+  135  14.07.2025 19:43:51screen -ls
+  136  14.07.2025 19:43:51screen
+  137  14.07.2025 19:43:51screen -ls
+  138  14.07.2025 19:43:51screen -r 780.pts-3.eltex-2025-summer
+  139  14.07.2025 19:43:51screen -ls
+  140  14.07.2025 19:43:51screen
+  141  14.07.2025 19:43:51screen -r 800.pts-3.eltex-2025-summer
+  142  14.07.2025 19:43:51screen
+  143  14.07.2025 19:43:51screen -ls
+  144  14.07.2025 19:43:51screen
+  145  14.07.2025 19:43:51screen -lы
+  146  14.07.2025 19:43:51screen -ls
+  147  14.07.2025 19:43:51screen -ls
+  148  14.07.2025 19:43:51screen -r 879.pts-3.eltex-2025-summer
+  149  14.07.2025 19:43:51screen -S top -d
+  150  14.07.2025 19:43:51screen -ls
+  151  14.07.2025 19:43:51screen -S top -d -m
+  152  14.07.2025 19:43:51screen -S top -
+  153  14.07.2025 19:43:51screen -S top -d
+  154  14.07.2025 19:43:51screen -ls
+  155  14.07.2025 19:43:51screen -S top -d
+  156  14.07.2025 19:43:51screen -r 945.top
+  157  14.07.2025 19:43:51screen -ls
+  158  14.07.2025 19:43:51screen -S top -d -m top
+  159  14.07.2025 19:43:51screen -ls
+  160  14.07.2025 19:43:51screen -r 968.top
+  161  14.07.2025 19:43:51screen -ls
+  162  14.07.2025 19:43:51screen -S top -d -m top
+  163  14.07.2025 19:43:51screen -ls
+  164  14.07.2025 19:43:51screen -r 1613.top
+  165  14.07.2025 19:43:51screen -ls
+  166  14.07.2025 19:43:51screen -S top -d -m top
+  167  14.07.2025 19:43:51screen -ls
+  168  14.07.2025 19:43:51screen -r 1622.top
+  169  14.07.2025 19:43:51screen -ls
+  170  14.07.2025 19:43:51top
+  171  14.07.2025 19:43:51screen -ls
+  172  14.07.2025 19:43:51screen -S top -d -m top
+  173  14.07.2025 19:43:51screen -ls
+  174  14.07.2025 19:43:51screen -S top -d -m "bash; top"
+  175  14.07.2025 19:43:51screen -ls
+  176  14.07.2025 19:43:51screen -r 1768.top
+  177  14.07.2025 19:43:51screen -r top
+  178  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  179  14.07.2025 19:43:51screen -r top
+  180  14.07.2025 19:43:51screen -ls
+  181  14.07.2025 19:43:51man bash
+  182  14.07.2025 19:43:51man -Lru bash
+  183  14.07.2025 19:43:51screen -ls
+  184  14.07.2025 19:43:51screen -r top
+  185  14.07.2025 19:43:51bash
+  186  14.07.2025 19:43:51bash
+  187  14.07.2025 19:43:51screen -S watch
+  188  14.07.2025 19:43:51history
+  189  14.07.2025 19:43:51screen -ls
+  190  14.07.2025 19:43:51screen -S watch -dm
+  191  14.07.2025 19:43:51screen -ls
+  192  14.07.2025 19:43:51screen -r watch
+  193  14.07.2025 19:43:51scren -ls
+  194  14.07.2025 19:43:51screen -ls
+  195  14.07.2025 19:43:51screen -r top
+  196  14.07.2025 19:43:51screen -r watch
+  197  14.07.2025 19:43:51screen -S watch -dm watch /usr/bin/vmstat
+  198  14.07.2025 19:43:51screen -r watch
+  199  14.07.2025 19:43:51screen -ls
+  200  14.07.2025 19:43:51screen -r top
+  201  14.07.2025 19:43:51screen -S watch
+  202  14.07.2025 19:43:51screen -ls
+  203  14.07.2025 19:43:51screen -S top -d -m top
+  204  14.07.2025 19:43:51screen -ls
+  205  14.07.2025 19:43:51screen -r 1632.top
+  206  14.07.2025 19:43:51screen -ls
+  207  14.07.2025 19:43:51screen -r 1632.watch
+  208  14.07.2025 19:43:51screen -r 1607.watch
+  209  14.07.2025 19:43:51screen -ls
+  210  14.07.2025 19:43:51screen -S top -d -m top
+  211  14.07.2025 19:43:51screen -ls
+  212  14.07.2025 19:43:51screen -r 1649.top
+  213  14.07.2025 19:43:51screen -S top -d -m top
+  214  14.07.2025 19:43:51screen -ls
+  215  14.07.2025 19:43:51screen -r 1657.top
+  216  14.07.2025 19:43:51screen top -d -m top
+  217  14.07.2025 19:43:51screen -ls
+  218  14.07.2025 19:43:51screen -ls
+  219  14.07.2025 19:43:51screen -r 1677.top
+  220  14.07.2025 19:43:51screen -ls
+  221  14.07.2025 19:43:51screen -S top
+  222  14.07.2025 19:43:51screen -ls
+  223  14.07.2025 19:43:51screen -r 1695.top
+  224  14.07.2025 19:43:51screen -r 1688.top
+  225  14.07.2025 19:43:51screen -r 1695.top
+  226  14.07.2025 19:43:51screen -ls
+  227  14.07.2025 19:43:51screen -S test -dm bash -c "top; exec bash"
+  228  14.07.2025 19:43:51screen -S top -d -m bash; top
+  229  14.07.2025 19:43:51screen -ls
+  230  14.07.2025 19:43:51screen -r 1730.top
+  231  14.07.2025 19:43:51screen -r 1721.top
+  232  14.07.2025 19:43:51screen -r 1721.test
+  233  14.07.2025 19:43:51screen -S top -d -m bash -c top
+  234  14.07.2025 19:43:51screen -ls
+  235  14.07.2025 19:43:51screen -r 1744.test
+  236  14.07.2025 19:43:51screen -r 1744.top
+  237  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  238  14.07.2025 19:43:51screen -ls
+  239  14.07.2025 19:43:51screen -r 1753.top
+  240  14.07.2025 19:43:51screen -S top -d -m "top; exec bash"
+  241  14.07.2025 19:43:51screen -ls
+  242  14.07.2025 19:43:51screen -S top -d -m bash -c "top; exec bash"
+  243  14.07.2025 19:43:51screen -ls
+  244  14.07.2025 19:43:51screen -r top
+  245  14.07.2025 19:43:51screen -ls
+  246  14.07.2025 19:43:51screen -r top
+  247  14.07.2025 19:43:51screen -ls
+  248  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  249  14.07.2025 19:43:51screen -r top
+  250  14.07.2025 19:43:51screen -ls
+  251  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  252  14.07.2025 19:43:51screen -ls
+  253  14.07.2025 19:43:51screen -r top
+  254  14.07.2025 19:43:51screen -ls
+  255  14.07.2025 19:43:51screen -r watch
+  256  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  257  14.07.2025 19:43:51screen -ls
+  258  14.07.2025 19:43:51screen -r top
+  259  14.07.2025 19:43:51screen -ls
+  260  14.07.2025 19:43:51screen -r watch
+  261  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  262  14.07.2025 19:43:51screen -ls
+  263  14.07.2025 19:43:51screen -r top
+  264  14.07.2025 19:43:51screen -r watch
+  265  14.07.2025 19:43:51watch /usr/bin/vmstat
+  266  14.07.2025 19:43:51screen -r top
+  267  14.07.2025 19:43:51screen -ls
+  268  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  269  14.07.2025 19:43:51screen -r top
+  270  14.07.2025 19:43:51q
+  271  14.07.2025 19:43:51screen -S watch
+  272  14.07.2025 19:43:51screen -r watch
+  273  14.07.2025 19:43:51screen -r top
+  274  14.07.2025 19:43:51screen -r watch
+  275  14.07.2025 19:43:51screen -r top
+  276  14.07.2025 19:43:51screen -S watch
+  277  14.07.2025 19:43:51screen -ls
+  278  14.07.2025 19:43:51screen -r 5141.watch
+  279  14.07.2025 19:43:51screen -ls
+  280  14.07.2025 19:43:51screen -r top
+  281  14.07.2025 19:43:51screen -ls
+  282  14.07.2025 19:43:51screen -r watch
+  283  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  284  14.07.2025 19:43:51screen -ls
+  285  14.07.2025 19:43:51screen -r top
+  286  14.07.2025 19:43:51screen -ls
+  287  14.07.2025 19:43:51screen -S watch
+  288  14.07.2025 19:43:51screen -ls
+  289  14.07.2025 19:43:51screen -S watch
+  290  14.07.2025 19:43:51watch /usr/bin/vmstat
+  291  14.07.2025 19:43:51screen -ls
+  292  14.07.2025 19:43:51screen -r watch
+  293  14.07.2025 19:43:51screen -ls
+  294  14.07.2025 19:43:51screen -r watch
+  295  14.07.2025 19:43:51screen -ls
+  296  14.07.2025 19:43:51screen -r watch
+  297  14.07.2025 19:43:51screen -ls
+  298  14.07.2025 19:43:51screen -r watch
+  299  14.07.2025 19:43:51screen -r top
+  300  14.07.2025 19:43:51screen -ls
+  301  14.07.2025 19:43:51screen -r top
+  302  14.07.2025 19:43:51screen -r watch
+  303  14.07.2025 19:43:51screen -S top -d -m bash -c "top; bash"
+  304  14.07.2025 19:43:51screen -ls
+  305  14.07.2025 19:43:51screen -r top
+  306  14.07.2025 19:43:51screen -ls
+  307  14.07.2025 19:43:51screen -S vi
+  308  14.07.2025 19:43:51screen -ls
+  309  14.07.2025 19:43:51screen -r vi
+  310  14.07.2025 19:43:51screen -ls
+  311  14.07.2025 19:43:51logout
+  312  14.07.2025 19:43:51screen -ls
+  313  14.07.2025 19:43:51screen -r vi
+  314  14.07.2025 19:43:51screen -S Skripko_DI_part2
+  315  14.07.2025 19:43:51ls -la
+  316  14.07.2025 19:43:51screen -S `Skripko_DI`part2
+  317  14.07.2025 19:43:51screen ls
+  318  14.07.2025 19:43:51screen -ls
+  319  14.07.2025 19:43:51screen -r part2
+  320  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  321  14.07.2025 19:43:51screen -r p
+  322  14.07.2025 19:43:51screen -r Skripko_DI_part2
+  323  14.07.2025 19:43:51screen -ls
+  324  14.07.2025 19:43:51screen -S SkripkoDI_part2
+  325  14.07.2025 19:43:51history
+  326  14.07.2025 19:43:51whoami
+  327  14.07.2025 19:43:51ssh-copy-id
+  328  14.07.2025 19:43:51ды
+  329  14.07.2025 19:43:51ls
+  330  14.07.2025 19:43:511.txt  1.txt.pub  report_part1.txt
+  331  14.07.2025 19:43:51clear
+  332  14.07.2025 19:43:51ssh-keygen
+  333  14.07.2025 19:43:51cd
+  334  14.07.2025 19:43:51pwd
+  335  14.07.2025 19:43:51ls -la
+  336  14.07.2025 19:43:51ssh-keygen
+  337  14.07.2025 19:43:51history
+  338  14.07.2025 19:43:51ssh-copy-id
+  339  14.07.2025 19:43:51cd
+  340  14.07.2025 19:43:51ls -la
+  341  14.07.2025 19:43:51cat 1.txt
+  342  14.07.2025 19:43:51cat 1.txt.pub
+  343  14.07.2025 19:43:51ssh root@172.16.9.200
+  344  14.07.2025 19:43:51ca
+  345  14.07.2025 19:43:51ls -la
+  346  14.07.2025 19:43:51cat 1307
+  347  14.07.2025 19:43:51cat 1307.txt
+  348  14.07.2025 19:43:51cat .bashrc
+  349  14.07.2025 19:43:51screen -ls
+  350  14.07.2025 19:43:51screen -r SkripkoDI_part2
+  351  14.07.2025 19:43:51script $USER_part2.log
+  352  14.07.2025 19:43:51ls -la
+  353  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  354  14.07.2025 19:43:51cat .eltex-pg1-v26_part2.log
+  355  14.07.2025 19:43:51screen -ls
+  356  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  357  14.07.2025 19:43:51screen-ls
+  358  14.07.2025 19:43:51screen -ls
+  359  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  360  14.07.2025 19:43:51screen -ls
+  361  14.07.2025 19:43:51screen -r 719564
+  362  14.07.2025 19:43:51screen -la
+  363  14.07.2025 19:43:51"
+  364  14.07.2025 19:43:51screen -ls
+  365  14.07.2025 19:43:51screen -r eltex-pg1-v26_part2
+  366  14.07.2025 19:43:51ls -la
+  367  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  368  14.07.2025 19:43:51rm .eltex-pg1-v26_part2.log
+  369  14.07.2025 19:43:51ls -la
+  370  14.07.2025 19:43:51screen -ls
+  371  14.07.2025 19:43:51script $USER_part2.log
+  372  14.07.2025 19:43:51ls -la
+  373  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  374  14.07.2025 19:43:51ls -la
+  375  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  376  14.07.2025 19:43:51screen -ls
+  377  14.07.2025 19:43:51screen -r 708649
+  378  14.07.2025 19:43:51ls -la
+  379  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  380  14.07.2025 19:43:51scre
+  381  14.07.2025 19:43:51screen -ls
+  382  14.07.2025 19:43:51screen screen -X -S 708649 quit
+  383  14.07.2025 19:43:51screen -ls
+  384  14.07.2025 19:43:51screen -S "`whoami`_part2"
+  385  14.07.2025 19:43:51ls -la
+  386  14.07.2025 19:43:51screen -ls
+  387  14.07.2025 19:43:51screen -r 720605
+  388  14.07.2025 19:43:51screen -ls
+  389  14.07.2025 19:43:51ls -la
+  390  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  391  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  392  14.07.2025 19:43:51ls
+  393  14.07.2025 19:43:51cat 1.txt.pub
+  394  14.07.2025 19:43:51cat 1307
+  395  14.07.2025 19:43:51cat 1307.txt
+  396  14.07.2025 19:43:51rm 1307.txt
+  397  14.07.2025 19:43:51script ${USER}_part2.log
+  398  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  399  14.07.2025 19:43:51aa
+  400  14.07.2025 19:43:51b
+  401  14.07.2025 19:43:51cat
+  402  14.07.2025 19:43:51ls
+  403  14.07.2025 19:43:51ls -la
+  404  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  405  14.07.2025 19:43:51history
+  406  14.07.2025 19:43:51ls
+  407  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  408  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  409  14.07.2025 19:43:51less -a eltex-pg1-v26_part2.log
+  410  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  411  14.07.2025 19:43:51screen 0ls
+  412  14.07.2025 19:43:51screen -s
+  413  14.07.2025 19:43:51screen -ls
+  414  14.07.2025 19:43:51clear
+  415  14.07.2025 19:43:51screen -ls
+  416  14.07.2025 19:43:51ls 
+  417  14.07.2025 19:43:51cat eltex-pg1-v26
+  418  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  419  14.07.2025 19:43:51screen -r 720605
+  420  14.07.2025 19:43:51screen -ls
+  421  14.07.2025 19:43:51screen -S `whoami`_part2
+  422  14.07.2025 19:43:51ls
+  423  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  424  14.07.2025 19:43:51ls
+  425  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  426  14.07.2025 19:43:51ls
+  427  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  428  14.07.2025 19:43:51ls
+  429  14.07.2025 19:43:51less eltex-pg1-v26_part2.log
+  430  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  431  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  432  14.07.2025 19:43:51cat eltex-pg1-v26_part2.log
+  433  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  434  14.07.2025 19:43:51echo "Текст"
+  435  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  436  14.07.2025 19:43:51ls
+  437  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  438  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  439  14.07.2025 19:43:51screen 0ls
+  440  14.07.2025 19:43:51screen -ls
+  441  14.07.2025 19:43:51screen -r 89705
+  442  14.07.2025 19:43:51screen -r 897095
+  443  14.07.2025 19:43:51screen -ls
+  444  14.07.2025 19:43:51ды
+  445  14.07.2025 19:43:51ls
+  446  14.07.2025 19:43:51rm eltex-pg1-v26_part2.log
+  447  14.07.2025 19:43:51ls
+  448  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part.log"
+  449  14.07.2025 19:43:51screen -S "$`whoami`_part2" -L -Logfile "${USER}_part2.log"
+  450  14.07.2025 19:43:51echo "text"
+  451  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  452  14.07.2025 19:43:51rm eltex-pg1-v26_part.log
+  453  14.07.2025 19:43:51less -r eltex-pg1-v26_part2.log
+  454  14.07.2025 19:43:58ls
+  455  14.07.2025 19:44:03echo
+  456  14.07.2025 19:44:07map
+  457  14.07.2025 19:44:09man
+  458  14.07.2025 19:44:14man man
+  459  14.07.2025 19:54:38echo $HISTFILESIZE
+  460  14.07.2025 19:54:43echo $HISTSIZE
+  461  14.07.2025 20:30:27ls -d ~/.*
+  462  14.07.2025 20:34:00export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S'
+  463  14.07.2025 20:35:07vim ~/.bashrc
+  464  14.07.2025 20:36:26history
+  465  14.07.2025 20:36:34vim ~/.bashrc
+  466  14.07.2025 20:37:00history
+  467  14.07.2025 20:37:08vim ~/.bashrc
+  468  14.07.2025 20:37:40history
+  469  14.07.2025 20:43:42date
+  470  14.07.2025 20:43:50history
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ history |tail -n 5
+[?2004l  467  14.07.2025 20:37:08vim ~/.bashrc
+  468  14.07.2025 20:37:40history
+  469  14.07.2025 20:43:42date
+  470  14.07.2025 20:43:50history
+  471  14.07.2025 20:44:15history |tail -n 5
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mexport PROMPT_COMMAND='history -a'[23mexport PROMPT_COMMAND='history -a'
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3msource ~/.bashrc[23msource ~/.bashrc
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ date
+[?2004lMon Jul 14 08:45:13 PM +07 2025
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ history
+[?2004l    1  14.07.2025 19:43:51  screen -ls
+    2  14.07.2025 19:43:51  map screen
+    3  14.07.2025 19:43:51  man -Lru man
+    4  14.07.2025 19:43:51  man man
+    5  14.07.2025 19:43:51  man -Lru screen
+    6  14.07.2025 19:43:51  screen -S -d -m 
+    7  14.07.2025 19:43:51  screen -S -d -m
+    8  14.07.2025 19:43:51  ls
+    9  14.07.2025 19:43:51  cd ..
+   10  14.07.2025 19:43:51  ls
+   11  14.07.2025 19:43:51  cd /user2
+   12  14.07.2025 19:43:51  cd \user2
+   13  14.07.2025 19:43:51  clear
+   14  14.07.2025 19:43:51  ls
+   15  14.07.2025 19:43:51  cd eltex-pg1-v26
+   16  14.07.2025 19:43:51  map -Lru screen
+   17  14.07.2025 19:43:51  man -Lru screen
+   18  14.07.2025 19:43:51  man man
+   19  14.07.2025 19:43:51  man -Lru screen
+   20  14.07.2025 19:43:51  screen -S
+   21  14.07.2025 19:43:51  screen
+   22  14.07.2025 19:43:51  pswd
+   23  14.07.2025 19:43:51  psd
+   24  14.07.2025 19:43:51  passwd eltex-pg1-v26
+   25  14.07.2025 19:43:51  log
+   26  14.07.2025 19:43:51  history
+   27  14.07.2025 19:43:51  q
+   28  14.07.2025 19:43:51  history
+   29  14.07.2025 19:43:51  top
+   30  14.07.2025 19:43:51  screen -S 5717.-d
+   31  14.07.2025 19:43:51  screen -S 40006.top
+   32  14.07.2025 19:43:51  watch/usr/bin/vmstat
+   33  14.07.2025 19:43:51  /watch/usr/bin/vmstat
+   34  14.07.2025 19:43:51  cd /watch/usr/bin/vmstat
+   35  14.07.2025 19:43:51  cd watch/usr/bin/vmstat
+   36  14.07.2025 19:43:51  ls
+   37  14.07.2025 19:43:51  ls -la
+   38  14.07.2025 19:43:51  history
+   39  14.07.2025 19:43:51  ls -la
+   40  14.07.2025 19:43:51  ls
+   41  14.07.2025 19:43:51  screen -ls
+   42  14.07.2025 19:43:51  history
+   43  14.07.2025 19:43:51  screen -la
+   44  14.07.2025 19:43:51  history
+   45  14.07.2025 19:43:51  watch/usr/bin/vmstart
+   46  14.07.2025 19:43:51  screen -S report
+   47  14.07.2025 19:43:51  screen -ls
+   48  14.07.2025 19:43:51  screen -S 40006.top
+   49  14.07.2025 19:43:51  watch/usr/bin/vmstart
+   50  14.07.2025 19:43:51  watch/usr/bin/vmstat
+   51  14.07.2025 19:43:51  watch /usr/bin/vmstat
+   52  14.07.2025 19:43:51  history
+   53  14.07.2025 19:43:51  screen -ls
+   54  14.07.2025 19:43:51  screen -r 40006.top
+   55  14.07.2025 19:43:51  screen 40006.top
+   56  14.07.2025 19:43:51  screen -S 40006.top
+   57  14.07.2025 19:43:51  screen -ls
+   58  14.07.2025 19:43:51  ls -la
+   59  14.07.2025 19:43:51  .bash_history
+   60  14.07.2025 19:43:51  vim .bash_history
+   61  14.07.2025 19:43:51  history
+   62  14.07.2025 19:43:51  screen -la
+   63  14.07.2025 19:43:51  history
+   64  14.07.2025 19:43:51  screen -ls
+   65  14.07.2025 19:43:51  screen -r 266210.-m
+   66  14.07.2025 19:43:51  history
+   67  14.07.2025 19:43:51  screen -S 40006.top
+   68  14.07.2025 19:43:51  history
+   69  14.07.2025 19:43:51  man -Lsr history
+   70  14.07.2025 19:43:51  screen -S top -d -m
+   71  14.07.2025 19:43:51  screen -ls
+   72  14.07.2025 19:43:51  top
+   73  14.07.2025 19:43:51  screen -ls
+   74  14.07.2025 19:43:51  screen -r 40006.top
+   75  14.07.2025 19:43:51  w
+   76  14.07.2025 19:43:51  screen -r
+   77  14.07.2025 19:43:51  w
+   78  14.07.2025 19:43:51  w -la
+   79  14.07.2025 19:43:51  w -o
+   80  14.07.2025 19:43:51  screen -S
+   81  14.07.2025 19:43:51  screen -d -m
+   82  14.07.2025 19:43:51  top
+   83  14.07.2025 19:43:51  screen -ls
+   84  14.07.2025 19:43:51  screen -ls -h
+   85  14.07.2025 19:43:51  screen -h - ls
+   86  14.07.2025 19:43:51  screen -h -ls
+   87  14.07.2025 19:43:51  screen -ls
+   88  14.07.2025 19:43:51  screen -ls
+   89  14.07.2025 19:43:51  map screen
+   90  14.07.2025 19:43:51  man screen
+   91  14.07.2025 19:43:51  screen -ls
+   92  14.07.2025 19:43:51  screen
+   93  14.07.2025 19:43:51  ls -ls
+   94  14.07.2025 19:43:51  screen -S
+   95  14.07.2025 19:43:51  screen -S -m
+   96  14.07.2025 19:43:51  screen -ls
+   97  14.07.2025 19:43:51  screen -r 52582.40006.top 
+   98  14.07.2025 19:43:51  screen -r [screen is terminating]
+   99  14.07.2025 19:43:51  screen -r 49826.40006.top 
+  100  14.07.2025 19:43:51  screen -ls
+  101  14.07.2025 19:43:51  screen -r 49826.40006.top
+  102  14.07.2025 19:43:51  screen -r 40006.top
+  103  14.07.2025 19:43:51  screen -ls
+  104  14.07.2025 19:43:51  screen -r 48476.5717.-d
+  105  14.07.2025 19:43:51  screen -r 48476.5717.-d 40006.top
+  106  14.07.2025 19:43:51  screen -r 40006.top
+  107  14.07.2025 19:43:51  screen -ls
+  108  14.07.2025 19:43:51  screen -r 40006.top
+  109  14.07.2025 19:43:51  screen -r 38384..eltex-2025-summer
+  110  14.07.2025 19:43:51  screen -r 363.eltex-2025-summer
+  111  14.07.2025 19:43:51  screen -ls
+  112  14.07.2025 19:43:51  screen -r 40006.top
+  113  14.07.2025 19:43:51  screen -r 38384..eltex-2025-summer
+  114  14.07.2025 19:43:51  screen -r 6662.-d
+  115  14.07.2025 19:43:51  screen -ls
+  116  14.07.2025 19:43:51  screen -r 5717.-d
+  117  14.07.2025 19:43:51  reset
+  118  14.07.2025 19:43:51  screen -ls
+  119  14.07.2025 19:43:51  screen -r 36830.pts-93.eltex-2025-summer
+  120  14.07.2025 19:43:51  screen -ls
+  121  14.07.2025 19:43:51  screen -r 36830.pts-93.eltex-2025-summer
+  122  14.07.2025 19:43:51  screen -r 15837.pts-78.eltex-2025-summer
+  123  14.07.2025 19:43:51  screen -ls
+  124  14.07.2025 19:43:51  screen -r 15837.pts-78.eltex-2025-summer
+  125  14.07.2025 19:43:51  screen -ls
+  126  14.07.2025 19:43:51  w
+  127  14.07.2025 19:43:51  screen -r 753.pts-3.eltex-2025-summer
+  128  14.07.2025 19:43:51  screen -ls
+  129  14.07.2025 19:43:51  w
+  130  14.07.2025 19:43:51  screen
+  131  14.07.2025 19:43:51  screen -S
+  132  14.07.2025 19:43:51  screen
+  133  14.07.2025 19:43:51  screen -ls
+  134  14.07.2025 19:43:51  screen -r 753.pts-3.eltex-2025-summer
+  135  14.07.2025 19:43:51  screen -ls
+  136  14.07.2025 19:43:51  screen
+  137  14.07.2025 19:43:51  screen -ls
+  138  14.07.2025 19:43:51  screen -r 780.pts-3.eltex-2025-summer
+  139  14.07.2025 19:43:51  screen -ls
+  140  14.07.2025 19:43:51  screen
+  141  14.07.2025 19:43:51  screen -r 800.pts-3.eltex-2025-summer
+  142  14.07.2025 19:43:51  screen
+  143  14.07.2025 19:43:51  screen -ls
+  144  14.07.2025 19:43:51  screen
+  145  14.07.2025 19:43:51  screen -lы
+  146  14.07.2025 19:43:51  screen -ls
+  147  14.07.2025 19:43:51  screen -ls
+  148  14.07.2025 19:43:51  screen -r 879.pts-3.eltex-2025-summer
+  149  14.07.2025 19:43:51  screen -S top -d
+  150  14.07.2025 19:43:51  screen -ls
+  151  14.07.2025 19:43:51  screen -S top -d -m
+  152  14.07.2025 19:43:51  screen -S top -
+  153  14.07.2025 19:43:51  screen -S top -d
+  154  14.07.2025 19:43:51  screen -ls
+  155  14.07.2025 19:43:51  screen -S top -d
+  156  14.07.2025 19:43:51  screen -r 945.top
+  157  14.07.2025 19:43:51  screen -ls
+  158  14.07.2025 19:43:51  screen -S top -d -m top
+  159  14.07.2025 19:43:51  screen -ls
+  160  14.07.2025 19:43:51  screen -r 968.top
+  161  14.07.2025 19:43:51  screen -ls
+  162  14.07.2025 19:43:51  screen -S top -d -m top
+  163  14.07.2025 19:43:51  screen -ls
+  164  14.07.2025 19:43:51  screen -r 1613.top
+  165  14.07.2025 19:43:51  screen -ls
+  166  14.07.2025 19:43:51  screen -S top -d -m top
+  167  14.07.2025 19:43:51  screen -ls
+  168  14.07.2025 19:43:51  screen -r 1622.top
+  169  14.07.2025 19:43:51  screen -ls
+  170  14.07.2025 19:43:51  top
+  171  14.07.2025 19:43:51  screen -ls
+  172  14.07.2025 19:43:51  screen -S top -d -m top
+  173  14.07.2025 19:43:51  screen -ls
+  174  14.07.2025 19:43:51  screen -S top -d -m "bash; top"
+  175  14.07.2025 19:43:51  screen -ls
+  176  14.07.2025 19:43:51  screen -r 1768.top
+  177  14.07.2025 19:43:51  screen -r top
+  178  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  179  14.07.2025 19:43:51  screen -r top
+  180  14.07.2025 19:43:51  screen -ls
+  181  14.07.2025 19:43:51  man bash
+  182  14.07.2025 19:43:51  man -Lru bash
+  183  14.07.2025 19:43:51  screen -ls
+  184  14.07.2025 19:43:51  screen -r top
+  185  14.07.2025 19:43:51  bash
+  186  14.07.2025 19:43:51  bash
+  187  14.07.2025 19:43:51  screen -S watch
+  188  14.07.2025 19:43:51  history
+  189  14.07.2025 19:43:51  screen -ls
+  190  14.07.2025 19:43:51  screen -S watch -dm
+  191  14.07.2025 19:43:51  screen -ls
+  192  14.07.2025 19:43:51  screen -r watch
+  193  14.07.2025 19:43:51  scren -ls
+  194  14.07.2025 19:43:51  screen -ls
+  195  14.07.2025 19:43:51  screen -r top
+  196  14.07.2025 19:43:51  screen -r watch
+  197  14.07.2025 19:43:51  screen -S watch -dm watch /usr/bin/vmstat
+  198  14.07.2025 19:43:51  screen -r watch
+  199  14.07.2025 19:43:51  screen -ls
+  200  14.07.2025 19:43:51  screen -r top
+  201  14.07.2025 19:43:51  screen -S watch
+  202  14.07.2025 19:43:51  screen -ls
+  203  14.07.2025 19:43:51  screen -S top -d -m top
+  204  14.07.2025 19:43:51  screen -ls
+  205  14.07.2025 19:43:51  screen -r 1632.top
+  206  14.07.2025 19:43:51  screen -ls
+  207  14.07.2025 19:43:51  screen -r 1632.watch
+  208  14.07.2025 19:43:51  screen -r 1607.watch
+  209  14.07.2025 19:43:51  screen -ls
+  210  14.07.2025 19:43:51  screen -S top -d -m top
+  211  14.07.2025 19:43:51  screen -ls
+  212  14.07.2025 19:43:51  screen -r 1649.top
+  213  14.07.2025 19:43:51  screen -S top -d -m top
+  214  14.07.2025 19:43:51  screen -ls
+  215  14.07.2025 19:43:51  screen -r 1657.top
+  216  14.07.2025 19:43:51  screen top -d -m top
+  217  14.07.2025 19:43:51  screen -ls
+  218  14.07.2025 19:43:51  screen -ls
+  219  14.07.2025 19:43:51  screen -r 1677.top
+  220  14.07.2025 19:43:51  screen -ls
+  221  14.07.2025 19:43:51  screen -S top
+  222  14.07.2025 19:43:51  screen -ls
+  223  14.07.2025 19:43:51  screen -r 1695.top
+  224  14.07.2025 19:43:51  screen -r 1688.top
+  225  14.07.2025 19:43:51  screen -r 1695.top
+  226  14.07.2025 19:43:51  screen -ls
+  227  14.07.2025 19:43:51  screen -S test -dm bash -c "top; exec bash"
+  228  14.07.2025 19:43:51  screen -S top -d -m bash; top
+  229  14.07.2025 19:43:51  screen -ls
+  230  14.07.2025 19:43:51  screen -r 1730.top
+  231  14.07.2025 19:43:51  screen -r 1721.top
+  232  14.07.2025 19:43:51  screen -r 1721.test
+  233  14.07.2025 19:43:51  screen -S top -d -m bash -c top
+  234  14.07.2025 19:43:51  screen -ls
+  235  14.07.2025 19:43:51  screen -r 1744.test
+  236  14.07.2025 19:43:51  screen -r 1744.top
+  237  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; exec bash"
+  238  14.07.2025 19:43:51  screen -ls
+  239  14.07.2025 19:43:51  screen -r 1753.top
+  240  14.07.2025 19:43:51  screen -S top -d -m "top; exec bash"
+  241  14.07.2025 19:43:51  screen -ls
+  242  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; exec bash"
+  243  14.07.2025 19:43:51  screen -ls
+  244  14.07.2025 19:43:51  screen -r top
+  245  14.07.2025 19:43:51  screen -ls
+  246  14.07.2025 19:43:51  screen -r top
+  247  14.07.2025 19:43:51  screen -ls
+  248  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  249  14.07.2025 19:43:51  screen -r top
+  250  14.07.2025 19:43:51  screen -ls
+  251  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  252  14.07.2025 19:43:51  screen -ls
+  253  14.07.2025 19:43:51  screen -r top
+  254  14.07.2025 19:43:51  screen -ls
+  255  14.07.2025 19:43:51  screen -r watch
+  256  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  257  14.07.2025 19:43:51  screen -ls
+  258  14.07.2025 19:43:51  screen -r top
+  259  14.07.2025 19:43:51  screen -ls
+  260  14.07.2025 19:43:51  screen -r watch
+  261  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  262  14.07.2025 19:43:51  screen -ls
+  263  14.07.2025 19:43:51  screen -r top
+  264  14.07.2025 19:43:51  screen -r watch
+  265  14.07.2025 19:43:51  watch /usr/bin/vmstat
+  266  14.07.2025 19:43:51  screen -r top
+  267  14.07.2025 19:43:51  screen -ls
+  268  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  269  14.07.2025 19:43:51  screen -r top
+  270  14.07.2025 19:43:51  q
+  271  14.07.2025 19:43:51  screen -S watch
+  272  14.07.2025 19:43:51  screen -r watch
+  273  14.07.2025 19:43:51  screen -r top
+  274  14.07.2025 19:43:51  screen -r watch
+  275  14.07.2025 19:43:51  screen -r top
+  276  14.07.2025 19:43:51  screen -S watch
+  277  14.07.2025 19:43:51  screen -ls
+  278  14.07.2025 19:43:51  screen -r 5141.watch
+  279  14.07.2025 19:43:51  screen -ls
+  280  14.07.2025 19:43:51  screen -r top
+  281  14.07.2025 19:43:51  screen -ls
+  282  14.07.2025 19:43:51  screen -r watch
+  283  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  284  14.07.2025 19:43:51  screen -ls
+  285  14.07.2025 19:43:51  screen -r top
+  286  14.07.2025 19:43:51  screen -ls
+  287  14.07.2025 19:43:51  screen -S watch
+  288  14.07.2025 19:43:51  screen -ls
+  289  14.07.2025 19:43:51  screen -S watch
+  290  14.07.2025 19:43:51  watch /usr/bin/vmstat
+  291  14.07.2025 19:43:51  screen -ls
+  292  14.07.2025 19:43:51  screen -r watch
+  293  14.07.2025 19:43:51  screen -ls
+  294  14.07.2025 19:43:51  screen -r watch
+  295  14.07.2025 19:43:51  screen -ls
+  296  14.07.2025 19:43:51  screen -r watch
+  297  14.07.2025 19:43:51  screen -ls
+  298  14.07.2025 19:43:51  screen -r watch
+  299  14.07.2025 19:43:51  screen -r top
+  300  14.07.2025 19:43:51  screen -ls
+  301  14.07.2025 19:43:51  screen -r top
+  302  14.07.2025 19:43:51  screen -r watch
+  303  14.07.2025 19:43:51  screen -S top -d -m bash -c "top; bash"
+  304  14.07.2025 19:43:51  screen -ls
+  305  14.07.2025 19:43:51  screen -r top
+  306  14.07.2025 19:43:51  screen -ls
+  307  14.07.2025 19:43:51  screen -S vi
+  308  14.07.2025 19:43:51  screen -ls
+  309  14.07.2025 19:43:51  screen -r vi
+  310  14.07.2025 19:43:51  screen -ls
+  311  14.07.2025 19:43:51  logout
+  312  14.07.2025 19:43:51  screen -ls
+  313  14.07.2025 19:43:51  screen -r vi
+  314  14.07.2025 19:43:51  screen -S Skripko_DI_part2
+  315  14.07.2025 19:43:51  ls -la
+  316  14.07.2025 19:43:51  screen -S `Skripko_DI`part2
+  317  14.07.2025 19:43:51  screen ls
+  318  14.07.2025 19:43:51  screen -ls
+  319  14.07.2025 19:43:51  screen -r part2
+  320  14.07.2025 19:43:51  screen -r Skripko_DI_part2
+  321  14.07.2025 19:43:51  screen -r p
+  322  14.07.2025 19:43:51  screen -r Skripko_DI_part2
+  323  14.07.2025 19:43:51  screen -ls
+  324  14.07.2025 19:43:51  screen -S SkripkoDI_part2
+  325  14.07.2025 19:43:51  history
+  326  14.07.2025 19:43:51  whoami
+  327  14.07.2025 19:43:51  ssh-copy-id
+  328  14.07.2025 19:43:51  ды
+  329  14.07.2025 19:43:51  ls
+  330  14.07.2025 19:43:51  1.txt  1.txt.pub  report_part1.txt
+  331  14.07.2025 19:43:51  clear
+  332  14.07.2025 19:43:51  ssh-keygen
+  333  14.07.2025 19:43:51  cd
+  334  14.07.2025 19:43:51  pwd
+  335  14.07.2025 19:43:51  ls -la
+  336  14.07.2025 19:43:51  ssh-keygen
+  337  14.07.2025 19:43:51  history
+  338  14.07.2025 19:43:51  ssh-copy-id
+  339  14.07.2025 19:43:51  cd
+  340  14.07.2025 19:43:51  ls -la
+  341  14.07.2025 19:43:51  cat 1.txt
+  342  14.07.2025 19:43:51  cat 1.txt.pub
+  343  14.07.2025 19:43:51  ssh root@172.16.9.200
+  344  14.07.2025 19:43:51  ca
+  345  14.07.2025 19:43:51  ls -la
+  346  14.07.2025 19:43:51  cat 1307
+  347  14.07.2025 19:43:51  cat 1307.txt
+  348  14.07.2025 19:43:51  cat .bashrc
+  349  14.07.2025 19:43:51  screen -ls
+  350  14.07.2025 19:43:51  screen -r SkripkoDI_part2
+  351  14.07.2025 19:43:51  script $USER_part2.log
+  352  14.07.2025 19:43:51  ls -la
+  353  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  354  14.07.2025 19:43:51  cat .eltex-pg1-v26_part2.log
+  355  14.07.2025 19:43:51  screen -ls
+  356  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  357  14.07.2025 19:43:51  screen-ls
+  358  14.07.2025 19:43:51  screen -ls
+  359  14.07.2025 19:43:51  screen -S "`whoami`_part2"
+  360  14.07.2025 19:43:51  screen -ls
+  361  14.07.2025 19:43:51  screen -r 719564
+  362  14.07.2025 19:43:51  screen -la
+  363  14.07.2025 19:43:51  "
+  364  14.07.2025 19:43:51  screen -ls
+  365  14.07.2025 19:43:51  screen -r eltex-pg1-v26_part2
+  366  14.07.2025 19:43:51  ls -la
+  367  14.07.2025 19:43:51  rm eltex-pg1-v26_part2.log
+  368  14.07.2025 19:43:51  rm .eltex-pg1-v26_part2.log
+  369  14.07.2025 19:43:51  ls -la
+  370  14.07.2025 19:43:51  screen -ls
+  371  14.07.2025 19:43:51  script $USER_part2.log
+  372  14.07.2025 19:43:51  ls -la
+  373  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  374  14.07.2025 19:43:51  ls -la
+  375  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  376  14.07.2025 19:43:51  screen -ls
+  377  14.07.2025 19:43:51  screen -r 708649
+  378  14.07.2025 19:43:51  ls -la
+  379  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  380  14.07.2025 19:43:51  scre
+  381  14.07.2025 19:43:51  screen -ls
+  382  14.07.2025 19:43:51  screen screen -X -S 708649 quit
+  383  14.07.2025 19:43:51  screen -ls
+  384  14.07.2025 19:43:51  screen -S "`whoami`_part2"
+  385  14.07.2025 19:43:51  ls -la
+  386  14.07.2025 19:43:51  screen -ls
+  387  14.07.2025 19:43:51  screen -r 720605
+  388  14.07.2025 19:43:51  screen -ls
+  389  14.07.2025 19:43:51  ls -la
+  390  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  391  14.07.2025 19:43:51  rm eltex-pg1-v26_part2.log
+  392  14.07.2025 19:43:51  ls
+  393  14.07.2025 19:43:51  cat 1.txt.pub
+  394  14.07.2025 19:43:51  cat 1307
+  395  14.07.2025 19:43:51  cat 1307.txt
+  396  14.07.2025 19:43:51  rm 1307.txt
+  397  14.07.2025 19:43:51  script ${USER}_part2.log
+  398  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  399  14.07.2025 19:43:51  aa
+  400  14.07.2025 19:43:51  b
+  401  14.07.2025 19:43:51  cat
+  402  14.07.2025 19:43:51  ls
+  403  14.07.2025 19:43:51  ls -la
+  404  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  405  14.07.2025 19:43:51  history
+  406  14.07.2025 19:43:51  ls
+  407  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  408  14.07.2025 19:43:51  less eltex-pg1-v26_part2.log
+  409  14.07.2025 19:43:51  less -a eltex-pg1-v26_part2.log
+  410  14.07.2025 19:43:51  less -r eltex-pg1-v26_part2.log
+  411  14.07.2025 19:43:51  screen 0ls
+  412  14.07.2025 19:43:51  screen -s
+  413  14.07.2025 19:43:51  screen -ls
+  414  14.07.2025 19:43:51  clear
+  415  14.07.2025 19:43:51  screen -ls
+  416  14.07.2025 19:43:51  ls 
+  417  14.07.2025 19:43:51  cat eltex-pg1-v26
+  418  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  419  14.07.2025 19:43:51  screen -r 720605
+  420  14.07.2025 19:43:51  screen -ls
+  421  14.07.2025 19:43:51  screen -S `whoami`_part2
+  422  14.07.2025 19:43:51  ls
+  423  14.07.2025 19:43:51  less eltex-pg1-v26_part2.log
+  424  14.07.2025 19:43:51  ls
+  425  14.07.2025 19:43:51  rm eltex-pg1-v26_part2.log
+  426  14.07.2025 19:43:51  ls
+  427  14.07.2025 19:43:51  rm eltex-pg1-v26_part2.log
+  428  14.07.2025 19:43:51  ls
+  429  14.07.2025 19:43:51  less eltex-pg1-v26_part2.log
+  430  14.07.2025 19:43:51  less -r eltex-pg1-v26_part2.log
+  431  14.07.2025 19:43:51  less -r eltex-pg1-v26_part2.log
+  432  14.07.2025 19:43:51  cat eltex-pg1-v26_part2.log
+  433  14.07.2025 19:43:51  less -r eltex-pg1-v26_part2.log
+  434  14.07.2025 19:43:51  echo "Текст"
+  435  14.07.2025 19:43:51  less -r eltex-pg1-v26_part2.log
+  436  14.07.2025 19:43:51  ls
+  437  14.07.2025 19:43:51  rm eltex-pg1-v26_part2.log
+  438  14.07.2025 19:43:51  rm eltex-pg1-v26_part.log
+  439  14.07.2025 19:43:51  screen 0ls
+  440  14.07.2025 19:43:51  screen -ls
+  441  14.07.2025 19:43:51  screen -r 89705
+  442  14.07.2025 19:43:51  screen -r 897095
+  443  14.07.2025 19:43:51  screen -ls
+  444  14.07.2025 19:43:51  ды
+  445  14.07.2025 19:43:51  ls
+  446  14.07.2025 19:43:51  rm eltex-pg1-v26_part2.log
+  447  14.07.2025 19:43:51  ls
+  448  14.07.2025 19:43:51  screen -S "$`whoami`_part2" -L -Logfile "${USER}_part.log"
+  449  14.07.2025 19:43:51  screen -S "$`whoami`_part2" -L -Logfile "${USER}_part2.log"
+  450  14.07.2025 19:43:51  echo "text"
+  451  14.07.2025 19:43:51  less -r eltex-pg1-v26_part2.log
+  452  14.07.2025 19:43:51  rm eltex-pg1-v26_part.log
+  453  14.07.2025 19:43:51  less -r eltex-pg1-v26_part2.log
+  454  14.07.2025 19:43:58  ls
+  455  14.07.2025 19:44:03  echo
+  456  14.07.2025 19:44:07  map
+  457  14.07.2025 19:44:09  man
+  458  14.07.2025 19:44:14  man man
+  459  14.07.2025 19:54:38  echo $HISTFILESIZE
+  460  14.07.2025 19:54:43  echo $HISTSIZE
+  461  14.07.2025 20:30:27  ls -d ~/.*
+  462  14.07.2025 20:34:00  export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S'
+  463  14.07.2025 20:35:07  vim ~/.bashrc
+  464  14.07.2025 20:36:26  history
+  465  14.07.2025 20:36:34  vim ~/.bashrc
+  466  14.07.2025 20:37:00  history
+  467  14.07.2025 20:37:08  vim ~/.bashrc
+  468  14.07.2025 20:37:40  history
+  469  14.07.2025 20:43:42  date
+  470  14.07.2025 20:43:50  history
+  471  14.07.2025 20:44:15  history |tail -n 5
+  472  14.07.2025 20:44:38  export PROMPT_COMMAND='history -a'
+  473  14.07.2025 20:44:44  source ~/.bashrc
+  474  14.07.2025 20:45:13  date
+  475  14.07.2025 20:45:18  history
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mDATE=$(date)[23mDATE=$(date)
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ у[Kecho $DATE
+[?2004lMon Jul 14 08:46:18 PM +07 2025
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mDATE=$(date +%d.%m.%Y); echo "$DATE"[23mDATE=$(date +%d.%m.%Y); echo "$DATE"
+[?2004l14.07.2025
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mTIME=$(date +%H:%M:%S)[23mTIME=$(date +%H:%M:%S)[3mTIME=$(date +%H:%M:%S.%3N); echo "$TIME"[23m[1PTIME=$(date +%H:%M:%S.%3N); echo "$TIME[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[3mTIME=$(date +%H:%M:%S.%3N); echo "$TIME"[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CTIME=$(date +%H:%M:%S.%3N); echo "$TIME"
+[?2004l20:48:45.856
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [Keltex-pg1-v26@eltex-2025-summer:~$ TIME=$(date +%H:%M:%S.%3N); echo "$TIME"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4PDATE=$(date +%d.%m.%Y); echo "$DATE"echo $DATE[KDATE=$(date +%d.%m.%Y); echo "$DATE"TIME=$(date +%H:%M:%S.%3N); echo "$TIME"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[KTIME=$(date +%H:%M:%S.%3N); echo "$TIME"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[3mDATE_TIME="$DATE $TIME"; echo "$DATE_TIME"[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDATE_TIME="$DATE $TIME"; echo "$DATE_TIME"
+[?2004l14.07.2025 20:48:45.856
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mls /bin /sbin | grep '[0-9]'[23mls /bin /sbin | grep '[0-9]'
+[?2004laddr2line
+b2sum
+base32
+base64
+bunzip2
+bzip2
+bzip2recover
+c89
+c89-gcc
+c99
+c99-gcc
+cpan5.36-x86_64-linux-gnu
+cpp-12
+diff3
+enc2xs
+gcc-12
+gcc-ar-12
+gcc-nm-12
+gcc-ranlib-12
+gcov-12
+gcov-dump-12
+gcov-tool-12
+grub-menulst2cfg
+grub-mkpasswd-pbkdf2
+grub-syslinux2cfg
+h2ph
+h2xs
+i386
+linux32
+linux64
+lto-dump-12
+md5sum
+md5sum.textutils
+pdb3
+pdb3.11
+perl5.36.0
+perl5.36-x86_64-linux-gnu
+ping4
+ping6
+pl2pm
+pod2html
+pod2man
+pod2text
+pod2usage
+py3clean
+py3compile
+py3versions
+pydoc3
+pydoc3.11
+pygettext3
+pygettext3.11
+python3
+python3.11
+sha1sum
+sha224sum
+sha256sum
+sha384sum
+sha512sum
+ssh-argv0
+systemd-id128
+traceroute6
+traceroute6.db
+x86_64
+x86_64-linux-gnu-addr2line
+x86_64-linux-gnu-ar
+x86_64-linux-gnu-as
+x86_64-linux-gnu-c++filt
+x86_64-linux-gnu-cpp
+x86_64-linux-gnu-cpp-12
+x86_64-linux-gnu-dwp
+x86_64-linux-gnu-elfedit
+x86_64-linux-gnu-gcc
+x86_64-linux-gnu-gcc-12
+x86_64-linux-gnu-gcc-ar
+x86_64-linux-gnu-gcc-ar-12
+x86_64-linux-gnu-gcc-nm
+x86_64-linux-gnu-gcc-nm-12
+x86_64-linux-gnu-gcc-ranlib
+x86_64-linux-gnu-gcc-ranlib-12
+x86_64-linux-gnu-gcov
+x86_64-linux-gnu-gcov-12
+x86_64-linux-gnu-gcov-dump
+x86_64-linux-gnu-gcov-dump-12
+x86_64-linux-gnu-gcov-tool
+x86_64-linux-gnu-gcov-tool-12
+x86_64-linux-gnu-gold
+x86_64-linux-gnu-gp-archive
+x86_64-linux-gnu-gp-collect-app
+x86_64-linux-gnu-gp-display-html
+x86_64-linux-gnu-gp-display-src
+x86_64-linux-gnu-gp-display-text
+x86_64-linux-gnu-gprof
+x86_64-linux-gnu-gprofng
+x86_64-linux-gnu-ld
+x86_64-linux-gnu-ld.bfd
+x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-lto-dump
+x86_64-linux-gnu-lto-dump-12
+x86_64-linux-gnu-nm
+x86_64-linux-gnu-objcopy
+x86_64-linux-gnu-objdump
+x86_64-linux-gnu-ranlib
+x86_64-linux-gnu-readelf
+x86_64-linux-gnu-size
+x86_64-linux-gnu-strings
+x86_64-linux-gnu-strip
+dumpe2fs
+e2freefrag
+e2fsck
+e2image
+e2label
+e2mmpstatus
+e2scrub
+e2scrub_all
+e2undo
+e4crypt
+e4defrag
+fsck.ext2
+fsck.ext3
+fsck.ext4
+killall5
+mke2fs
+mkfs.ext2
+mkfs.ext3
+mkfs.ext4
+resize2fs
+tune2fs
+update-grub2
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mUSERNAME="\u" [23mUSERNAME="\u" [1P[1P[13@[3meltex-pg1-v26[23meltex-pg1-v26
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mHOSTNAME="\h" [23mHOSTNAME="\h" [1P[1P[17@[3meltex-2025-summer[23meltex-2025-summer
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mPS1='\u@\h-$(date "+%H:%M")> '[23mPS1='\u@\h-$(date "+%H:%M")> '[1P[1P[1@$[1@U[1@S[1@E[1@R[1@N[1@A[1@M[1@E[1@}[C[1@{[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1@$[1@{[1@H[1@O[1@T[1@S[1P[1P[1@S[1@T[1@N[1@A[1@M[1@E[1@}[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P '; '[1P ': '
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-12:41: [3mexport PS1  # Сделать переменную PS1 доступной для дочерних проце[23m[3mс[23m[3mсов [23m
+[3mbash        # Запустить новый интерпретатор[23mMMexport PS1  # Сделать переменную PS1 доступной для дочерних процессов
+[1Pbash        # Запустить новый интерпретато[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KM[C[C[C[C[K[K[K[KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K1
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-12:43: bash
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ screaa[K[Ken -ls
+[?2004lThere are screens on:
+	952512.eltex-pg1-v26_part2	(07/14/2025 07:43:51 PM)	(Attached)
+	5646.vi	(07/10/2025 11:14:16 AM)	(Detached)
+	5523.top	(07/10/2025 10:53:51 AM)	(Detached)
+	836.pts-3.eltex-2025-summer	(07/08/2025 01:31:48 PM)	(Detached)
+4 Sockets in /run/screen/S-eltex-pg1-v26.
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ scr[K[K[Kscreen -ls[K[3mexport PS1='\u@\h-$(date +%H:%M)> '[23mexport PS1='\u@\h-$(date +%H:%M)> '[1P[1P                     
+[3meltex-pg1-v26[23m@\h-$(date +%H:%M)> '[C[C[C[C[C[C[C[C[C[C[C[C[Celtex-pg1-v26M[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Celtex-pg1-v26@\h-$(date +%H:%M)> '
+[KM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[17@[3meltex-2025-summer[23meltex-2025-summer[C[C[C[1@q[1P[1@q[1@q[1P[1P[1P
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer- +%H:%M)> export PS1='eltex-pg1-v26@eltex-2025-summer-$date +%H:%M)> '[1@(
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:07> bash --norc
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:17> mak[K[Kkdir -p $(date +%Y)-{01...12}
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:17> ls
+[?2004l1.txt  1.txt.pub  2025-{01...12}  eltex-pg1-v26_part2.log  report_part1.txt
+[?2004heltex-pg1-v26@eltex-2025-summer-19:17> bash
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ lsmkdir -p $(date +%Y)-{01...12}[C[C[C[C[C[C[C[C[C[C[C[C[C[C=[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscreen -r 952512[Kbash[Kexport PS1[6Pbashscreen -r 952512bash[K --тщкс[K[K[K[Knorc --noprofie[Kle
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ lsmkdir -p $(date +%Y)-{01...12}export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pmkdir -p $(date +%Y)-{01...12}ls[Kmkdir -p $(date +%Y)-{01...12}export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscreen -r 952512[Kbash[Kexport PS1PS1='TEST> 'screen -r 952512[4PPS1='TEST> '[2Pexport PS1[6Pbashscreen -r 952512export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pmkdir -p $(date +%Y)-{01...12}ls[K[Kexport PS![K1='[3meltex-pg1-v26[23meltex-pg1-v26@[3meltex-2025-summer[23meltex-2025-summer-$(dae[Kte '+%h[KH:%M')>
+[?2004l[?2004h> 
+[?2004l[?2004h> export PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+M[C[Cls[K
+[KM[C[C[C[Cmkdir -p $(date +%Y)-{01...12}[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[Cscreen -r 952512[K[C[Cbash[K[C[Cexport PS1[C[CPS1='TEST> '[C[Cscreen -r 952512ls[K[C[Ccat eltex-pg1-v26_part2.log[C[C[17Pscreen -ls[C[Cls[Kcd eltex-pg1-v26[C[Cls[Kcd /home[3P..[C[C[3PlsPS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M"): '[1P '> '
+[?2004l[?2004h> 
+[?2004l[?2004h> export PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+MMM[C[Cls[K
+[K
+[K
+[KMMM[C[C[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+MMM[C[C[K
+[K
+[K
+[KMMM[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+MMM[C[Cls[K
+[K
+[K
+[KMMM[C[C[C[Cmkdir -p $(date +%Y)-{01...12}[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[Cscreen -r 952512[K[C[Cbash[K[C[Cscreen -r 952512[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '
+[?2004l[?2004h> export PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+
+export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> 'MMMM[C[Cls[K
+[K
+[K
+[K
+[KMMMM[C[C[C[C
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> export PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+
+export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '
+ls
+
+MMMMMMM[C[Cls[K
+[K
+[K
+[K
+[K
+[K
+[K
+[KMMMMMMM[C[C[C[Cmkdir -p $(date +%Y)-{01...12}[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[Cscreen -r 952512[K[C[Cbash[K[C[Cexport PS1[C[CPS1='TEST> '[C[Cscreen -r 952512ls[Kr 952512[C[C[4PPS1='TEST> '[C[C[2Pexport PS1[C[CPS1='TEST> '
+[?2004l[?2004h> export PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+
+export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '
+ls
+
+
+PS1='TEST> 'MMMMMMMM[C[C[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[KMMMMMMMM[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+
+export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '
+ls
+
+
+PS1='TEST> 'MMMMMMMM[C[Cls[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[KMMMMMMMM[C[C[C[Cmkdir -p $(date +%Y)-{01...12}[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[Cscreen -r 952512[K[C[Cbash[K[C[Cexport PS1[C[CPS1='TEST> '[C[Cscreen -r 952512ls[K[C[Ccat eltex-pg1-v26_part2.log[C[C[17Pscreen -ls[C[Cls[Kcd eltex-pg1-v26[C[Cls[Kcd /home[3P..[C[C[3PlsPS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M"): '[1P '> '[C[Cecho $TIME_FORMAT[K
+[?2004l[?2004h> export PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+
+export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '
+ls
+
+
+PS1='TEST> '
+echo $TIME_FORMATMMMMMMMMM[C[Cls[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[KMMMMMMMMM[C[C[C[Cmkdir -p $(date +%Y)-{01...12}[C[Cexport PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '[C[Cscreen -r 952512[K[C[Cbash[K[C[Cexport PS1[C[CPS1='TEST> '[C[Cscreen -r 952512ls[K[C[Ccat eltex-pg1-v26_part2.log[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[3mPS1='\u@\h:\w\$ '[23m[C[CPS1='\u@\h:\w\$ '
+[?2004l[?2004h> ды
+[?2004l[?2004h> ls
+[?2004l[?2004h> qqq[K[K[K^C[?2004l[?2004h[?2004l
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ export PS1='eltex-pg1-v26@eltex-2025-summer-$(date '+%H:%M')>
+
+PS1='eltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> '
+
+export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '
+ls
+
+
+PS1='TEST> '
+echo $TIME_FORMAT
+PS1='\u@\h:\w\$ '
+ды
+lsMMMMMMMMMMMM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[KMMMMMMMMMMMM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir -p $(date +%Y)-{01...12}export PS1='eltex-pg1-v26@eltex-2025-summer-$(date +%H:%M)> '
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:24> [3mbash --norc --noprofile[23mbash --norc --noprofile
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:25> иы[K[Kbash
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mecho $PS1[23mecho $PS1
+[?2004l${debian_chroot:+($debian_chroot)}\u@\h:\w\$
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ bas[K[K[Kls
+[?2004l1.txt  1.txt.pub  [0m[01;34m2025-{01...12}[0m  eltex-pg1-v26_part2.log  report_part1.txt
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ ls -l[K[K[K[K[Kls -la
+[?2004ltotal 232
+drwx------  5 eltex-pg1-v26 eltex-pg1-v26   4096 Jul 16 19:25 [0m[01;34m.[0m
+drwxr-xr-x 35 root          root            4096 Jul  7 08:59 [01;34m..[0m
+-rw-------  1 eltex-pg1-v26 eltex-pg1-v26   2622 Jul 11 10:27 1.txt
+-rw-r--r--  1 eltex-pg1-v26 eltex-pg1-v26    585 Jul 11 10:27 1.txt.pub
+drwxr-xr-x  2 eltex-pg1-v26 eltex-pg1-v26   4096 Jul 16 19:17 [01;34m2025-{01...12}[0m
+-rw-------  1 eltex-pg1-v26 eltex-pg1-v26   9856 Jul 16 19:25 .bash_history
+-rw-r--r--  1 eltex-pg1-v26 eltex-pg1-v26    220 Mar 30  2024 .bash_logout
+-rw-r--r--  1 eltex-pg1-v26 eltex-pg1-v26   3573 Jul 14 20:37 .bashrc
+drwx------  3 eltex-pg1-v26 eltex-pg1-v26   4096 Jul  7 11:56 [01;34m.config[0m
+-rw-r--r--  1 eltex-pg1-v26 eltex-pg1-v26 153313 Jul 16 19:25 eltex-pg1-v26_part2.log
+-rw-------  1 eltex-pg1-v26 eltex-pg1-v26     20 Jul 14 19:44 .lesshst
+-rw-r--r--  1 eltex-pg1-v26 eltex-pg1-v26    807 Mar 30  2024 .profile
+-rw-r--r--  1 eltex-pg1-v26 eltex-pg1-v26    126 Jul 10 21:14 report_part1.txt
+-rw-r--r--  1 eltex-pg1-v26 eltex-pg1-v26     68 Jul 14 19:38 .screenrc
+drwx------  2 eltex-pg1-v26 eltex-pg1-v26   4096 Jul 11 11:00 [01;34m.ssh[0m
+-rw-------  1 eltex-pg1-v26 eltex-pg1-v26   9608 Jul 14 20:37 .viminfo
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ vi .bashrc
+[?2004l[?1000h[?1049h[?1h=[1;67r[23m[24m[0m[H[J[?25l[67;1H".bashrc" 116L, 3573B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[1;1H[34m# match all files and zero or more directories and subdirectories.
+#shopt -s globstar[0m[2;19H[K[3;1H[K[4;1H[34m# make less more friendly for non-text input files, see lesspipe(1)
+#[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)[0m
+[33mif [[0m [33m-z[0m [33m"[0m[35m${debian_chroot[0m[33m:-[0m[35m}[0m[33m"[0m [33m][0m [33m&&[0m [33m[[0m [33m-r[0m /etc/debian_chroot [33m];[0m [33mthen[0m
+    [36mdebian_chroot[0m=[35m$([0m[35mcat /etc/debian_chroot[0m[35m)[0m
+[33mfi[0m
+
+[34m# set a fancy prompt (non-color, unless we know we "want" color)[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m
+    xterm-color|*-256color[33m)[0m [36mcolor_prompt[0m=yes[33m;;
+esac[0m
+
+[34m# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window
+# should be on the output of commands, not on the prompt
+#force_color_prompt=yes[0m
+
+[33mif [[0m [33m-n[0m [33m"[0m[35m$force_color_prompt[0m[33m"[0m [33m];[0m [33mthen
+[0m    [33mif [[0m [33m-x[0m /usr/bin/tput [33m][0m [33m&&[0m tput setaf [31m1[0m [33m>&[0m/dev/null[33m;[0m [33mthen[0m[24;9H[34m# We have color support; assume it's compliant with Ecma-48[25;9H# (ISO/IEC-6429). (Lack of such support is extremely rare, and such[26;9H# a case would tend to support setf rather than setaf.)[0m[27;9H[36mcolor_prompt[0m=yes
+    [33melse[0m[29;9H[36mcolor_prompt[0m=
+    [33mfi
+fi
+
+if [[0m [33m"[0m[35m$color_prompt[0m[33m"[0m [33m=[0m [31myes[0m [33m];[0m [33mthen[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\\[35;1H]\$ [0m[33m'
+else[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\u@\h:\w\$ [0m[33m'
+fi
+unset[0m[36m color_prompt force_color_prompt[0m
+
+[34m# If this is an xterm set the title to user@host:dir[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m
+xterm*|rxvt*[33m)[0m
+    [35mPS1[0m[33m="[0m[35m\[\e[0m[31m]0;[0m[35m${debian_chroot[0m[33m:+[0m([35m$debian_chroot[0m)[35m}[0m[35m\u[0m[31m@[0m[35m\h[0m[31m: [0m[35m\w\a\][0m[35m$PS1[0m[33m"
+[0m    [33m;;[0m
+*[33m)
+[0m    [33m;;
+esac[0m
+
+[34m# enable color support of ls and also add handy aliases[0m
+[33mif [[0m [33m-x[0m /usr/bin/dircolors [33m];[0m [33mthen
+[0m    [33mtest[0m [33m-r[0m ~/.dircolors [33m&&[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b ~/.dircolors[0m[35m)[0m[33m"[0m [33m||[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b[0m[35m)[0m[33m"
+[0m    [33malias [0m[36mls[0m[33m='[0m[31mls --color=auto[0m[33m'[0m
+    [34m#alias dir='dir --color=auto'
+[0m    [34m#alias vdir='vdir --color=auto'[57;5H#alias grep='grep --color=auto'
+[0m    [34m#alias fgrep='fgrep --color=auto'
+[0m    [34m#alias egrep='egrep --color=auto'[0m
+[33mfi[0m
+
+[34m# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+#alias ll='ls -l'[0m[67;87H87,0-1[8C52%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m#alias la='ls -A'[0m[67;1H[K[67;87H88,1[10C54%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m#alias l='ls -CF'[0m[67;87H[K[67;87H89,1[10C56%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[67;87H[K[67;87H90,0-1[8C58%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m# Alias definitions.[0m[67;87H[K[67;87H91,1[10C60%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m# You may want to put all your additions into a separate file like[0m[67;87H[K[67;87H92,1[10C62%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m# ~/.bash_aliases, instead of adding them here directly.[0m[67;87H[K[67;87H93,1[10C64%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m# See /usr/share/doc/bash-doc/examples in the bash-doc package.[0m[67;87H[K[67;87H94,1[10C66%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[67;87H[K[67;87H95,0-1[8C68%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[33mif [[0m [33m-f[0m ~/.bash_aliases [33m];[0m [33mthen[0m[67;87H[K[67;87H96,1[10C70%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;4H[33m . [0m~/.bash_aliases[67;87H[K[67;87H97,1[10C72%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[33mfi[0m[67;87H[K[67;87H98,1[10C74%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[67;87H[K[67;87H99,1[10C76%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m# enable programmable completion features (you don't need to enable[0m[67;87H[K[67;87H100,0-1[7C78%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m# this, if it's already enabled in /etc/bash.bashrc and /etc/profile[0m[67;87H[K[67;87H101,1[9C80%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[34m# sources /etc/bash.bashrc).[0m[67;87H[K[67;87H102,1[9C82%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[33mif ![0m [33mshopt[0m [35m-oq[0m posix[33m;[0m [33mthen[0m[67;87H[K[67;87H103,1[9C84%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;3H[33mif [[0m [33m-f[0m /usr/share/bash-completion/bash_completion [33m];[0m [33mthen[0m[67;87H[K[67;87H104,0-1[7C86%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;4H[33m . [0m/usr/share/bash-completion/bash_completion[67;87H[K[67;87H105,1[9C88%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;3H[33melif[0m [33m[[0m [33m-f[0m /etc/bash_completion [33m];[0m [33mthen[0m[67;87H[K[67;87H106,1[9C90%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;4H[33m . [0m/etc/bash_completion[67;87H[K[67;87H107,1[9C92%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;3H[33mfi[0m[67;87H[K[67;87H108,1[9C94%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[33mfi[0m[67;87H[K[67;87H109,1[9C96%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[67;87H[K[67;87H110,1[9C98%[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [61;1H[1;66r[66;1H
+[1;67r[66;1H[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'[0m[67;87H[K[67;87H111,1[9CBot[61;1H[34h[?25h[?25l[67;77H~@k[61;1H[67;77H   [62;1H[67;89H2[62;1H[34h[?25h[?25l[67;77H~@k[62;1H[67;77H   [63;1H[67;89H3[63;1H[34h[?25h[?25l[67;77H~@k[63;1H[67;77H   [64;1H[67;89H4[64;1H[34h[?25h[?25l[67;77H~@k[64;1H[67;77H   [65;1H[67;89H5,0-1[65;1H[34h[?25h[?25l[67;77H~@k[65;1H[67;77H   [66;1H[67;89H6,1  [66;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[65;1Hs[65;2H[K[66;1H[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'[0m
+[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9CBot[65;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9CBot[65;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[65;1Hs[65;2H[K[66;1H[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'[0m
+[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9CBot[64;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9CBot[64;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[63;66r[63;1H[L[1;67r[63;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9CBot[63;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9CBot[63;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[62;66r[62;1H[L[1;67r[62;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9CBot[62;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9CBot[62;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9CBot[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9CBot[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C98%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C98%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C96%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C96%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C94%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C94%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C93%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C93%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C91%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C91%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C90%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C90%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C88%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C88%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C87%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C87%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C86%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C86%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C84%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C84%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C83%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C83%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C82%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C82%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C81%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C81%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C80%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C80%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C78%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C78%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C77%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C77%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C76%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C76%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C75%[61;2H[34h[?25h[67;1H[K[?25l[67;87H116,1[9C75%[61;1H[34h[?25h[?25l[61;66r[61;1H[L[1;67r[61;1Hs[67;1H[1m-- INSERT --[0m[67;87H[K[67;87H116,2[9C74%[61;2H[34h[?25h[?25l[61;1H[K[67;91H1[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C75%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C76%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C77%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C78%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C80%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C81%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C82%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C83%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C84%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C86%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C87%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C88%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C90%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C91%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C93%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C94%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C96%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1Hs[67;87H[K[67;87H116,1[9C98%[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1H[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'[0m[67;87H[K[67;87H116,1[9CBot[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1H[1m[34m~                                                                                                       [0m[67;87H[K[67;87H116,1[9CBot[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1H[1m[34m~                                                                                                       [0m[67;87H[K[67;87H116,1[9CBot[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1H[1m[34m~                                                                                                       [0m[67;87H[K[67;87H116,1[9CBot[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[61;66r[66;1H
+[1;67r[66;1H[1m[34m~                                                                                                       [0m[67;87H[K[67;87H116,1[9CBot[61;1H[34h[?25h[?25l[61;1H[K[61;1H[34h[?25h[?25l[33mexport[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'[0m
+[1m[34m~                                                                                                       [61;1H[34h[?25h[?25l[0m[67;91H2[61;2H[34h[?25h[?25l[67;91H3[61;3H[34h[?25h[?25l[67;91H4[61;4H[34h[?25h[?25l[67;91H5[61;5H[34h[?25h[?25l[67;91H6[61;6H[34h[?25h[?25l[67;91H7[61;7H[34h[?25h[?25l[67;91H8[61;8H[34h[?25h[?25l[67;91H9[61;9H[34h[?25h[?25l[67;91H10[61;10H[34h[?25h[?25l[67;92H1[61;11H[34h[?25h[?25l[67;92H2[61;12H[34h[?25h[?25l[67;92H3[61;13H[34h[?25h[?25l[67;92H4[61;14H[34h[?25h[?25l[67;92H5[61;15H[34h[?25h[?25l[67;92H6[61;16H[34h[?25h[?25l[67;92H8[61;18H[34h[?25h[?25l[67;92H9[61;19H[34h[?25h[?25l[67;91H20[61;20H[34h[?25h[?25l[67;92H1[61;21H[34h[?25h[?25l[67;92H2[61;22H[34h[?25h[?25l[67;92H3[61;23H[34h[?25h[?25l[67;92H4[61;24H[34h[?25h[?25l[67;92H5[61;25H[34h[?25h[?25l[67;92H6[61;26H[34h[?25h[?25l[67;92H7[61;27H[34h[?25h[?25l[67;92H8[61;28H[34h[?25h[?25l[67;92H9[61;29H[34h[?25h[?25l[67;91H30[61;30H[34h[?25h[?25l[67;92H1[61;31H[34h[?25h[?25l[67;92H2[61;32H[34h[?25h[?25l[67;92H3[61;33H[34h[?25h[?25l[67;92H4[61;34H[34h[?25h[?25l[67;92H5[61;35H[34h[?25h[?25l[67;92H6[61;36H[34h[?25h[?25l[67;92H7[61;37H[34h[?25h[?25l[67;92H8[61;38H[34h[?25h[?25l[67;92H9[61;39H[34h[?25h[?25l[67;91H40[61;40H[34h[?25h[?25l[67;92H1[61;41H[34h[?25h[?25l[67;92H2[61;42H[34h[?25h[?25l[67;92H3[61;43H[34h[?25h[?25l[67;92H4[61;44H[34h[?25h[?25l[67;92H5[61;45H[34h[?25h[?25l[67;92H4[61;44H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[61;1H[K[66;1H[1m[34m~                                                                                                       [0m[67;87H[K[67;87H117,1[9CBot[61;1H[34h[?25h[?25l[1;66r[66;1H
+[1;67r[60;1H[33mexport[0m [36mPS1[0m=[33m'[0m[31m\u@\h-$(date "+%H:%M")> [0m[33m'
+export[0m [36mPROMPT_COMMAND[0m=[33m'[0m[31mhistory -a[0m[33m'[0m[61;35H[K[66;1H[1m[34m~                                                                                                       [0m[67;87H[K[67;87H118,35[8CBot[61;35H[34h[?25h[?25l[60;20H[31m[46m([13C)[0m[67;89H7[60;35H[34h[?25h[?25l[67;92H4[60;34H[34h[?25h[?25l[60;20H[31m([13C)[0m[67;92H3[60;33H[34h[?25h[?25l[67;92H2[60;32H[34h[?25h[?25l[67;92H1[60;31H[34h[?25h[?25l[67;92H0[60;30H[34h[?25h[?25l[67;91H29[60;29H[34h[?25h[?25l[67;92H8[60;28H[34h[?25h[?25l[67;92H7[60;27H[34h[?25h[?25l[67;92H6[60;26H[34h[?25h[?25l[67;92H5[60;25H[34h[?25h[?25l[67;92H4[60;24H[34h[?25h[?25l[67;92H3[60;23H[34h[?25h[?25l[67;92H2[60;22H[34h[?25h[?25l[31m[46m([13C)[0m[67;92H1[60;21H[34h[?25h[?25l[67;92H0[60;20H[34h[?25h[?25l[31m([13C)[0m[67;91H19[60;19H[34h[?25h[?25l[67;92H8[60;18H[34h[?25h[?25l[67;92H7[60;17H[34h[?25h[?25l[67;92H6[60;16H[34h[?25h[?25l[67;92H5[60;15H[34h[?25h[?25l[31m@\h-$(date "+%H:%M")> [0m[33m'[0m[60;37H[K[67;92H4[60;14H[34h[?25h[?25l[31m@\h-$(date "+%H:%M")> [0m[33m'[0m[60;36H[K[67;92H3[60;13H[34h[?25h[?25l[31me@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H4[60;14H[34h[?25h[?25l[31ml@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H5[60;15H[34h[?25h[?25l[31mt@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H6[60;16H[34h[?25h[?25l[31me@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H7[60;17H[34h[?25h[?25l[31mx@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H8[60;18H[34h[?25h[?25l[31m-@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H9[60;19H[34h[?25h[?25l[31mp@\h-$(date "+%H:%M")> [0m[33m'[0m[67;91H20[60;20H[34h[?25h[?25l[31mg@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H1[60;21H[34h[?25h[?25l[31m1@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H2[60;22H[34h[?25h[?25l[31m-@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H3[60;23H[34h[?25h[?25l[31mv@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H4[60;24H[34h[?25h[?25l[31m2@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H5[60;25H[34h[?25h[?25l[31m6@\h-$(date "+%H:%M")> [0m[33m'[0m[67;92H6[60;26H[34h[?25h[?25l[67;89H8[61;26H[34h[?25h[?25l[67;89H7[60;26H[34h[?25h[?25l[67;92H7[60;27H[34h[?25h[?25l[67;92H8[60;28H[34h[?25h[?25l[67;92H9[60;29H[34h[?25h[?25l[31m-$(date "+%H:%M")> [0m[33m'[0m[60;48H[K[67;92H8[60;28H[34h[?25h[?25l[31me-$(date "+%H:%M")> [0m[33m'[0m[67;92H9[60;29H[34h[?25h[?25l[31ml-$(date "+%H:%M")> [0m[33m'[0m[67;91H30[60;30H[34h[?25h[?25l[31mt-$(date "+%H:%M")> [0m[33m'[0m[67;92H1[60;31H[34h[?25h[?25l[31me-$(date "+%H:%M")> [0m[33m'[0m[67;92H2[60;32H[34h[?25h[?25l[34m^Z[0m[31m-$(date "+%H:%M")> [0m[33m'[0m[67;92H3-34[60;34H[34h[?25h[?25l[31m-$(date "+%H:%M")> [0m[33m'[0m[60;52H[K[67;92H2   [60;32H[34h[?25h[?25l[31m-$(date "+%H:%M")> [0m[33m'[0m[60;51H[K[67;92H1[60;31H[34h[?25h[?25l[31m-$(date "+%H:%M")> [0m[33m'[0m[60;50H[K[67;92H0[60;30H[34h[?25h[?25l[31m-$(date "+%H:%M")> [0m[33m'[0m[60;49H[K[67;91H29[60;29H[34h[?25h[?25l[31m-$(date "+%H:%M")> [0m[33m'[0m[60;48H[K[67;92H8[60;28H[34h[?25h[?25l[31m-$(date "+%H:%M")> [0m[33m'[0m[60;47H[K[67;92H7[60;27H[34h[?25h[?25l[31me-$(date "+%H:%M")> [0m[33m'[0m[67;92H8[60;28H[34h[?25h[?25l[31ml-$(date "+%H:%M")> [0m[33m'[0m[67;92H9[60;29H[34h[?25h[?25l[31mt-$(date "+%H:%M")> [0m[33m'[0m[67;91H30[60;30H[34h[?25h[?25l[31me-$(date "+%H:%M")> [0m[33m'[0m[67;92H1[60;31H[34h[?25h[?25l[31mx-$(date "+%H:%M")> [0m[33m'[0m[67;92H2[60;32H[34h[?25h[?25l[1C[31m-$(date "+%H:%M")> [0m[33m'[0m[67;92H3[60;33H[34h[?25h[?25l[31ms-$(date "+%H:%M")> [0m[33m'[0m[67;92H4[60;34H[34h[?25h[?25l[31mu-$(date "+%H:%M")> [0m[33m'[0m[67;92H5[60;35H[34h[?25h[?25l[31mm-$(date "+%H:%M")> [0m[33m'[0m[67;92H6[60;36H[34h[?25h[?25l[31mm-$(date "+%H:%M")> [0m[33m'[0m[67;92H7[60;37H[34h[?25h[?25l[31me-$(date "+%H:%M")> [0m[33m'[0m[67;92H8[60;38H[34h[?25h[?25l[31mr-$(date "+%H:%M")> [0m[33m'[0m[67;92H9[60;39H[34h[?25h[67;1H[K[60;38H[?25l[67;77H^[[60;38H[67;77H  [60;39H[67;87H117,38[8CBot[60;38H[34h[?25h[?25l[67;77H^[[60;38H[67;77H  [60;38H[67;77H^[[60;38H[67;77H  [60;38H[34h[?25h[?25l[67;77H:[60;38H[67;77H[K[67;1H:[?1000l[34h[?25hwq[?1000h[?25l[?1000l".bashrc" 118L, 3666B written
+[?1l>[?1049l[34h[?25h[?2004heltex-pg1-v26@eltex-2025-summer:~$ vi .bashrc
+[?2004l[?1000h[?1049h[?1h=[1;67r[23m[24m[0m[H[J[?25l[67;1H".bashrc" 118L, 3666B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[1;9H[36mcolor_prompt[0m=yes
+    [33melse[0m[2;9H[K[3;1H        [36mcolor_prompt[0m=[3;22H[K[4;5H[33mfi
+fi
+
+if [[0m [33m"[0m[35m$color_prompt[0m[33m"[0m [33m=[0m [31myes[0m [33m];[0m [33mthen[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\\[9;1H]\$ [0m[33m'
+else[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\u@\h:\w\$ [0m[33m'
+fi
+unset[0m[36m color_prompt force_color_prompt[0m
+
+[34m# If this is an xterm set the title to user@host:dir[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m
+xterm*|rxvt*[33m)[0m
+    [35mPS1[0m[33m="[0m[35m\[\e[0m[31m]0;[0m[35m${debian_chroot[0m[33m:+[0m([35m$debian_chroot[0m)[35m}[0m[35m\u[0m[31m@[0m[35m\h[0m[31m: [0m[35m\w\a\][0m[35m$PS1[0m[33m"
+[0m    [33m;;[0m
+*[33m)
+[0m    [33m;;
+esac[0m
+
+[34m# enable color support of ls and also add handy aliases[0m
+[33mif [[0m [33m-x[0m /usr/bin/dircolors [33m];[0m [33mthen
+[0m    [33mtest[0m [33m-r[0m ~/.dircolors [33m&&[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b ~/.dircolors[0m[35m)[0m[33m"[0m [33m||[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b[0m[35m)[0m[33m"
+[0m    [33malias [0m[36mls[0m[33m='[0m[31mls --color=auto[0m[33m'[0m
+    [34m#alias dir='dir --color=auto'
+[0m    [34m#alias vdir='vdir --color=auto'[31;5H#alias grep='grep --color=auto'
+[0m    [34m#alias fgrep='fgrep --color=auto'
+[0m    [34m#alias egrep='egrep --color=auto'[0m
+[33mfi[0m
+
+[34m# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+#alias ll='ls -l'
+#alias la='ls -A'
+#alias l='ls -CF'
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.[0m
+
+[33mif [[0m [33m-f[0m ~/.bash_aliases [33m];[0m [33mthen
+[0m   [33m . [0m~/.bash_aliases
+[33mfi[0m
+
+[34m# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).[0m
+[33mif ![0m [33mshopt[0m [35m-oq[0m posix[33m;[0m [33mthen
+[0m  [33mif [[0m [33m-f[0m /usr/share/bash-completion/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/usr/share/bash-completion/bash_completion
+  [33melif[0m [33m[[0m [33m-f[0m /etc/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/etc/bash_completion
+  [33mfi
+fi
+
+export[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'
+export[0m [36mPS1[0m=[33m'[0m[31meltex-pg1-v26@eltex-summer-$(date "+%H:%M")> [0m[33m'
+export[0m [36mPROMPT_COMMAND[0m=[33m'[0m[31mhistory -a[0m[33m'[0m[67;87H117,38[8CBot[65;38H[34h[?25h[?25l[67;77H~@k[65;38H[67;77H   [65;37H[67;92H7[65;37H[34h[?25h[?25l[67;77H~@k[65;37H[67;77H   [66;34H[67;89H8,34[66;34H[34h[?25h[?25l[67;77H~@k[66;34H[67;77H   [66;33H[67;92H3[66;33H[34h[?25h[?25l[67;77H~@k[66;33H[67;77H   [65;33H[67;89H7[65;33H[34h[?25h[?25l[67;77H-[65;33H[67;77H [64;1H[67;89H6,1 [64;1H[34h[?25h[?25l[67;77H~@k[64;1H[67;77H   [65;1H[67;89H7[65;1H[34h[?25h[?25l[67;77H~@k[65;1H[67;77H   [65;2H[67;91H2[65;2H[34h[?25h[?25l[67;77H~@k[65;2H[67;77H   [65;3H[67;91H3[65;3H[34h[?25h[?25l[67;77H~@k[65;3H[67;77H   [65;4H[67;91H4[65;4H[34h[?25h[?25l[67;77H~@k[65;4H[67;77H   [65;5H[67;91H5[65;5H[34h[?25h[?25l[67;77H~@k[65;5H[67;77H   [65;6H[67;91H6[65;6H[34h[?25h[?25l[67;77H~@k[65;6H[67;77H   [65;7H[67;91H7[65;7H[34h[?25h[?25l[67;77H~@k[65;7H[67;77H   [65;8H[67;91H8[65;8H[34h[?25h[?25l[67;77H~@k[65;8H[67;77H   [65;9H[67;91H9[65;9H[34h[?25h[?25l[67;77H~@k[65;9H[67;77H   [65;10H[67;91H10[65;10H[34h[?25h[?25l[67;77H~@k[65;10H[67;77H   [65;11H[67;92H1[65;11H[34h[?25h[?25l[67;77H~@k[65;11H[67;77H   [65;12H[67;92H2[65;12H[34h[?25h[?25l[67;77H~@k[65;12H[67;77H   [65;13H[67;92H3[65;13H[34h[?25h[?25l[67;77H~@k[65;13H[67;77H   [65;14H[67;92H4[65;14H[34h[?25h[?25l[67;77H~@k[65;14H[67;77H   [65;15H[67;92H5[65;15H[34h[?25h[?25l[67;77H~@k[65;15H[67;77H   [65;16H[67;92H6[65;16H[34h[?25h[?25l[67;77H~@k[65;16H[67;77H   [65;17H[67;92H7[65;17H[34h[?25h[?25l[67;77H~@k[65;17H[67;77H   [65;18H[67;92H8[65;18H[34h[?25h[?25l[67;77H~@k[65;18H[67;77H   [65;19H[67;92H9[65;19H[34h[?25h[?25l[67;77H~@k[65;19H[67;77H   [65;20H[67;91H20[65;20H[34h[?25h[?25l[67;77H~@k[65;20H[67;77H   [65;21H[67;92H1[65;21H[34h[?25h[?25l[67;77H~@k[65;21H[67;77H   [65;22H[67;92H2[65;22H[34h[?25h[?25l[67;77H~@k[65;22H[67;77H   [65;23H[67;92H3[65;23H[34h[?25h[?25l[67;77H~@k[65;23H[67;77H   [65;24H[67;92H4[65;24H[34h[?25h[?25l[67;77H~@k[65;24H[67;77H   [65;25H[67;92H5[65;25H[34h[?25h[?25l[67;77H~@k[65;25H[67;77H   [65;26H[67;92H6[65;26H[34h[?25h[?25l[67;77H~@k[65;26H[67;77H   [65;27H[67;92H7[65;27H[34h[?25h[?25l[67;77H~@k[65;27H[67;77H   [65;28H[67;92H8[65;28H[34h[?25h[?25l[67;77H~@k[65;28H[67;77H   [65;29H[67;92H9[65;29H[34h[?25h[?25l[67;77H~@k[65;29H[67;77H   [65;30H[67;91H30[65;30H[34h[?25h[?25l[67;77H~@k[65;30H[67;77H   [65;31H[67;92H1[65;31H[34h[?25h[?25l[67;77H~@k[65;31H[67;77H   [65;32H[67;92H2[65;32H[34h[?25h[?25l[67;77H~@k[65;32H[67;77H   [65;33H[67;92H3[65;33H[34h[?25h[?25l[67;77H~@k[65;33H[67;77H   [65;34H[67;92H4[65;34H[34h[?25h[?25l[67;77H~@k[65;34H[67;77H   [65;35H[67;92H5[65;35H[34h[?25h[?25l[67;77H~@k[65;35H[67;77H   [65;36H[67;92H6[65;36H[34h[?25h[?25l[67;77H~@k[65;36H[67;77H   [65;37H[67;92H7[65;37H[34h[?25h[?25l[67;77H~@k[65;37H[67;77H   [65;36H[67;92H6[65;36H[34h[?25h[?25l[67;77H~@k[65;36H[67;77H   [65;35H[67;92H5[65;35H[34h[?25h[?25l[67;77H~@k[65;35H[67;77H   [65;34H[67;92H4[65;34H[34h[?25h[?25l[67;77H~@k[65;34H[67;77H   [65;33H[67;92H3[65;33H[34h[?25h[?25l[67;77Hi[65;33H[67;77H [65;33H
+
+[1m-- INSERT --[0m[67;13H[K[67;87H117,33[8CBot[65;33H[34h[?25h[?25l[31m2summer-$(date "+%H:%M")> [0m[33m'[0m[67;92H4[65;34H[34h[?25h[?25l[31m0summer-$(date "+%H:%M")> [0m[33m'[0m[67;92H5[65;35H[34h[?25h[?25l[31m2summer-$(date "+%H:%M")> [0m[33m'[0m[67;92H6[65;36H[34h[?25h[?25l[31m5summer-$(date "+%H:%M")> [0m[33m'[0m[67;92H7[65;37H[34h[?25h[?25l[31m-summer-$(date "+%H:%M")> [0m[33m'[0m[67;92H8[65;38H[34h[?25h[67;1H[K[65;37H[?25l[67;77H^[[65;37H[67;77H  [65;38H[67;87H117,37[8CBot[65;37H[34h[?25h[?25l[67;77H^[[65;37H[67;77H  [65;37H[67;77H^[[65;37H[67;77H  [65;37H[34h[?25h[?25l[67;77H:[65;37H[67;77H[K[67;1H:[?1000l[34h[?25hwq[?1000h[?25l[?1000l".bashrc" 118L, 3671B written
+[?1l>[?1049l[34h[?25h[?2004heltex-pg1-v26@eltex-2025-summer:~$ 
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ 
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer:~$ ^[[200~export PS1='\u@\h-$(date "+%H:%M")> '~^C[?2004l[?2004h[?2004l
+[?2004heltex-pg1-v26@eltex-2025-summer:~$ [3mexport PS1='\u@\h-$(date "+%H:%M")> '[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexport PS1='\u@\h-$(date "+%H:%M")> '
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:28> 
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:28> bash
+[?2004l[?2004heltex-pg1-v26@eltex-2025-summer-19:28> echo "[KУРА ПОЕ[KБЕДА 
+[?2004lУРА ПОБЕДА
+[?2004heltex-pg1-v26@eltex-2025-summer-19:28> ыс=[K[K[K:[Kecho УРА ПОБЕДА xport PS1='\u@\h-$(date "+%H:%M")> 'vi .bashrc[K
+[?2004l[?1000h[?1049h[?1h=[1;67r[23m[24m[0m[H[J[?25l[67;1H".bashrc" 118L, 3671B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[1;1H[34m# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)[0m[2;75H[K[3;1H[34m# for examples[0m[3;15H[K[5;1H[34m# If not running interactively, don't do anything[0m
+[33mcase[0m [35m$-[0m [33min[0m
+    *i*[33m)[0m [33m;;[0m[8;7H*[33m)[0m [33mreturn;;
+esac[0m
+
+[34m# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options[0m
+[36mHISTCONTROL[0m=ignoreboth
+
+
+[34m# append to the history file, don't overwrite it[0m
+[33mshopt[0m [35m-s[0m histappend
+
+[34m# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)[0m
+[36mHISTSIZE[0m=[31m1000[0m
+[36mHISTFILESIZE[0m=[31m2000[0m
+
+[34m# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.[0m
+[33mshopt[0m [35m-s[0m checkwinsize
+
+[34m# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
+# make less more friendly for non-text input files, see lesspipe(1)
+#[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)[0m
+[33mif [[0m [33m-z[0m [33m"[0m[35m${debian_chroot[0m[33m:-[0m[35m}[0m[33m"[0m [33m][0m [33m&&[0m [33m[[0m [33m-r[0m /etc/debian_chroot [33m];[0m [33mthen[0m
+    [36mdebian_chroot[0m=[35m$([0m[35mcat /etc/debian_chroot[0m[35m)[0m
+[33mfi[0m
+
+[34m# set a fancy prompt (non-color, unless we know we "want" color)[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m
+    xterm-color|*-256color[33m)[0m [36mcolor_prompt[0m=yes[33m;;
+esac[0m
+
+[34m# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window
+# should be on the output of commands, not on the prompt
+#force_color_prompt=yes[0m
+
+[33mif [[0m [33m-n[0m [33m"[0m[35m$force_color_prompt[0m[33m"[0m [33m];[0m [33mthen
+[0m    [33mif [[0m [33m-x[0m /usr/bin/tput [33m][0m [33m&&[0m tput setaf [31m1[0m [33m>&[0m/dev/null[33m;[0m [33mthen[0m[51;9H[34m# We have color support; assume it's compliant with Ecma-48[52;9H# (ISO/IEC-6429). (Lack of such support is extremely rare, and such[53;9H# a case would tend to support setf rather than setaf.)[0m[54;9H[36mcolor_prompt[0m=yes
+    [33melse[0m[56;9H[36mcolor_prompt[0m=
+    [33mfi
+fi
+
+if [[0m [33m"[0m[35m$color_prompt[0m[33m"[0m [33m=[0m [31myes[0m [33m];[0m [33mthen[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\\[62;1H]\$ [0m[33m'
+else[0m
+    [35mPS1[0m[33m='[0m[31m${debian_chroot:+($debian_chroot)}\u@\h:\w\$ [0m[33m'
+fi
+unset[0m[36m color_prompt force_color_prompt[0m[67;87H1,1[11CTop[1;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[65;1H[34m# If this is an xterm set the title to user@host:dir[0m
+[33mcase[0m [33m"[0m[35m$TERM[0m[33m"[0m [33min[0m[67;1H[K[67;87H9,1[12C5%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1Hxterm*|rxvt*[33m)[0m
+    [35mPS1[0m[33m="[0m[35m\[\e[0m[31m]0;[0m[35m${debian_chroot[0m[33m:+[0m([35m$debian_chroot[0m)[35m}[0m[35m\u[0m[31m@[0m[35m\h[0m[31m: [0m[35m\w\a\][0m[35m$PS1[0m[33m"
+[0m    [33m;;[0m[67;87H[K[67;87H12,1[10C11%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H*[33m)
+[0m    [33m;;
+esac[0m[67;87H[K[67;87H15,0-1[8C16%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[65;1H[34m# enable color support of ls and also add handy aliases[0m
+[33mif [[0m [33m-x[0m /usr/bin/dircolors [33m];[0m [33mthen[0m[67;87H[K[67;87H18,0-1[8C22%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;5H[33mtest[0m [33m-r[0m ~/.dircolors [33m&&[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b ~/.dircolors[0m[35m)[0m[33m"[0m [33m||[0m [33meval[0m [33m"[0m[35m$([0m[35mdircolors -b[0m[35m)[0m[33m"
+[0m    [33malias [0m[36mls[0m[33m='[0m[31mls --color=auto[0m[33m'[0m
+    [34m#alias dir='dir --color=auto'[0m[67;87H[K[67;87H21,1[10C28%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;5H[34m#alias vdir='vdir --color=auto'[66;5H#alias grep='grep --color=auto'[0m[67;87H[K[67;87H24,1[10C33%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;5H[34m#alias fgrep='fgrep --color=auto'
+[0m    [34m#alias egrep='egrep --color=auto'[0m
+[33mfi[0m[67;87H[K[67;87H27,1[10C39%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[65;1H[34m# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'[0m[67;87H[K[67;87H30,0-1[8C45%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[65;1H[34m# some more ls aliases
+#alias ll='ls -l'[0m[67;87H[K[67;87H33,0-1[8C50%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[34m#alias la='ls -A'
+#alias l='ls -CF'[0m[67;87H[K[67;87H36,1[10C56%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[34m# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.[0m[67;87H[K[67;87H39,1[10C62%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[34m# See /usr/share/doc/bash-doc/examples in the bash-doc package.[0m
+
+[33mif [[0m [33m-f[0m ~/.bash_aliases [33m];[0m [33mthen[0m[67;87H[K[67;87H42,1[10C67%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;4H[33m . [0m~/.bash_aliases
+[33mfi[0m[67;87H[K[67;87H45,1[10C73%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[34m# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).[0m[67;87H[K[67;87H48,0-1[8C79%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[33mif ![0m [33mshopt[0m [35m-oq[0m posix[33m;[0m [33mthen
+[0m  [33mif [[0m [33m-f[0m /usr/share/bash-completion/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/usr/share/bash-completion/bash_completion[67;87H[K[67;87H51,1-8[8C84%[6;8H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;3H[33melif[0m [33m[[0m [33m-f[0m /etc/bash_completion [33m];[0m [33mthen
+[0m   [33m . [0m/etc/bash_completion
+  [33mfi[0m[67;87H[K[67;87H54,1-8[8C90%[6;8H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[33mfi
+
+export[0m [36mHISTTIMEFORMAT[0m=[33m'[0m[31m%d.%m.%Y %H:%M:%S  [0m[33m'[0m[67;87H[K[67;87H57,1[10C96%[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[33mexport[0m [36mPS1[0m=[33m'[0m[31meltex-pg1-v26@eltex-2025-summer-$(date "+%H:%M")> [0m[33m'
+export[0m [36mPROMPT_COMMAND[0m=[33m'[0m[31mhistory -a[0m[33m'[0m
+[1m[34m~                                                                                                       [0m[67;87H[K[67;87H60,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H62,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H65,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[4M[1;67r[63;1H[1m[34m~                                                                                                       [64;1H~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H69,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H72,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H75,0-1[8CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H78,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H81,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H84,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H87,0-1[8CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H90,0-1[8CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H93,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H96,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H99,1[10CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H102,1[9CBot[6;1H[34h[?25h[?25l[1;66r[1;1H[3M[1;67r[64;1H[1m[34m~                                                                                                       [65;1H~                                                                                                       [66;1H~                                                                                                       [0m[67;87H[K[67;87H105,1[9CBot[6;1H[34h[?25h[?25l[67;77H:[6;1H[67;77H[K[67;1H:[?1000l[34h[?25hwq[?1000h[?25l[?1000l".bashrc" 118L, 3671B written
+[?1l>[?1049l[34h[?25h[?2004heltex-pg1-v26@eltex-2025-summer-19:44> echo вот так то лучше
+[?2004lвот так то лучше
+[?2004heltex-pg1-v26@eltex-2025-summer-19:44> ср[K[Kурс[K[K[Kechp [K[Ko в bash.[Ke[Krc добавили [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kйй[K[K�[K
