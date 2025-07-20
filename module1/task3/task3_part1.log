@@ -1,0 +1,107 @@
+Начало лога
+--------------------------------------------------------------------------------------------------------
+eltex-pg1-v26@eltex-2025-summer-14:39> ssh root@172.16.9.200
+Welcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.8.0-55-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Sun Jul 20 07:39:18 AM UTC 2025
+
+  System load:  0.08               Processes:              112
+  Usage of /:   42.2% of 14.66GB   Users logged in:        0
+  Memory usage: 12%                IPv4 address for ens18: 172.16.9.200
+  Swap usage:   0%
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+0 updates can be applied immediately.
+
+2 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+Скрипко Дмитрий
+Sat Jul 19 06:14:42 AM UTC 2025
+Sat Jul 19 06:26:02 AM UTC 2025
+Last login: Sat Jul 19 17:40:16 2025 from 172.16.8.4
+root@eltex-practice2-pg1-v26:~# su - user1
+user1@eltex-practice2-pg1-v26:~$ ps -eLf | awk '$6 > 1 {count++} END {print count}'
+46
+
+
+/* "f" - меню настройки полей; "d" - убрать столбец; С помощью стрелок перемещаемся и перемещаем столбцы */
+
+
+top - 08:04:41 up 9 days,  5:43,  3 users,  load average: 0.00, 0.00, 0.00
+Tasks: 115 total,   1 running, 114 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3916.0 total,   1430.2 free,    561.0 used,   2216.7 buff/cache
+MiB Swap:   3185.0 total,   3184.5 free,      0.5 used.   3355.0 avail Mem
+
+    PID USER     RUSER     PR  NI S  %CPU  %MEM     TIME+ COMMAND
+  90559 user1    user1     20   0 S   0.0   0.1   0:00.01 bash
+  90602 user1    user1     20   0 R   0.0   0.2   0:00.17 top
+  69680 systemd+ systemd+  20   0 S   0.0   0.2   0:00.17 systemd-timesyn
+  70188 systemd+ systemd+  20   0 S   0.0   0.3   0:00.11 systemd-resolve
+  66706 systemd+ systemd+  20   0 S   0.0   0.2   0:01.32 systemd-network
+  68987 syslog   syslog    20   0 S   0.0   0.1   0:00.06 rsyslogd
+      1 root     root      20   0 S   0.0   0.3   0:18.40 systemd
+
+add filter #1 (ignoring case) as: [!]FLD?VAL COMMAND=passwd
+
+top - 08:27:04 up 9 days,  6:06,  4 users,  load average: 0.00, 0.00, 0.00
+Tasks: 119 total,   1 running, 118 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.0 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3916.0 total,   1420.6 free,    570.6 used,   2216.8 buff/cache
+MiB Swap:   3185.0 total,   3184.5 free,      0.5 used.   3345.4 avail Mem
+
+    PID USER      RUID  PR  NI S  %CPU  %MEM     TIME+ COMMAND
+  90706 root      1001  20   0 S   0.0   0.1   0:00.00 passwd
+
+PID to signal/kill [default pid = 90706]
+Send pid 90706 signal [15/sigterm] 15
+Send pid 90706 signal [15/sigterm] 2
+Send pid 90706 signal [15/sigterm] 3
+Send pid 90706 signal [15/sigterm] 9 /* после этого процесс исчез */
+
+user1@eltex-practice2-pg1-v26:~$ passwd
+Changing password for user1.
+Current password: Killed
+user1@eltex-practice2-pg1-v26:~$ vim ~/file_task3.txt
+
+[1]+  Stopped                 vim ~/file_task3.txt
+user1@eltex-practice2-pg1-v26:~$ sleep 600
+^Z
+[2]+  Stopped                 sleep 600
+user1@eltex-practice2-pg1-v26:~$ jobs
+[1]-  Stopped                 vim ~/file_task3.txt
+[2]+  Stopped                 sleep 600
+user1@eltex-practice2-pg1-v26:~$ bg %2
+[2]+ sleep 600 &
+user1@eltex-practice2-pg1-v26:~$ jobs
+[1]+  Stopped                 vim ~/file_task3.txt
+[2]-  Running                 sleep 600 &
+user1@eltex-practice2-pg1-v26:~$ renice -n 10 -p $(pgrep sleep)
+91826 (process ID) old priority 0, new priority 10
+user1@eltex-practice2-pg1-v26:~$ ps -l -p $(pgrep sleep)
+F S   UID     PID    PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+0 S  1001   91826   91814  0  90  10 -  1421 do_sys pts/2    00:00:00 sleep
+user1@eltex-practice2-pg1-v26:~$ fg %1 /* :q! */
+vim ~/file_task3.txt<F2>
+user1@eltex-practice2-pg1-v26:~$ kill -15 $(pgrep sleep)
+user1@eltex-practice2-pg1-v26:~$ jobs
+[2]+  Terminated              sleep 600
+user1@eltex-practice2-pg1-v26:~$ trap 'echo "Меня голыми руками не возьмёшь!"' SIGINT SIGQUIT
+user1@eltex-practice2-pg1-v26:~$ kill -2 $$
+Меня голыми руками не возьмёшь!
+user1@eltex-practice2-pg1-v26:~$ kill -3 $$
+Меня голыми руками не возьмёшь!
+--------------------------------------------------------------------------------------------------------Конец лога
